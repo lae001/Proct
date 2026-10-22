@@ -7,16 +7,16 @@ prepare:
 
 augment:
   copies: 1           # сколько аугментированных копий создать для каждого изображения
-  rotation: 12        # максимальный угол поворота, градусы
-  shift: 2            # максимальный сдвиг, пиксели
-  zoom: 0.1           # максимальное относительное масштабирование
+  rotation: 0         # максимальный угол поворота, градусы
+  shift: 0            # максимальный сдвиг, пиксели
+  zoom: 0             # максимальное относительное масштабирование
   flip: true          # горизонтальное отражение (с вероятностью 0.5)
-  noise: 0.04         # СКО гауссова шума (яркость пикселей в [0, 1])
+  noise: 0            # СКО гауссова шума (яркость пикселей в [0, 1])
   seed: 42
 
 train:
-  dataset: original   # original | augmented
-  model: logreg       # logreg | random_forest | mlp | svm
+  dataset: augmented  # original | augmented
+  model: random_forest # logreg | random_forest | mlp | svm
   seed: 42
   logreg:
     C: 0.1
