@@ -11,7 +11,7 @@ Sandal,Sandal
 Sneaker,Sneaker
 Coat,Coat
 Sandal,Sandal
-Sneaker,Bag
+Sneaker,Sneaker
 Dress,Dress
 Coat,Coat
 Trouser,Trouser
@@ -19,12 +19,12 @@ Pullover,Pullover
 Coat,Shirt
 Bag,Bag
 T-shirt/top,T-shirt/top
-Pullover,T-shirt/top
+Pullover,Shirt
 Sandal,Sneaker
 Sneaker,Sneaker
 Ankle boot,Sneaker
 Trouser,Trouser
-Coat,Pullover
+Coat,Shirt
 Shirt,Shirt
 T-shirt/top,T-shirt/top
 Ankle boot,Ankle boot
@@ -41,15 +41,15 @@ Sneaker,Sneaker
 Ankle boot,Ankle boot
 Shirt,T-shirt/top
 Trouser,Trouser
-Dress,Shirt
-Sneaker,Ankle boot
+Dress,Coat
+Sneaker,Sneaker
 Shirt,Shirt
 Sneaker,Sneaker
-Pullover,Pullover
+Pullover,Shirt
 Trouser,Trouser
 Pullover,Pullover
 Pullover,Shirt
-Coat,Shirt
+Coat,Coat
 Coat,Pullover
 Sandal,Sandal
 Bag,Shirt
@@ -71,7 +71,7 @@ Ankle boot,Sneaker
 Bag,Bag
 Sneaker,Sneaker
 T-shirt/top,T-shirt/top
-Pullover,T-shirt/top
+Pullover,Shirt
 Shirt,Shirt
 Pullover,Pullover
 Dress,Dress
@@ -97,16 +97,16 @@ Trouser,Trouser
 Bag,Bag
 T-shirt/top,T-shirt/top
 Trouser,Trouser
-Coat,Coat
+Coat,Shirt
 Pullover,Pullover
 Dress,Dress
 Shirt,Shirt
 Sneaker,Sneaker
 Pullover,Shirt
 Sneaker,Sneaker
-Bag,Bag
+Bag,Ankle boot
 Sandal,Sandal
-Ankle boot,Sneaker
+Ankle boot,Ankle boot
 Ankle boot,Ankle boot
 Coat,Coat
 Pullover,Pullover
@@ -116,12 +116,12 @@ T-shirt/top,T-shirt/top
 Sandal,Sandal
 Pullover,Pullover
 Bag,Bag
-Shirt,Coat
+Shirt,Dress
 Sneaker,Sneaker
 Bag,Bag
 T-shirt/top,T-shirt/top
 T-shirt/top,T-shirt/top
-Ankle boot,Ankle boot
+Ankle boot,Sandal
 Ankle boot,Ankle boot
 Dress,Dress
 T-shirt/top,T-shirt/top
@@ -133,7 +133,7 @@ Coat,Coat
 Trouser,Trouser
 Ankle boot,Ankle boot
 Trouser,Trouser
-Bag,Shirt
+Bag,Bag
 Shirt,Coat
 Pullover,Pullover
 Trouser,Trouser
@@ -154,22 +154,22 @@ Coat,Pullover
 Trouser,Trouser
 Coat,Dress
 Sandal,Sandal
+T-shirt/top,T-shirt/top
+Coat,Coat
+Sneaker,Sneaker
+Ankle boot,Ankle boot
+Dress,Dress
+Sneaker,Sneaker
+Pullover,Pullover
+Dress,Dress
+Ankle boot,Ankle boot
+T-shirt/top,T-shirt/top
+Ankle boot,Ankle boot
+Coat,Coat
+Sneaker,Sneaker
+Coat,Coat
+Pullover,Pullover
 T-shirt/top,Shirt
-Coat,Coat
-Sneaker,Sneaker
-Ankle boot,Ankle boot
-Dress,Dress
-Sneaker,Sneaker
-Pullover,Pullover
-Dress,Dress
-Ankle boot,Ankle boot
-T-shirt/top,T-shirt/top
-Ankle boot,Ankle boot
-Coat,Coat
-Sneaker,Sneaker
-Coat,Coat
-Pullover,Pullover
-T-shirt/top,T-shirt/top
 Sandal,Sandal
 Pullover,Coat
 Trouser,Trouser
@@ -220,8 +220,8 @@ Shirt,Pullover
 Sneaker,Sneaker
 Pullover,Coat
 Bag,Bag
-Sandal,Sandal
-Pullover,Shirt
+Sandal,Bag
+Pullover,Dress
 T-shirt/top,T-shirt/top
 Sneaker,Sneaker
 Sneaker,Sneaker
@@ -240,14 +240,14 @@ Trouser,Trouser
 Coat,Coat
 Coat,Pullover
 Sandal,Sandal
-Shirt,Shirt
+Shirt,T-shirt/top
 Ankle boot,Ankle boot
-Pullover,Pullover
+Pullover,Shirt
 Shirt,Pullover
 Bag,Bag
 Shirt,Shirt
 Coat,Coat
-Pullover,Pullover
+Pullover,T-shirt/top
 Pullover,Pullover
 Ankle boot,Ankle boot
 Sneaker,Sneaker
@@ -260,8 +260,8 @@ Sandal,Sandal
 Pullover,Pullover
 Dress,Dress
 T-shirt/top,T-shirt/top
-Coat,Coat
-Bag,Bag
+Coat,Pullover
+Bag,Ankle boot
 T-shirt/top,Shirt
 T-shirt/top,T-shirt/top
 Shirt,Shirt
@@ -270,7 +270,7 @@ Bag,Bag
 Ankle boot,Ankle boot
 Shirt,T-shirt/top
 Trouser,Trouser
-Dress,Shirt
+Dress,T-shirt/top
 T-shirt/top,T-shirt/top
 Pullover,Coat
 Dress,Dress
@@ -292,7 +292,7 @@ Coat,Coat
 Sandal,Sandal
 Ankle boot,Ankle boot
 Sandal,Sandal
-Shirt,Shirt
+Shirt,T-shirt/top
 Sandal,Sandal
 Sandal,Sandal
 Trouser,Trouser
@@ -308,10 +308,10 @@ T-shirt/top,T-shirt/top
 Pullover,Pullover
 Ankle boot,Ankle boot
 Sneaker,Sneaker
-Sneaker,Ankle boot
+Sneaker,Sneaker
 Trouser,Trouser
 Dress,Shirt
-Shirt,T-shirt/top
+Shirt,Sandal
 Coat,Shirt
 Pullover,Pullover
 Coat,Coat
@@ -319,11 +319,11 @@ Ankle boot,Sneaker
 Trouser,Trouser
 Shirt,Shirt
 Coat,Coat
-Bag,Pullover
+Bag,Sandal
 Pullover,Pullover
 Shirt,Shirt
 Sandal,Sandal
-Coat,Shirt
+Coat,Pullover
 Shirt,Pullover
 Sneaker,Sneaker
 Sneaker,Sneaker
@@ -351,7 +351,7 @@ Ankle boot,Ankle boot
 Ankle boot,Ankle boot
 Trouser,Trouser
 Sneaker,Sneaker
-Bag,Shirt
+Bag,Bag
 Dress,Dress
 Shirt,Shirt
 T-shirt/top,T-shirt/top
@@ -360,7 +360,7 @@ Coat,Coat
 Bag,Bag
 T-shirt/top,Shirt
 Trouser,Trouser
-Pullover,Pullover
+Pullover,Shirt
 Pullover,Pullover
 Coat,Coat
 Coat,Coat
@@ -383,12 +383,12 @@ Sandal,Sandal
 T-shirt/top,Shirt
 Pullover,T-shirt/top
 Dress,Dress
-Sandal,Sandal
+Sandal,Ankle boot
 Bag,Bag
 Trouser,Trouser
 Shirt,Shirt
 Pullover,Pullover
-Shirt,Shirt
+Shirt,Pullover
 Shirt,Shirt
 Coat,Coat
 Ankle boot,Ankle boot
@@ -444,7 +444,7 @@ Ankle boot,Ankle boot
 Bag,Bag
 Bag,Bag
 Shirt,Coat
-Sandal,Sandal
+Sandal,Ankle boot
 Dress,Dress
 Trouser,Trouser
 Ankle boot,Ankle boot
@@ -466,7 +466,7 @@ T-shirt/top,T-shirt/top
 T-shirt/top,T-shirt/top
 Dress,Coat
 Dress,Dress
-Bag,Bag
+Bag,Pullover
 Pullover,Pullover
 Bag,Bag
 Ankle boot,Ankle boot
@@ -474,7 +474,7 @@ Coat,Pullover
 T-shirt/top,T-shirt/top
 Sneaker,Sneaker
 Shirt,T-shirt/top
-Coat,Pullover
+Coat,Coat
 Coat,Shirt
 Ankle boot,Sandal
 Pullover,Coat
@@ -482,9 +482,9 @@ Ankle boot,Ankle boot
 Sandal,Sandal
 Ankle boot,Ankle boot
 Dress,Dress
-Sneaker,Ankle boot
+Sneaker,Sandal
 Sandal,Sandal
-Sneaker,Sneaker
+Sneaker,Ankle boot
 Bag,Bag
 Trouser,Trouser
 T-shirt/top,T-shirt/top
@@ -494,7 +494,7 @@ Coat,Coat
 Bag,Bag
 Ankle boot,Ankle boot
 Sneaker,Sneaker
-Ankle boot,Ankle boot
+Ankle boot,Sandal
 Trouser,Trouser
 Pullover,Pullover
 Sneaker,Sneaker
@@ -507,10 +507,10 @@ Trouser,Trouser
 Bag,Bag
 Pullover,Pullover
 Pullover,Pullover
-Pullover,Shirt
 Pullover,Pullover
-Coat,Coat
 Pullover,Pullover
+Coat,Pullover
+Pullover,Coat
 Shirt,Trouser
 Trouser,Trouser
 Ankle boot,Ankle boot
@@ -522,30 +522,30 @@ Trouser,Trouser
 Pullover,Pullover
 Bag,Bag
 Dress,Dress
-Bag,Bag
+Bag,Ankle boot
 Ankle boot,Ankle boot
 Pullover,Pullover
 Coat,Shirt
 Pullover,Shirt
 Bag,Bag
 Bag,Shirt
-Pullover,Pullover
-T-shirt/top,Shirt
+Pullover,Shirt
+T-shirt/top,Sandal
 Sandal,Sandal
 Bag,Bag
 Bag,Bag
 Sandal,Sandal
 Dress,Dress
-Ankle boot,Ankle boot
+Ankle boot,Sneaker
 Coat,Coat
 Dress,Dress
 Coat,Coat
 Coat,Pullover
-Sandal,Sandal
+Sandal,Ankle boot
 Trouser,Trouser
-T-shirt/top,Pullover
+T-shirt/top,Trouser
 Trouser,Trouser
-Pullover,Coat
+Pullover,Pullover
 T-shirt/top,T-shirt/top
 Shirt,Coat
 Ankle boot,Ankle boot
@@ -556,23 +556,23 @@ Trouser,Trouser
 Trouser,Trouser
 Trouser,Trouser
 Ankle boot,Ankle boot
-Dress,Coat
+Dress,Dress
 Coat,Coat
 Sandal,Sandal
 Dress,Dress
-Shirt,Dress
+Shirt,Shirt
 Shirt,Pullover
 Shirt,T-shirt/top
 Coat,Coat
-Shirt,Shirt
+Shirt,T-shirt/top
 T-shirt/top,T-shirt/top
 Sandal,Sandal
 Bag,Bag
-Dress,Pullover
+Dress,T-shirt/top
 Dress,Dress
 Coat,Coat
 Shirt,Shirt
-Sneaker,Sneaker
+Sneaker,Sandal
 Sneaker,Sneaker
 Bag,Bag
 Ankle boot,Ankle boot
@@ -580,7 +580,7 @@ T-shirt/top,Shirt
 Dress,Shirt
 Bag,Bag
 Sneaker,Sneaker
-Shirt,Shirt
+Shirt,T-shirt/top
 Sneaker,Sneaker
 Ankle boot,Ankle boot
 Dress,Dress
@@ -618,10 +618,10 @@ Sneaker,Sneaker
 T-shirt/top,Dress
 Pullover,Pullover
 Dress,Dress
-Bag,Bag
+Bag,Ankle boot
 Pullover,Pullover
 Pullover,Pullover
-Shirt,Shirt
+Shirt,Bag
 Ankle boot,Sneaker
 Dress,Dress
 T-shirt/top,T-shirt/top
@@ -631,12 +631,12 @@ Shirt,Bag
 Pullover,Pullover
 Ankle boot,Ankle boot
 Coat,Coat
-Pullover,Coat
+Pullover,Pullover
 Shirt,Shirt
 Shirt,Coat
 Bag,Trouser
 T-shirt/top,T-shirt/top
-Coat,Dress
+Coat,Coat
 Coat,Coat
 Coat,Pullover
 Sneaker,Sneaker
@@ -668,7 +668,7 @@ Coat,Coat
 Dress,Dress
 Bag,Bag
 Pullover,Pullover
-Bag,T-shirt/top
+Bag,Ankle boot
 Pullover,Shirt
 Sneaker,Sandal
 T-shirt/top,T-shirt/top
@@ -696,12 +696,12 @@ Sandal,Sandal
 Dress,Dress
 Shirt,Shirt
 Shirt,Shirt
-Bag,Shirt
+Bag,Pullover
 Dress,Dress
 Dress,T-shirt/top
 Bag,Bag
 Trouser,Dress
-Coat,Coat
+Coat,Pullover
 T-shirt/top,T-shirt/top
 Ankle boot,Ankle boot
 Sneaker,Sneaker
@@ -724,7 +724,7 @@ Bag,Bag
 Sandal,Sneaker
 Pullover,Pullover
 Shirt,Shirt
-Shirt,Pullover
+Shirt,Coat
 Shirt,Shirt
 Coat,Coat
 Trouser,Trouser
@@ -742,7 +742,7 @@ Dress,Dress
 Dress,Dress
 Bag,Bag
 Trouser,Trouser
-Trouser,Trouser
+Trouser,Pullover
 Bag,Bag
 Sandal,Sandal
 Sneaker,Sneaker
@@ -759,7 +759,7 @@ Ankle boot,Ankle boot
 Sneaker,Sneaker
 Shirt,Shirt
 Trouser,Trouser
-Pullover,T-shirt/top
+Pullover,Dress
 Shirt,Pullover
 Coat,Coat
 Bag,Bag
@@ -778,7 +778,7 @@ Sandal,Sandal
 Ankle boot,Ankle boot
 Trouser,Trouser
 Coat,Coat
-Coat,Pullover
+Coat,Coat
 Ankle boot,Ankle boot
 Pullover,Pullover
 Trouser,Dress
@@ -800,7 +800,7 @@ Bag,Bag
 Coat,Coat
 Pullover,Pullover
 Sneaker,Ankle boot
-Coat,Pullover
+Coat,T-shirt/top
 Bag,Bag
 Dress,Dress
 Pullover,Pullover
@@ -826,7 +826,7 @@ Shirt,Pullover
 Sneaker,Sneaker
 Trouser,Trouser
 Sneaker,Sneaker
-Dress,Pullover
+Dress,Dress
 Sandal,Sandal
 Coat,Coat
 Coat,Shirt
@@ -880,7 +880,7 @@ Coat,Coat
 Dress,Dress
 Sneaker,Sneaker
 Sneaker,Sneaker
-T-shirt/top,Shirt
+T-shirt/top,Sandal
 Bag,Bag
 Ankle boot,Ankle boot
 Ankle boot,Ankle boot
@@ -890,7 +890,7 @@ Dress,Dress
 Coat,Bag
 T-shirt/top,T-shirt/top
 T-shirt/top,T-shirt/top
-Sandal,Sandal
+Sandal,Bag
 Ankle boot,Ankle boot
 Pullover,Pullover
 T-shirt/top,Trouser
@@ -901,7 +901,7 @@ Sandal,Sandal
 Sneaker,Sneaker
 Bag,Bag
 Sneaker,Sneaker
-Sandal,Ankle boot
+Sandal,Sneaker
 Dress,Dress
 Shirt,Shirt
 Coat,Pullover
@@ -929,7 +929,7 @@ T-shirt/top,Shirt
 Sneaker,Sneaker
 Coat,Coat
 Bag,Bag
-T-shirt/top,T-shirt/top
+T-shirt/top,Shirt
 Dress,Dress
 Coat,Coat
 Coat,Coat
@@ -937,14 +937,14 @@ Dress,Dress
 Coat,Shirt
 Ankle boot,Ankle boot
 T-shirt/top,Shirt
-Shirt,T-shirt/top
+Shirt,Pullover
 Coat,Dress
 Ankle boot,Ankle boot
 Trouser,Trouser
 Bag,Bag
 Trouser,Trouser
 Sneaker,Sneaker
-Sandal,Sandal
+Sandal,Ankle boot
 Sandal,Sandal
 Shirt,Shirt
 T-shirt/top,T-shirt/top
@@ -966,12 +966,12 @@ Shirt,Shirt
 Bag,Bag
 T-shirt/top,Shirt
 Shirt,Shirt
-Coat,Coat
+Coat,Dress
 Shirt,Shirt
 Pullover,Pullover
 Ankle boot,Ankle boot
 Shirt,T-shirt/top
-Sneaker,Sneaker
+Sneaker,Sandal
 Sneaker,Sneaker
 Trouser,Trouser
 Coat,Coat
@@ -982,7 +982,7 @@ Dress,T-shirt/top
 Ankle boot,Ankle boot
 Ankle boot,Ankle boot
 Bag,Bag
-Bag,Bag
+Bag,Sandal
 Dress,Pullover
 T-shirt/top,Shirt
 Pullover,Coat
@@ -990,13 +990,13 @@ Coat,Coat
 Shirt,Shirt
 Shirt,Shirt
 Dress,Dress
-Pullover,Bag
+Pullover,Pullover
 Dress,Dress
 Sandal,Sandal
 Coat,Pullover
 Ankle boot,Ankle boot
 Dress,Dress
-Coat,Coat
+Coat,Pullover
 Sneaker,Sneaker
 Sneaker,Sneaker
 T-shirt/top,T-shirt/top
@@ -1007,7 +1007,7 @@ Shirt,Shirt
 T-shirt/top,Coat
 Sandal,Sandal
 Ankle boot,Ankle boot
-Shirt,Shirt
+Shirt,T-shirt/top
 Dress,Dress
 Sneaker,Sneaker
 Sandal,Sandal
@@ -1018,7 +1018,7 @@ Bag,Bag
 Ankle boot,Ankle boot
 Ankle boot,Ankle boot
 Pullover,Pullover
-Sneaker,Sneaker
+Sneaker,Sandal
 Pullover,Pullover
 Pullover,Pullover
 Dress,Dress
@@ -1050,10 +1050,10 @@ Dress,Dress
 Shirt,Shirt
 T-shirt/top,T-shirt/top
 Coat,Coat
-Sandal,Sandal
+Sandal,Sneaker
 T-shirt/top,T-shirt/top
 Coat,Pullover
-Ankle boot,Ankle boot
+Ankle boot,Sneaker
 Coat,Coat
 Shirt,Shirt
 Dress,Dress
@@ -1063,17 +1063,17 @@ T-shirt/top,T-shirt/top
 Pullover,Pullover
 Trouser,Trouser
 Trouser,Trouser
+Coat,Dress
 Coat,Coat
-Coat,Coat
-Bag,Shirt
+Bag,Bag
 Sandal,Sandal
-Ankle boot,Ankle boot
+Ankle boot,Sandal
 T-shirt/top,T-shirt/top
 Trouser,Trouser
 Shirt,Shirt
 Sandal,Sandal
 Trouser,Trouser
-Coat,T-shirt/top
+Coat,Shirt
 Coat,Coat
 Bag,Bag
 Coat,Coat
@@ -1093,18 +1093,18 @@ Sandal,Sandal
 Trouser,Trouser
 Sandal,Sandal
 Sneaker,Sneaker
-Bag,Bag
+Bag,Ankle boot
 Ankle boot,Ankle boot
-Shirt,Shirt
+Shirt,Sandal
 Dress,Dress
-Sandal,Sandal
+Sandal,Ankle boot
 Bag,Bag
 Coat,Coat
 Coat,Shirt
 Dress,Dress
 Bag,Bag
-Coat,Shirt
-Sandal,Sandal
+Coat,Coat
+Sandal,Ankle boot
 Sandal,Sandal
 Shirt,Pullover
 Sneaker,Sneaker
@@ -1123,14 +1123,14 @@ Ankle boot,Ankle boot
 Shirt,Shirt
 Pullover,Pullover
 Sneaker,Sneaker
-T-shirt/top,Shirt
-Coat,Bag
+T-shirt/top,Pullover
+Coat,Pullover
 Bag,Bag
 Pullover,Pullover
 Pullover,Pullover
 Shirt,Shirt
 Shirt,Shirt
-Shirt,Coat
+Shirt,Shirt
 Coat,Coat
 Ankle boot,Ankle boot
 Shirt,Shirt
@@ -1169,7 +1169,7 @@ Coat,Coat
 Shirt,Shirt
 Pullover,Pullover
 T-shirt/top,T-shirt/top
-Sneaker,Sneaker
+Sneaker,Sandal
 Bag,Bag
 Coat,Coat
 Pullover,Pullover
@@ -1197,15 +1197,15 @@ Pullover,Pullover
 Sneaker,Sneaker
 Sneaker,Sneaker
 Shirt,Coat
-Ankle boot,Ankle boot
+Ankle boot,Bag
 Bag,Bag
 Sandal,Sandal
 Trouser,Trouser
 Trouser,Trouser
-T-shirt/top,Dress
+T-shirt/top,T-shirt/top
 Pullover,Pullover
 T-shirt/top,T-shirt/top
-Ankle boot,Ankle boot
+Ankle boot,Bag
 T-shirt/top,T-shirt/top
 Trouser,Trouser
 Ankle boot,Ankle boot
@@ -1234,7 +1234,7 @@ T-shirt/top,Shirt
 Dress,Dress
 Coat,Coat
 Coat,Coat
-Shirt,Shirt
+Shirt,T-shirt/top
 Shirt,T-shirt/top
 Sandal,Sandal
 Pullover,Pullover
@@ -1242,18 +1242,18 @@ Pullover,Pullover
 Sandal,Sandal
 Shirt,Shirt
 Trouser,Trouser
-Coat,Coat
+Coat,Shirt
 Pullover,Pullover
 Sandal,Sandal
 Coat,Coat
-Coat,Dress
+Coat,Coat
 Bag,Bag
 T-shirt/top,Shirt
 Pullover,Pullover
 Coat,Dress
 T-shirt/top,T-shirt/top
 Shirt,Shirt
-Pullover,Coat
+Pullover,Shirt
 Shirt,Shirt
 Bag,Bag
 Dress,Dress
@@ -1261,9 +1261,9 @@ Bag,Bag
 Pullover,Pullover
 T-shirt/top,T-shirt/top
 Coat,Coat
-Coat,Coat
+Coat,Dress
 Bag,Bag
-Bag,Pullover
+Bag,Ankle boot
 Coat,Coat
 Sandal,Sandal
 Pullover,Pullover
@@ -1276,17 +1276,17 @@ T-shirt/top,T-shirt/top
 Ankle boot,Ankle boot
 Trouser,Trouser
 Ankle boot,Ankle boot
-Shirt,T-shirt/top
-Sandal,Sandal
+Shirt,Coat
+Sandal,Bag
 Pullover,Pullover
 Pullover,Coat
 Sneaker,Sneaker
 Dress,Dress
 Bag,Bag
-Sandal,Ankle boot
+Sandal,Sandal
 T-shirt/top,T-shirt/top
-Bag,Bag
-T-shirt/top,Dress
+Bag,Shirt
+T-shirt/top,Sneaker
 Sneaker,Sneaker
 Sandal,Sandal
 Sandal,Sandal
@@ -1316,7 +1316,7 @@ Bag,Bag
 Bag,Bag
 Pullover,Pullover
 Bag,Bag
-Ankle boot,Sneaker
+Ankle boot,Ankle boot
 Coat,Coat
 Trouser,Trouser
 Shirt,Shirt
@@ -1326,27 +1326,27 @@ Sneaker,Sneaker
 Bag,Bag
 Sandal,Sandal
 Dress,Shirt
-Bag,Bag
+Bag,Ankle boot
 Sandal,Sandal
 Coat,Pullover
 Pullover,Pullover
 Bag,Bag
 Ankle boot,Ankle boot
 Bag,Bag
-Coat,Shirt
+Coat,Coat
 Dress,Dress
 Dress,Dress
 Bag,Bag
 Bag,Bag
 Pullover,Dress
 T-shirt/top,T-shirt/top
-Ankle boot,Sneaker
+Ankle boot,Ankle boot
 Coat,Coat
 Coat,Coat
 Bag,Bag
 Trouser,Trouser
 Dress,Dress
-Shirt,Shirt
+Shirt,Pullover
 Trouser,Trouser
 Ankle boot,Ankle boot
 Pullover,Pullover
@@ -1395,10 +1395,10 @@ Trouser,Trouser
 Dress,Dress
 Dress,Dress
 Shirt,Shirt
-Shirt,T-shirt/top
+Shirt,Shirt
 Trouser,Trouser
 Sneaker,Sneaker
-T-shirt/top,Coat
+T-shirt/top,Shirt
 Coat,Coat
 Sneaker,Sneaker
 Trouser,Trouser
@@ -1426,7 +1426,7 @@ Ankle boot,Ankle boot
 Trouser,Trouser
 Pullover,Shirt
 Sneaker,Sneaker
-Bag,Bag
+Bag,Shirt
 T-shirt/top,T-shirt/top
 Trouser,Trouser
 Sneaker,Sneaker
@@ -1437,7 +1437,7 @@ Trouser,Trouser
 Sandal,Sandal
 Sandal,Sandal
 Shirt,Shirt
-Coat,Shirt
+Coat,Coat
 Sandal,Sandal
 Ankle boot,Ankle boot
 Sandal,Sandal
@@ -1481,7 +1481,7 @@ Ankle boot,Ankle boot
 Sneaker,Sneaker
 Sandal,Sandal
 Shirt,Shirt
-Trouser,T-shirt/top
+Trouser,Trouser
 T-shirt/top,Shirt
 Sneaker,Sneaker
 Trouser,Trouser
@@ -1493,15 +1493,15 @@ Shirt,Shirt
 Coat,Coat
 Coat,Coat
 Dress,Dress
-T-shirt/top,T-shirt/top
+T-shirt/top,Shirt
 T-shirt/top,Shirt
 Shirt,Pullover
 Dress,Dress
 Shirt,Shirt
 Trouser,Trouser
 Dress,Dress
-Sandal,Sneaker
-Shirt,Coat
+Sandal,Sandal
+Shirt,Pullover
 Sandal,Sandal
 T-shirt/top,Dress
 Ankle boot,Ankle boot
@@ -1514,7 +1514,7 @@ Sandal,Sandal
 T-shirt/top,T-shirt/top
 Sandal,Sneaker
 Coat,Coat
-Shirt,Shirt
+Shirt,T-shirt/top
 Sneaker,Sneaker
 Trouser,Trouser
 Trouser,Trouser
@@ -1536,7 +1536,7 @@ Pullover,Shirt
 Sneaker,Sneaker
 Trouser,Trouser
 Ankle boot,Ankle boot
-Ankle boot,Ankle boot
+Ankle boot,Shirt
 Pullover,Pullover
 Pullover,Coat
 Sneaker,Sneaker
@@ -1556,7 +1556,7 @@ Sneaker,Sneaker
 Ankle boot,Ankle boot
 Bag,Bag
 Sandal,Sandal
-Bag,Bag
+Bag,Shirt
 Pullover,Pullover
 Shirt,T-shirt/top
 Coat,Coat
@@ -1573,8 +1573,8 @@ Dress,Dress
 Sneaker,Sneaker
 T-shirt/top,T-shirt/top
 Sneaker,Sneaker
-T-shirt/top,T-shirt/top
-Pullover,Pullover
+T-shirt/top,Shirt
+Pullover,Coat
 Pullover,Pullover
 Sandal,Sandal
 Dress,Dress
@@ -1590,8 +1590,8 @@ Coat,Coat
 Pullover,Pullover
 Bag,Bag
 Shirt,Shirt
-Dress,Coat
-Trouser,Dress
+Dress,Pullover
+Trouser,Trouser
 Coat,Coat
 Ankle boot,Ankle boot
 Ankle boot,Ankle boot
@@ -1623,7 +1623,7 @@ Shirt,T-shirt/top
 Dress,Dress
 Coat,Coat
 Dress,Dress
-Pullover,Shirt
+Pullover,Coat
 T-shirt/top,T-shirt/top
 Pullover,Pullover
 Sneaker,Sneaker
@@ -1637,19 +1637,19 @@ Dress,Dress
 Trouser,Trouser
 Sneaker,Sneaker
 Sandal,Sandal
-Bag,Bag
+Bag,Ankle boot
 Bag,Bag
 Pullover,Pullover
 T-shirt/top,T-shirt/top
+Shirt,Sandal
 Shirt,Bag
-Shirt,Coat
 Coat,Pullover
-Shirt,Ankle boot
+Shirt,Sandal
 Sandal,Sandal
 Sneaker,Sneaker
 T-shirt/top,T-shirt/top
 Shirt,Shirt
-Shirt,T-shirt/top
+Shirt,Pullover
 Sneaker,Sneaker
 Sneaker,Sneaker
 Dress,Dress
@@ -1673,8 +1673,8 @@ Coat,Coat
 Coat,Coat
 Trouser,Trouser
 Coat,Coat
-Coat,Shirt
-Bag,Sandal
+Coat,Coat
+Bag,Sneaker
 Coat,Coat
 Sandal,Sandal
 Ankle boot,Ankle boot
@@ -1683,9 +1683,9 @@ Trouser,Trouser
 Trouser,Trouser
 Sneaker,Sneaker
 Pullover,Pullover
-Dress,Coat
+Dress,Pullover
 Sandal,Sandal
-T-shirt/top,Shirt
+T-shirt/top,T-shirt/top
 Dress,Dress
 Ankle boot,Ankle boot
 Sneaker,Sneaker
@@ -1693,7 +1693,7 @@ Sandal,Sandal
 Dress,Dress
 Bag,Bag
 Bag,Bag
-Bag,Bag
+Bag,Ankle boot
 Ankle boot,Ankle boot
 Trouser,Trouser
 Trouser,Trouser
@@ -1704,7 +1704,7 @@ Shirt,Coat
 Dress,Dress
 Coat,Coat
 Ankle boot,Ankle boot
-Ankle boot,Ankle boot
+Ankle boot,Bag
 Shirt,Shirt
 T-shirt/top,T-shirt/top
 Shirt,Shirt
@@ -1713,11 +1713,11 @@ Coat,Coat
 Ankle boot,Ankle boot
 Shirt,T-shirt/top
 Shirt,Shirt
-Trouser,T-shirt/top
+Trouser,Dress
 Bag,Sneaker
 Ankle boot,Ankle boot
 Pullover,Pullover
-Ankle boot,Ankle boot
+Ankle boot,Sneaker
 Coat,Coat
 Bag,Bag
 T-shirt/top,T-shirt/top
@@ -1735,7 +1735,7 @@ Pullover,Coat
 Pullover,Pullover
 Ankle boot,Ankle boot
 Ankle boot,Ankle boot
-T-shirt/top,Dress
+T-shirt/top,T-shirt/top
 Bag,Bag
 Dress,Dress
 Shirt,Shirt
@@ -1755,7 +1755,7 @@ Sneaker,Sneaker
 Coat,Coat
 Shirt,Shirt
 Shirt,Shirt
-Shirt,T-shirt/top
+Shirt,Shirt
 Sandal,Sandal
 Pullover,Pullover
 Coat,Coat
@@ -1768,7 +1768,7 @@ Sneaker,Sneaker
 T-shirt/top,T-shirt/top
 Trouser,Trouser
 Ankle boot,Ankle boot
-Sandal,Sandal
+Sandal,Ankle boot
 Sandal,Sandal
 Shirt,T-shirt/top
 Sneaker,Sneaker
@@ -1780,13 +1780,13 @@ T-shirt/top,T-shirt/top
 Bag,T-shirt/top
 Coat,Coat
 Sneaker,Sneaker
-Ankle boot,Sneaker
+Ankle boot,Sandal
 Bag,Bag
 Pullover,Pullover
 Coat,Coat
 Sneaker,Sandal
 Dress,Dress
-Dress,Pullover
+Dress,T-shirt/top
 Sneaker,Sneaker
 Sneaker,Sneaker
 Sneaker,Sneaker
@@ -1805,10 +1805,10 @@ T-shirt/top,T-shirt/top
 Coat,Pullover
 Ankle boot,Ankle boot
 Ankle boot,Ankle boot
-Bag,Bag
+Bag,Ankle boot
 Dress,Dress
 Sneaker,Sneaker
-T-shirt/top,Dress
+T-shirt/top,T-shirt/top
 Dress,Coat
 Coat,Pullover
 Ankle boot,Ankle boot
@@ -1823,19 +1823,19 @@ Sneaker,Sneaker
 Pullover,Pullover
 Sneaker,Sneaker
 Shirt,Shirt
-Sandal,Ankle boot
+Sandal,Sandal
 Sandal,Sandal
 Dress,Dress
 Sneaker,Sneaker
 Sandal,Sandal
-Sandal,Sandal
+Sandal,Sneaker
 Coat,Coat
 T-shirt/top,T-shirt/top
 Sneaker,Sneaker
-Dress,Trouser
+Dress,Dress
 Dress,Dress
 Pullover,Pullover
-T-shirt/top,T-shirt/top
+T-shirt/top,Shirt
 Pullover,Pullover
 Ankle boot,Ankle boot
 Ankle boot,Ankle boot
@@ -1851,7 +1851,7 @@ Coat,Coat
 Trouser,Trouser
 Bag,Bag
 Pullover,Pullover
-Dress,Shirt
+Dress,Dress
 Sandal,Sandal
 T-shirt/top,T-shirt/top
 Coat,Shirt
@@ -1871,7 +1871,7 @@ Sneaker,Sneaker
 Sneaker,Sneaker
 Trouser,Trouser
 Sandal,Sandal
-Bag,Bag
+Bag,Ankle boot
 Sneaker,Sneaker
 Pullover,Pullover
 Ankle boot,Ankle boot
@@ -1906,10 +1906,10 @@ Trouser,Trouser
 Bag,Bag
 T-shirt/top,T-shirt/top
 Ankle boot,Ankle boot
-Ankle boot,Ankle boot
+Ankle boot,Sandal
 Sneaker,Sneaker
 Shirt,Shirt
-T-shirt/top,Dress
+T-shirt/top,T-shirt/top
 Coat,Coat
 Pullover,Pullover
 Trouser,Trouser
@@ -1926,7 +1926,7 @@ Bag,Bag
 Trouser,Trouser
 Sneaker,Sneaker
 Pullover,Pullover
-Coat,Coat
+Coat,Shirt
 Pullover,Coat
 Pullover,Pullover
 Dress,Shirt
@@ -1937,8 +1937,8 @@ Bag,Bag
 Sandal,Sandal
 Sandal,Sandal
 Sneaker,Ankle boot
-Sneaker,Sneaker
-Shirt,Coat
+Sneaker,Sandal
+Shirt,Pullover
 Shirt,Shirt
 Pullover,Pullover
 Ankle boot,Ankle boot
@@ -1956,8 +1956,8 @@ Sandal,Sneaker
 Ankle boot,Sneaker
 Trouser,Dress
 Sneaker,Sneaker
-Pullover,Coat
-Sandal,Sneaker
+Pullover,Pullover
+Sandal,Sandal
 Sneaker,Sneaker
 Ankle boot,Ankle boot
 Bag,Bag
@@ -1967,14 +1967,14 @@ Pullover,Coat
 Bag,Bag
 Dress,Dress
 Pullover,Pullover
-Dress,Dress
+Dress,Shirt
 Shirt,Shirt
 T-shirt/top,T-shirt/top
 Bag,Bag
 Dress,Shirt
 Bag,Bag
 Shirt,Dress
-Bag,Shirt
+Bag,Sneaker
 Shirt,Shirt
 T-shirt/top,T-shirt/top
 Bag,Bag
@@ -1989,7 +1989,7 @@ Bag,Bag
 Sandal,Sandal
 Sneaker,Ankle boot
 T-shirt/top,T-shirt/top
-Trouser,Shirt
+Trouser,Dress
 Trouser,Trouser
 Trouser,Trouser
 Ankle boot,Ankle boot
@@ -2020,13 +2020,13 @@ Sandal,Sandal
 Sandal,Sandal
 Coat,Coat
 Pullover,Coat
-Dress,T-shirt/top
+Dress,Pullover
 Sneaker,Ankle boot
 Trouser,Trouser
 Trouser,Trouser
 Sneaker,Sneaker
 Dress,Dress
-Bag,Bag
+Bag,Sneaker
 Sneaker,Sneaker
 Pullover,Pullover
 Pullover,Pullover
@@ -2047,18 +2047,18 @@ Dress,Dress
 Coat,Coat
 T-shirt/top,T-shirt/top
 T-shirt/top,T-shirt/top
-Sneaker,Sneaker
-Shirt,Shirt
+Sneaker,Sandal
+Shirt,Pullover
 Ankle boot,Ankle boot
 Ankle boot,Ankle boot
 Sandal,Sandal
 Sandal,Sneaker
 Sneaker,Sneaker
-T-shirt/top,T-shirt/top
+T-shirt/top,Dress
 Ankle boot,Ankle boot
 Dress,Dress
 Dress,Dress
-Shirt,Shirt
+Shirt,T-shirt/top
 Ankle boot,Ankle boot
 Bag,Bag
 Coat,Dress
@@ -2077,9 +2077,9 @@ Bag,Bag
 Trouser,Trouser
 Bag,Shirt
 Sneaker,Sneaker
-Dress,Coat
-Coat,Coat
-Sandal,Sandal
+Dress,Dress
+Coat,Shirt
+Sandal,Sneaker
 Pullover,Pullover
 Pullover,Pullover
 Ankle boot,Ankle boot
@@ -2109,17 +2109,17 @@ Pullover,Sneaker
 Coat,Coat
 Ankle boot,Ankle boot
 Pullover,Pullover
-Shirt,Pullover
-Trouser,Dress
+Shirt,Coat
+Trouser,Trouser
 Trouser,Trouser
 Ankle boot,Ankle boot
 Dress,Dress
 Trouser,Trouser
 Pullover,Pullover
 Pullover,Pullover
-Pullover,T-shirt/top
+Pullover,Pullover
 Dress,Dress
-Sneaker,Ankle boot
+Sneaker,Sneaker
 Sandal,Sandal
 Sneaker,Sneaker
 Coat,Coat
@@ -2143,7 +2143,7 @@ T-shirt/top,T-shirt/top
 Trouser,Trouser
 Sneaker,Sneaker
 Sneaker,Sneaker
-Coat,Shirt
+Coat,Coat
 Shirt,Shirt
 Sneaker,Sneaker
 Sneaker,Sneaker
@@ -2177,7 +2177,7 @@ T-shirt/top,T-shirt/top
 Dress,Dress
 Dress,Dress
 Sandal,Sandal
-Ankle boot,Ankle boot
+Ankle boot,Sandal
 Sneaker,Sneaker
 Ankle boot,Ankle boot
 Bag,Pullover
@@ -2223,14 +2223,14 @@ Sandal,Sandal
 T-shirt/top,T-shirt/top
 Dress,Dress
 Sandal,Sandal
-T-shirt/top,Shirt
+T-shirt/top,T-shirt/top
 Dress,Dress
 Dress,Dress
 Sneaker,Sneaker
 Coat,Coat
 Pullover,Pullover
 Shirt,Shirt
-Bag,Pullover
+Bag,Bag
 Sandal,Sandal
 Ankle boot,Ankle boot
 Pullover,Pullover
@@ -2242,18 +2242,18 @@ Bag,Bag
 Sandal,Sandal
 Dress,Dress
 Sneaker,Sneaker
-Coat,Pullover
 Coat,Coat
-Dress,Dress
+Coat,Coat
+Dress,Pullover
 Ankle boot,Ankle boot
-Shirt,T-shirt/top
+Shirt,Shirt
 T-shirt/top,T-shirt/top
 T-shirt/top,T-shirt/top
 Ankle boot,Ankle boot
 Trouser,Trouser
 Coat,Coat
-Dress,Shirt
-Trouser,T-shirt/top
+Dress,Dress
+Trouser,Coat
 Sandal,Sandal
 Dress,Dress
 Bag,Bag
@@ -2275,11 +2275,11 @@ Pullover,Pullover
 Coat,Coat
 Bag,Bag
 Dress,Dress
-Bag,Bag
+Bag,Ankle boot
 T-shirt/top,T-shirt/top
 Pullover,Coat
+T-shirt/top,Sandal
 T-shirt/top,Shirt
-T-shirt/top,T-shirt/top
 Coat,Coat
 Bag,Bag
 Sandal,Sandal
@@ -2288,16 +2288,16 @@ Ankle boot,Ankle boot
 T-shirt/top,T-shirt/top
 Ankle boot,Ankle boot
 Sandal,Sandal
-Bag,Bag
+Bag,Sneaker
 Shirt,Shirt
 Ankle boot,Ankle boot
 Trouser,Trouser
 Pullover,Pullover
 Sneaker,Sneaker
-Pullover,Shirt
+Pullover,Pullover
 Trouser,Trouser
 Shirt,Pullover
-Shirt,T-shirt/top
+Shirt,Shirt
 T-shirt/top,T-shirt/top
 Shirt,Shirt
 Sandal,Sandal
@@ -2310,7 +2310,7 @@ Pullover,Pullover
 T-shirt/top,T-shirt/top
 Dress,Dress
 Bag,Bag
-Shirt,T-shirt/top
+Shirt,Pullover
 Dress,Shirt
 Trouser,Trouser
 Ankle boot,Ankle boot
@@ -2318,31 +2318,31 @@ Pullover,Pullover
 Ankle boot,Ankle boot
 Sneaker,Sneaker
 Dress,Pullover
-Shirt,Coat
-Coat,Coat
+Shirt,Shirt
+Coat,Pullover
 Bag,Bag
 Dress,Trouser
 Coat,Coat
 Bag,Bag
 Sandal,Sandal
-Shirt,Pullover
+Shirt,Coat
 Bag,Bag
 Dress,Dress
-Dress,Dress
+Dress,T-shirt/top
 Trouser,Trouser
 Coat,Coat
-Pullover,Coat
+Pullover,Pullover
 T-shirt/top,T-shirt/top
 Coat,Coat
 Ankle boot,Ankle boot
-T-shirt/top,T-shirt/top
+T-shirt/top,Shirt
 Pullover,Coat
 Trouser,Trouser
 Ankle boot,Ankle boot
 Ankle boot,Ankle boot
 Bag,Bag
 Trouser,Trouser
-Bag,Coat
+Bag,Bag
 Bag,Bag
 Dress,Dress
 Dress,Dress
@@ -2351,7 +2351,7 @@ Bag,Bag
 Sandal,Sandal
 Ankle boot,Ankle boot
 Shirt,Pullover
-Shirt,Pullover
+Shirt,Sandal
 Bag,Bag
 Sneaker,Sneaker
 T-shirt/top,Shirt
@@ -2366,7 +2366,7 @@ T-shirt/top,T-shirt/top
 Sneaker,Sneaker
 Ankle boot,Ankle boot
 Trouser,Trouser
-Shirt,T-shirt/top
+Shirt,Ankle boot
 Coat,Coat
 Bag,Bag
 Ankle boot,Ankle boot
@@ -2380,7 +2380,7 @@ Sneaker,Sneaker
 Bag,Sandal
 Ankle boot,Ankle boot
 Trouser,Trouser
-Bag,Dress
+Bag,Sandal
 Pullover,Shirt
 Sandal,Sandal
 Sandal,Sandal
@@ -2395,12 +2395,12 @@ Sneaker,Sneaker
 T-shirt/top,T-shirt/top
 Trouser,Trouser
 Bag,Bag
-Trouser,Dress
+Trouser,Ankle boot
 Shirt,T-shirt/top
-Coat,Coat
+Coat,Shirt
 Ankle boot,Sandal
 Bag,Bag
-Ankle boot,Ankle boot
+Ankle boot,Sandal
 Bag,Bag
 Bag,Bag
 Shirt,Coat
@@ -2409,7 +2409,7 @@ Trouser,Trouser
 Bag,Bag
 Coat,Coat
 Pullover,Pullover
-Sneaker,Sneaker
+Sneaker,Sandal
 Sneaker,Sneaker
 T-shirt/top,T-shirt/top
 Sandal,Sandal
@@ -2422,7 +2422,7 @@ Dress,Dress
 T-shirt/top,T-shirt/top
 Coat,Pullover
 Dress,Dress
-Sandal,Sneaker
+Sandal,Sandal
 Trouser,Trouser
 Shirt,Pullover
 Dress,Dress
@@ -2439,7 +2439,7 @@ Trouser,Trouser
 T-shirt/top,T-shirt/top
 Pullover,Pullover
 Trouser,Trouser
-Coat,Pullover
+Coat,Coat
 Coat,Coat
 Coat,Coat
 Bag,Bag
@@ -2449,16 +2449,16 @@ T-shirt/top,T-shirt/top
 Ankle boot,Bag
 Ankle boot,Ankle boot
 Sandal,Sandal
-T-shirt/top,T-shirt/top
+T-shirt/top,Trouser
 Shirt,Shirt
 T-shirt/top,T-shirt/top
 Sandal,Sandal
 T-shirt/top,T-shirt/top
 Dress,Dress
 Ankle boot,Ankle boot
-Bag,Bag
+Bag,Sneaker
 Dress,Dress
-Shirt,Shirt
+Shirt,Coat
 Trouser,Trouser
 Ankle boot,Ankle boot
 Coat,Pullover
@@ -2468,7 +2468,7 @@ Coat,Coat
 Sandal,Sandal
 Coat,Coat
 Trouser,Trouser
-Shirt,Coat
+Shirt,Pullover
 Bag,Bag
 Sandal,Sandal
 Ankle boot,Ankle boot
@@ -2484,7 +2484,7 @@ Bag,Bag
 Ankle boot,Ankle boot
 T-shirt/top,T-shirt/top
 Sandal,Sandal
-Shirt,Shirt
+Shirt,T-shirt/top
 Pullover,Pullover
 Coat,Sandal
 Ankle boot,Ankle boot
@@ -2508,7 +2508,7 @@ Pullover,Pullover
 T-shirt/top,Shirt
 Dress,Coat
 T-shirt/top,T-shirt/top
-Coat,Coat
+Coat,Pullover
 Bag,Bag
 Sandal,Sandal
 T-shirt/top,T-shirt/top
@@ -2520,7 +2520,7 @@ Bag,Bag
 Trouser,Trouser
 Sandal,Sandal
 Ankle boot,Ankle boot
-Bag,Bag
+Bag,Sandal
 T-shirt/top,Shirt
 Ankle boot,Ankle boot
 T-shirt/top,T-shirt/top
@@ -2542,7 +2542,7 @@ Coat,Coat
 Shirt,Coat
 Pullover,Shirt
 Coat,Coat
-Sandal,Sandal
+Sandal,Ankle boot
 Ankle boot,Ankle boot
 Sneaker,Sneaker
 Coat,Coat
@@ -2581,7 +2581,7 @@ Shirt,Shirt
 Bag,Bag
 Shirt,T-shirt/top
 T-shirt/top,T-shirt/top
-Sneaker,Sneaker
+Sneaker,Sandal
 Sneaker,Sneaker
 Sandal,Sandal
 T-shirt/top,T-shirt/top
@@ -2627,7 +2627,7 @@ Pullover,Coat
 Ankle boot,Ankle boot
 Coat,Coat
 Sandal,Sandal
-T-shirt/top,T-shirt/top
+T-shirt/top,Shirt
 Shirt,Dress
 Dress,Dress
 Bag,Bag
@@ -2640,23 +2640,23 @@ Coat,Coat
 T-shirt/top,T-shirt/top
 Dress,Coat
 Trouser,Trouser
-T-shirt/top,Dress
+T-shirt/top,T-shirt/top
 Bag,Bag
 Trouser,Trouser
 Sneaker,Sneaker
 Sneaker,Sneaker
-Pullover,Pullover
+Pullover,Shirt
 Shirt,Shirt
 Dress,Dress
 Trouser,Trouser
-Pullover,Coat
+Pullover,Pullover
 Sneaker,Sneaker
+T-shirt/top,Pullover
 T-shirt/top,T-shirt/top
-T-shirt/top,Shirt
 T-shirt/top,T-shirt/top
 Shirt,Shirt
 Pullover,Shirt
-Sneaker,Sneaker
+Sneaker,Sandal
 Pullover,Pullover
 Bag,Shirt
 Dress,Dress
@@ -2675,7 +2675,7 @@ Sandal,Sandal
 T-shirt/top,T-shirt/top
 Shirt,Shirt
 Bag,Bag
-Coat,Coat
+Coat,Shirt
 T-shirt/top,T-shirt/top
 Coat,Coat
 Coat,Coat
@@ -2705,18 +2705,18 @@ Ankle boot,Ankle boot
 Bag,Bag
 Bag,Bag
 Coat,Coat
-Sandal,Sandal
+Sandal,Sneaker
 Sandal,Sandal
 Shirt,Shirt
 Sneaker,Sneaker
 Dress,Dress
 Ankle boot,Ankle boot
 Trouser,Trouser
-T-shirt/top,T-shirt/top
+T-shirt/top,Shirt
 Sandal,Sandal
 Dress,Dress
 Sneaker,Sneaker
-T-shirt/top,Shirt
+T-shirt/top,Pullover
 Trouser,Trouser
 Trouser,Trouser
 Bag,Bag
@@ -2738,7 +2738,7 @@ Bag,Bag
 Dress,Coat
 Coat,Coat
 Pullover,Pullover
-Trouser,Trouser
+Trouser,Dress
 Ankle boot,Ankle boot
 Trouser,Pullover
 Sneaker,Sneaker
@@ -2753,7 +2753,7 @@ Bag,Bag
 Pullover,Pullover
 Shirt,Pullover
 Coat,Coat
-Shirt,Pullover
+Shirt,Shirt
 Dress,Dress
 Trouser,Trouser
 Shirt,Pullover
@@ -2772,7 +2772,7 @@ Sneaker,Sneaker
 Trouser,Trouser
 Trouser,Trouser
 Sneaker,Sandal
-Sandal,Sandal
+Sandal,Ankle boot
 Trouser,Trouser
 Ankle boot,Ankle boot
 Coat,Pullover
@@ -2785,7 +2785,7 @@ Sneaker,Sneaker
 Trouser,Trouser
 Dress,Dress
 T-shirt/top,T-shirt/top
-Sneaker,Sneaker
+Sneaker,Bag
 Dress,Dress
 Sandal,Sandal
 Bag,Bag
@@ -2797,14 +2797,14 @@ Coat,Coat
 Bag,Bag
 Bag,Bag
 Bag,Bag
-Coat,Shirt
+Coat,Dress
 Bag,Bag
 Trouser,Trouser
 Bag,Bag
-Ankle boot,Ankle boot
+Ankle boot,Sandal
 Dress,Dress
 T-shirt/top,T-shirt/top
-Shirt,T-shirt/top
+Shirt,Shirt
 T-shirt/top,T-shirt/top
 Pullover,Pullover
 Ankle boot,Ankle boot
@@ -2816,13 +2816,13 @@ Trouser,Trouser
 Dress,Pullover
 Sandal,Sandal
 Ankle boot,Ankle boot
-Dress,Sandal
+Dress,T-shirt/top
 T-shirt/top,T-shirt/top
 Sandal,Sandal
 T-shirt/top,T-shirt/top
 Sandal,Sandal
 Bag,Bag
-Sneaker,Sandal
+Sneaker,Ankle boot
 Dress,Pullover
 Shirt,Shirt
 Pullover,Pullover
@@ -2831,13 +2831,13 @@ T-shirt/top,T-shirt/top
 T-shirt/top,T-shirt/top
 Ankle boot,Ankle boot
 Dress,Dress
-T-shirt/top,T-shirt/top
+T-shirt/top,Shirt
 Sandal,Sandal
 Bag,Bag
 Trouser,Trouser
 Trouser,Trouser
 Pullover,Pullover
-Shirt,Dress
+Shirt,Shirt
 Shirt,T-shirt/top
 Shirt,T-shirt/top
 Bag,Bag
@@ -2866,12 +2866,12 @@ Trouser,Trouser
 Sneaker,Sneaker
 Shirt,Coat
 Trouser,Trouser
-Shirt,Shirt
+Shirt,Pullover
 Pullover,Pullover
-Shirt,Shirt
+Shirt,Pullover
 Shirt,Pullover
 Sneaker,Sneaker
-T-shirt/top,Shirt
+T-shirt/top,Sandal
 Coat,Coat
 Ankle boot,Ankle boot
 Dress,Dress
@@ -2881,22 +2881,22 @@ T-shirt/top,T-shirt/top
 Bag,Bag
 Shirt,Shirt
 Pullover,Pullover
-Shirt,Coat
-Sneaker,Sneaker
+Shirt,Pullover
+Sneaker,Sandal
 Coat,Pullover
 Pullover,Pullover
 Trouser,Trouser
 Trouser,Trouser
 T-shirt/top,T-shirt/top
 Dress,Dress
-Sandal,Bag
+Sandal,Sneaker
 Sandal,Sandal
 Pullover,Pullover
 Shirt,Shirt
 Pullover,Coat
 Trouser,Trouser
 Bag,Bag
-T-shirt/top,Bag
+T-shirt/top,Sandal
 Dress,Coat
 Coat,Coat
 Dress,Dress
@@ -2917,7 +2917,7 @@ Sneaker,Ankle boot
 Bag,Bag
 Trouser,Trouser
 Shirt,Shirt
-Dress,Coat
+Dress,Pullover
 Coat,Shirt
 Pullover,Coat
 Ankle boot,Ankle boot
@@ -2944,15 +2944,15 @@ Sneaker,Sneaker
 Shirt,Pullover
 Trouser,Trouser
 Trouser,Trouser
-Sneaker,Sneaker
+Sneaker,Sandal
 Sneaker,Sneaker
 Bag,Bag
 Sneaker,Sandal
-Shirt,Coat
-Sandal,Sandal
+Shirt,Pullover
+Sandal,Bag
 Trouser,Dress
 Sneaker,Sneaker
-T-shirt/top,T-shirt/top
+T-shirt/top,Dress
 T-shirt/top,T-shirt/top
 Ankle boot,Ankle boot
 Pullover,Shirt
@@ -2962,9 +2962,9 @@ Pullover,Pullover
 Pullover,Shirt
 Sandal,Sandal
 Bag,Bag
-Sandal,Ankle boot
+Sandal,Sandal
 Pullover,Pullover
-Sneaker,Sneaker
+Sneaker,Sandal
 Bag,Bag
 Coat,Coat
 T-shirt/top,T-shirt/top
@@ -2972,10 +2972,10 @@ Ankle boot,Ankle boot
 T-shirt/top,T-shirt/top
 Bag,Bag
 Trouser,Trouser
-Dress,Shirt
+Dress,T-shirt/top
 Bag,Bag
 Pullover,Pullover
-Bag,Bag
+Bag,Ankle boot
 Pullover,Pullover
 T-shirt/top,T-shirt/top
 Shirt,Pullover
@@ -2996,7 +2996,7 @@ Trouser,Trouser
 Trouser,Trouser
 Ankle boot,Ankle boot
 Sneaker,Sneaker
-T-shirt/top,T-shirt/top
+T-shirt/top,Sneaker
 Shirt,Coat
 Pullover,Shirt
 Trouser,Trouser
@@ -3006,7 +3006,7 @@ Sneaker,Sneaker
 Sneaker,Sandal
 Trouser,Trouser
 Bag,Bag
-Dress,T-shirt/top
+Dress,Dress
 Bag,Dress
 Sneaker,Sneaker
 Ankle boot,Ankle boot
@@ -3014,7 +3014,7 @@ Bag,Bag
 Sneaker,Sneaker
 Pullover,Pullover
 Sneaker,Sneaker
-Ankle boot,Sneaker
+Ankle boot,Ankle boot
 Sneaker,Sneaker
 Pullover,Pullover
 Pullover,Pullover
@@ -3037,16 +3037,16 @@ Bag,Bag
 Dress,Dress
 Shirt,Shirt
 Dress,Dress
-T-shirt/top,Shirt
+T-shirt/top,Sandal
 Bag,Bag
 Pullover,Coat
-Pullover,Coat
-Sandal,Sandal
+Pullover,Pullover
+Sandal,Ankle boot
 Ankle boot,Ankle boot
 Pullover,Pullover
 Shirt,Coat
 Bag,Bag
-Dress,Pullover
+Dress,T-shirt/top
 Pullover,Pullover
 Bag,Bag
 Dress,Dress
@@ -3065,12 +3065,12 @@ Trouser,Trouser
 Sandal,Sandal
 Bag,Bag
 T-shirt/top,T-shirt/top
-Sneaker,Sandal
-Bag,Sneaker
+Sneaker,Sneaker
+Bag,Bag
 Sneaker,Sneaker
 Sandal,Pullover
 Ankle boot,Shirt
-Sandal,Ankle boot
+Sandal,Sandal
 Sandal,Sandal
 Dress,Dress
 T-shirt/top,T-shirt/top
@@ -3115,7 +3115,7 @@ T-shirt/top,T-shirt/top
 T-shirt/top,T-shirt/top
 Coat,Coat
 T-shirt/top,T-shirt/top
-Shirt,Pullover
+Shirt,Shirt
 Sneaker,Sneaker
 Bag,Bag
 Trouser,Trouser
@@ -3129,7 +3129,7 @@ Trouser,Trouser
 Trouser,Trouser
 Shirt,Shirt
 Shirt,Shirt
-Ankle boot,Ankle boot
+Ankle boot,Dress
 Bag,Bag
 T-shirt/top,Coat
 Bag,Shirt
@@ -3137,7 +3137,7 @@ Pullover,Pullover
 Sneaker,Sneaker
 Sneaker,Sneaker
 Trouser,Trouser
-Dress,Dress
+Dress,Shirt
 T-shirt/top,Shirt
 Dress,T-shirt/top
 T-shirt/top,T-shirt/top
@@ -3167,7 +3167,7 @@ Pullover,Pullover
 Shirt,Pullover
 Sneaker,Sneaker
 Dress,Dress
-Bag,Bag
+Bag,Ankle boot
 Sandal,Sandal
 Trouser,Trouser
 Bag,Bag
@@ -3181,12 +3181,12 @@ Sneaker,Sneaker
 Coat,Coat
 T-shirt/top,T-shirt/top
 Coat,Coat
-Coat,Shirt
+Coat,Coat
 Bag,Bag
 Ankle boot,Ankle boot
 Sneaker,Sneaker
 Ankle boot,Ankle boot
-Pullover,Shirt
+Pullover,Bag
 Shirt,Pullover
 Bag,Bag
 Pullover,Coat
@@ -3196,7 +3196,7 @@ Shirt,Shirt
 Dress,Dress
 Coat,Coat
 Trouser,Trouser
-Sandal,Sandal
+Sandal,Sneaker
 Shirt,Pullover
 Sneaker,Sneaker
 Sandal,Sandal
@@ -3208,14 +3208,14 @@ T-shirt/top,Dress
 Sandal,Sandal
 Trouser,Trouser
 Trouser,Trouser
-Dress,Pullover
+Dress,T-shirt/top
 Sneaker,Sneaker
 Dress,Dress
 Bag,Bag
 Bag,Bag
 Sneaker,Sneaker
 Sandal,Sandal
-Ankle boot,Shirt
+Ankle boot,Sandal
 Ankle boot,Ankle boot
 Sandal,Sandal
 Sandal,Sandal
@@ -3228,24 +3228,24 @@ Shirt,Shirt
 T-shirt/top,T-shirt/top
 Ankle boot,Ankle boot
 Ankle boot,Sneaker
-Coat,Dress
-Shirt,Pullover
+Coat,Pullover
+Shirt,Shirt
 Bag,Bag
 Shirt,T-shirt/top
 Sandal,Sandal
 Sneaker,Sandal
 Bag,Bag
 T-shirt/top,Bag
-Pullover,Coat
+Pullover,Pullover
 Sneaker,Sneaker
-Shirt,Shirt
+Shirt,Sneaker
 Pullover,Shirt
 Coat,Coat
 Bag,Bag
 Trouser,Trouser
 T-shirt/top,T-shirt/top
 Coat,Coat
-Bag,T-shirt/top
+Bag,Shirt
 T-shirt/top,T-shirt/top
 Sneaker,Sneaker
 Sandal,Sandal
@@ -3253,11 +3253,11 @@ Bag,Bag
 Sneaker,Sneaker
 Sneaker,Sneaker
 Sandal,Sneaker
-Sandal,Sandal
+Sandal,Shirt
 Pullover,Dress
 Sneaker,Sneaker
 Shirt,Shirt
-Pullover,Shirt
+Pullover,T-shirt/top
 Pullover,Pullover
 T-shirt/top,T-shirt/top
 Dress,Dress
@@ -3282,14 +3282,14 @@ Sandal,Sandal
 T-shirt/top,T-shirt/top
 Coat,Dress
 Bag,T-shirt/top
-T-shirt/top,Dress
-Pullover,Pullover
+T-shirt/top,T-shirt/top
+Pullover,Shirt
 Sneaker,Sneaker
 Pullover,Pullover
 Sneaker,Sneaker
 Pullover,Pullover
 Dress,Dress
-Coat,Coat
+Coat,Pullover
 Sneaker,Sneaker
 Trouser,Trouser
 Pullover,Pullover
@@ -3299,7 +3299,7 @@ Pullover,Pullover
 Pullover,Coat
 Dress,Dress
 Ankle boot,Ankle boot
-Ankle boot,Ankle boot
+Ankle boot,Sandal
 Pullover,Shirt
 Bag,Bag
 T-shirt/top,T-shirt/top
@@ -3310,7 +3310,7 @@ Trouser,Trouser
 Ankle boot,Ankle boot
 Dress,Dress
 Ankle boot,Ankle boot
-T-shirt/top,Sneaker
+T-shirt/top,Bag
 Bag,Bag
 Dress,Shirt
 Ankle boot,Ankle boot
@@ -3324,16 +3324,16 @@ Trouser,Trouser
 Dress,Dress
 Shirt,Pullover
 Pullover,Pullover
-Coat,Shirt
+Coat,Coat
 Bag,Bag
 Shirt,Dress
 Dress,Dress
 Dress,Dress
 T-shirt/top,T-shirt/top
 T-shirt/top,T-shirt/top
-T-shirt/top,Shirt
+T-shirt/top,T-shirt/top
 Dress,Dress
-Shirt,Dress
+Shirt,Pullover
 Trouser,Trouser
 Shirt,Pullover
 Bag,Bag
@@ -3341,9 +3341,9 @@ Shirt,Coat
 Sneaker,Ankle boot
 Dress,Dress
 T-shirt/top,T-shirt/top
-T-shirt/top,Shirt
+T-shirt/top,Sandal
 Sandal,Sandal
-Bag,Bag
+Bag,Ankle boot
 Bag,Bag
 Bag,Bag
 Shirt,Shirt
@@ -3405,7 +3405,7 @@ Sandal,Sandal
 Dress,Shirt
 Bag,Bag
 Coat,Coat
-Ankle boot,Ankle boot
+Ankle boot,Bag
 Dress,Dress
 Ankle boot,Ankle boot
 Sandal,Sandal
@@ -3415,7 +3415,7 @@ Trouser,Trouser
 Dress,Dress
 Dress,Dress
 Shirt,Coat
-Shirt,Coat
+Shirt,Shirt
 Sneaker,Sneaker
 Sandal,Sandal
 Dress,Dress
@@ -3428,7 +3428,7 @@ Coat,Coat
 Shirt,Shirt
 Sandal,Sandal
 Sandal,Sandal
-Shirt,T-shirt/top
+Shirt,Dress
 Coat,Coat
 Bag,Sneaker
 Dress,Dress
@@ -3437,20 +3437,20 @@ Ankle boot,Ankle boot
 Pullover,Pullover
 Dress,Dress
 Pullover,Pullover
-Pullover,Pullover
+Pullover,Ankle boot
 Sneaker,Sneaker
 Coat,Coat
-T-shirt/top,T-shirt/top
+T-shirt/top,Shirt
 Sneaker,Sneaker
 Trouser,Trouser
 Coat,Coat
 Bag,Sandal
 Trouser,Trouser
-Coat,Coat
+Coat,Pullover
 Sneaker,Sneaker
 Bag,Bag
 Pullover,Pullover
-T-shirt/top,Bag
+T-shirt/top,Sandal
 Sneaker,Sneaker
 Pullover,Pullover
 T-shirt/top,T-shirt/top
@@ -3463,17 +3463,17 @@ T-shirt/top,T-shirt/top
 Sandal,Sandal
 Pullover,Pullover
 Dress,Dress
-Pullover,T-shirt/top
+Pullover,Pullover
 Bag,Bag
-T-shirt/top,T-shirt/top
-T-shirt/top,T-shirt/top
+T-shirt/top,Sandal
+T-shirt/top,Shirt
 Bag,Sneaker
 Coat,Coat
 Shirt,Shirt
 Coat,Pullover
 Bag,Bag
 Dress,Dress
-Sandal,Sandal
+Sandal,Ankle boot
 Trouser,Trouser
 Dress,Dress
 Ankle boot,Ankle boot
@@ -3484,7 +3484,7 @@ Shirt,Dress
 Sneaker,Sneaker
 Coat,Coat
 T-shirt/top,Shirt
-T-shirt/top,Shirt
+T-shirt/top,T-shirt/top
 Pullover,Pullover
 Sandal,Ankle boot
 Shirt,Shirt
@@ -3506,16 +3506,16 @@ Trouser,Trouser
 T-shirt/top,T-shirt/top
 Ankle boot,Ankle boot
 Ankle boot,Ankle boot
-Sneaker,Sneaker
+Sneaker,Ankle boot
 Bag,Bag
 Coat,Coat
-Shirt,Dress
+Shirt,Shirt
 Ankle boot,Sandal
 Sneaker,Sneaker
 Sneaker,Sneaker
 Sandal,Sandal
 Bag,Bag
-Bag,Shirt
+Bag,Ankle boot
 Sneaker,Sneaker
 Sandal,Sandal
 Dress,Dress
@@ -3545,7 +3545,7 @@ T-shirt/top,T-shirt/top
 Bag,Bag
 Bag,Bag
 Shirt,Pullover
-Bag,Sandal
+Bag,Sneaker
 Sandal,Sandal
 Shirt,Shirt
 T-shirt/top,Dress
@@ -3555,7 +3555,7 @@ T-shirt/top,T-shirt/top
 Pullover,T-shirt/top
 Pullover,Shirt
 Sandal,Sandal
-Pullover,Shirt
+Pullover,Pullover
 T-shirt/top,T-shirt/top
 Sneaker,Sneaker
 Sneaker,Sneaker
@@ -3563,18 +3563,18 @@ Sneaker,Sneaker
 Trouser,Trouser
 Sandal,Sandal
 Pullover,Pullover
-Trouser,Trouser
+Trouser,T-shirt/top
 Bag,Bag
 Sandal,Sandal
 Pullover,Pullover
 Coat,Pullover
-Bag,Sandal
+Bag,Sneaker
 Sneaker,Sneaker
 Sneaker,Sneaker
 Shirt,Shirt
 Sneaker,Sneaker
 Trouser,Trouser
-T-shirt/top,Shirt
+T-shirt/top,T-shirt/top
 Ankle boot,Ankle boot
 Sandal,Sandal
 Dress,Dress
@@ -3597,22 +3597,22 @@ Sandal,Sandal
 Sneaker,Sneaker
 Dress,Dress
 Trouser,Trouser
-Pullover,Pullover
+Pullover,Coat
 T-shirt/top,T-shirt/top
 Bag,Bag
 Trouser,Trouser
-Bag,Bag
+Bag,Ankle boot
 Sandal,Sandal
 Shirt,Shirt
 Ankle boot,Ankle boot
-Dress,T-shirt/top
+Dress,Dress
 Dress,Dress
 Bag,Bag
-T-shirt/top,Coat
+T-shirt/top,Bag
 Coat,Coat
 Pullover,Pullover
 T-shirt/top,T-shirt/top
-Shirt,Shirt
+Shirt,T-shirt/top
 Coat,Coat
 Pullover,Pullover
 Dress,Dress
@@ -3638,8 +3638,8 @@ T-shirt/top,T-shirt/top
 Sandal,Sandal
 Shirt,Shirt
 Coat,Coat
-Coat,Coat
-Bag,Sneaker
+Coat,Trouser
+Bag,Bag
 Ankle boot,Ankle boot
 Sneaker,Sneaker
 Coat,Coat
@@ -3660,9 +3660,9 @@ Dress,Dress
 Shirt,Shirt
 Sneaker,Sneaker
 Bag,Bag
-Shirt,Shirt
+Shirt,Coat
 Sandal,Sandal
-Shirt,Pullover
+Shirt,Bag
 Sneaker,Ankle boot
 Ankle boot,Ankle boot
 Ankle boot,Ankle boot
@@ -3679,7 +3679,7 @@ Dress,Dress
 Ankle boot,Ankle boot
 Pullover,Pullover
 Bag,Bag
-Bag,Dress
+Bag,Sandal
 Shirt,Shirt
 T-shirt/top,T-shirt/top
 Coat,Coat
@@ -3688,7 +3688,7 @@ Ankle boot,Ankle boot
 Dress,Dress
 Dress,Dress
 Sandal,Sandal
-Trouser,Dress
+Trouser,Trouser
 Sandal,Sneaker
 Sandal,Sandal
 Ankle boot,Ankle boot
@@ -3697,11 +3697,11 @@ Bag,Bag
 Sandal,Sandal
 Sandal,Sandal
 Ankle boot,Ankle boot
-Sandal,Sandal
+Sandal,Ankle boot
 Coat,Coat
 Shirt,T-shirt/top
 Sneaker,Sneaker
-Dress,T-shirt/top
+Dress,Dress
 Sandal,Sandal
 Coat,Coat
 Pullover,Pullover
@@ -3715,7 +3715,7 @@ Pullover,Pullover
 Shirt,Shirt
 Pullover,Shirt
 Coat,Coat
-Bag,Shirt
+Bag,Bag
 Bag,Bag
 Sneaker,Sneaker
 Sneaker,Sneaker
@@ -3731,9 +3731,9 @@ Ankle boot,Ankle boot
 T-shirt/top,T-shirt/top
 Coat,Pullover
 Coat,Pullover
-Sandal,Sandal
+Sandal,Ankle boot
 Sneaker,Ankle boot
-T-shirt/top,T-shirt/top
+T-shirt/top,Shirt
 Coat,Coat
 Shirt,Shirt
 Coat,Coat
@@ -3754,7 +3754,7 @@ Shirt,Shirt
 T-shirt/top,T-shirt/top
 Coat,Coat
 T-shirt/top,Shirt
-Dress,Dress
+Dress,T-shirt/top
 Shirt,Shirt
 Bag,Bag
 Bag,Bag
@@ -3763,8 +3763,8 @@ T-shirt/top,T-shirt/top
 Pullover,Pullover
 Dress,Dress
 Pullover,Pullover
-Bag,Shirt
-Bag,Pullover
+Bag,Bag
+Bag,Bag
 Trouser,Trouser
 Coat,Pullover
 Trouser,Trouser
@@ -3772,11 +3772,11 @@ Trouser,Trouser
 Shirt,Shirt
 Dress,Dress
 Pullover,Pullover
-Pullover,Shirt
-Bag,Pullover
+Pullover,T-shirt/top
+Bag,Bag
 T-shirt/top,T-shirt/top
 T-shirt/top,Shirt
-Coat,Coat
+Coat,Shirt
 Trouser,Trouser
 Dress,Dress
 Pullover,Pullover
@@ -3786,14 +3786,14 @@ Shirt,Shirt
 Sneaker,Sneaker
 Ankle boot,Ankle boot
 Ankle boot,Ankle boot
-Shirt,Coat
+Shirt,Pullover
 Sneaker,Sneaker
 T-shirt/top,Dress
 Ankle boot,Ankle boot
 Ankle boot,Ankle boot
 Bag,Bag
 Coat,Coat
-Bag,Shirt
+Bag,Sneaker
 Dress,Dress
 Coat,Coat
 T-shirt/top,T-shirt/top
@@ -3811,7 +3811,7 @@ Shirt,T-shirt/top
 Coat,Coat
 Sneaker,Sneaker
 Coat,Dress
-Sneaker,Sneaker
+Sneaker,Sandal
 Bag,Bag
 Bag,Bag
 Pullover,Pullover
@@ -3825,12 +3825,12 @@ Bag,Bag
 Ankle boot,Ankle boot
 Bag,Bag
 Sneaker,Sneaker
-Trouser,Pullover
+Trouser,Trouser
 T-shirt/top,T-shirt/top
 Dress,Dress
 Shirt,Trouser
-Shirt,T-shirt/top
-T-shirt/top,T-shirt/top
+Shirt,Dress
+T-shirt/top,Dress
 Ankle boot,Ankle boot
 Dress,Dress
 Ankle boot,Ankle boot
@@ -3838,7 +3838,7 @@ Ankle boot,Ankle boot
 Trouser,Trouser
 Sandal,Sandal
 Ankle boot,Ankle boot
-Coat,Dress
+Coat,Coat
 Trouser,Trouser
 Sneaker,Sneaker
 T-shirt/top,T-shirt/top
@@ -3864,7 +3864,7 @@ Shirt,Coat
 Dress,Dress
 Ankle boot,Ankle boot
 Shirt,Pullover
-Pullover,Pullover
+Pullover,Coat
 Sandal,Ankle boot
 Dress,Dress
 Sandal,Sandal
@@ -3880,7 +3880,7 @@ T-shirt/top,T-shirt/top
 Sandal,Sandal
 Sandal,Sandal
 Pullover,Dress
-Shirt,Shirt
+Shirt,Ankle boot
 Pullover,Shirt
 Sandal,Sandal
 Shirt,Shirt
@@ -3913,7 +3913,7 @@ Trouser,Trouser
 Sneaker,Sneaker
 Trouser,Trouser
 Bag,Bag
-T-shirt/top,T-shirt/top
+T-shirt/top,Shirt
 Dress,Dress
 Coat,Coat
 T-shirt/top,T-shirt/top
@@ -3938,7 +3938,7 @@ Bag,Bag
 Dress,Dress
 Pullover,Coat
 T-shirt/top,T-shirt/top
-Pullover,Dress
+Pullover,Pullover
 Dress,Shirt
 Pullover,Trouser
 Dress,Dress
@@ -3950,7 +3950,7 @@ Coat,Coat
 Sandal,Sandal
 Sneaker,Sneaker
 Trouser,Trouser
-Shirt,Coat
+Shirt,Shirt
 Trouser,Trouser
 T-shirt/top,Trouser
 T-shirt/top,T-shirt/top
@@ -3958,7 +3958,7 @@ Dress,Dress
 Bag,Bag
 Sandal,Ankle boot
 Trouser,Trouser
-Shirt,Shirt
+Shirt,Pullover
 Sandal,Sandal
 Coat,Coat
 Bag,Bag
@@ -3985,9 +3985,9 @@ Sandal,Sandal
 Coat,Coat
 Coat,Coat
 Pullover,Pullover
-T-shirt/top,T-shirt/top
+T-shirt/top,Pullover
 Shirt,Coat
-Bag,Pullover
+Bag,Shirt
 Ankle boot,Ankle boot
 Ankle boot,Ankle boot
 Sandal,Sandal
@@ -3998,18 +3998,18 @@ Coat,Coat
 Trouser,Trouser
 Dress,Dress
 Sneaker,Sneaker
-Ankle boot,Pullover
+Ankle boot,Ankle boot
 T-shirt/top,T-shirt/top
 T-shirt/top,T-shirt/top
 Ankle boot,Ankle boot
 Bag,Bag
 Sandal,Sandal
-Dress,T-shirt/top
+Dress,Dress
 T-shirt/top,T-shirt/top
 Sneaker,Sneaker
 Trouser,Trouser
 Ankle boot,Ankle boot
-Sneaker,Sandal
+Sneaker,Sneaker
 Bag,Bag
 Coat,Coat
 T-shirt/top,T-shirt/top
@@ -4047,7 +4047,7 @@ Ankle boot,Ankle boot
 Ankle boot,Ankle boot
 Trouser,Trouser
 Sandal,Sandal
-Sandal,Bag
+Sandal,Sneaker
 Ankle boot,Ankle boot
 Trouser,Trouser
 Coat,Coat
@@ -4061,7 +4061,7 @@ Sneaker,Sandal
 Bag,Bag
 T-shirt/top,T-shirt/top
 Coat,Coat
-Pullover,Pullover
+Pullover,Shirt
 Sneaker,Sneaker
 Pullover,Pullover
 Sneaker,Sneaker
@@ -4069,7 +4069,7 @@ Sandal,Sandal
 T-shirt/top,T-shirt/top
 Bag,Bag
 Sneaker,Sneaker
-Bag,Bag
+Bag,Sneaker
 Bag,Pullover
 Coat,Coat
 Ankle boot,Ankle boot
@@ -4087,11 +4087,11 @@ Dress,Shirt
 Bag,Bag
 Sneaker,Sneaker
 Shirt,Shirt
-Shirt,Pullover
+Shirt,Shirt
 Sneaker,Sneaker
 Sandal,Sandal
 Pullover,Pullover
-Ankle boot,Sneaker
+Ankle boot,Sandal
 T-shirt/top,T-shirt/top
 Dress,Dress
 Coat,Coat
@@ -4104,13 +4104,13 @@ Sneaker,Ankle boot
 T-shirt/top,T-shirt/top
 Sandal,Sandal
 Pullover,Shirt
-Shirt,Shirt
+Shirt,Coat
 Shirt,Pullover
 Bag,Bag
 T-shirt/top,T-shirt/top
 Shirt,Shirt
 Pullover,Pullover
-T-shirt/top,Dress
+T-shirt/top,T-shirt/top
 Pullover,Pullover
 Sandal,Sandal
 Sandal,Sandal
@@ -4130,8 +4130,8 @@ Shirt,Shirt
 Pullover,Pullover
 Ankle boot,Ankle boot
 Shirt,Shirt
-Coat,Coat
-Ankle boot,Sandal
+Coat,Pullover
+Ankle boot,Ankle boot
 Ankle boot,Ankle boot
 Trouser,Trouser
 Coat,Coat
@@ -4165,8 +4165,8 @@ Shirt,Shirt
 Sneaker,Sneaker
 Ankle boot,Ankle boot
 Shirt,Shirt
-Coat,Pullover
-Dress,Dress
+Coat,Coat
+Dress,Trouser
 Dress,Dress
 Shirt,Shirt
 Bag,Bag
@@ -4181,21 +4181,21 @@ Pullover,Pullover
 Sandal,Sandal
 Trouser,Trouser
 Sandal,Sandal
-Sandal,Ankle boot
+Sandal,Sandal
 Trouser,Trouser
-Sneaker,Sneaker
+Sneaker,Sandal
 Sandal,Sandal
 Pullover,Pullover
 Trouser,Trouser
 Bag,Bag
 Bag,Bag
-T-shirt/top,Shirt
+T-shirt/top,T-shirt/top
 Ankle boot,Ankle boot
 Shirt,T-shirt/top
 T-shirt/top,T-shirt/top
 Shirt,T-shirt/top
 Dress,Dress
-Pullover,Pullover
+Pullover,Shirt
 Trouser,Trouser
 Bag,Bag
 Dress,Dress
@@ -4203,7 +4203,7 @@ Coat,Coat
 Pullover,Pullover
 Trouser,Trouser
 Pullover,Pullover
-T-shirt/top,T-shirt/top
+T-shirt/top,Shirt
 Dress,Dress
 T-shirt/top,T-shirt/top
 Bag,Bag
@@ -4216,14 +4216,14 @@ T-shirt/top,Shirt
 Dress,Dress
 Ankle boot,Ankle boot
 Bag,Bag
-Pullover,Pullover
+Pullover,Dress
 Bag,Bag
 Trouser,Trouser
 T-shirt/top,T-shirt/top
 Pullover,Pullover
 Shirt,Shirt
 Pullover,Pullover
-T-shirt/top,T-shirt/top
+T-shirt/top,Pullover
 Dress,Dress
 Sneaker,Sneaker
 Sandal,Sandal
@@ -4258,7 +4258,7 @@ Pullover,Coat
 Trouser,Trouser
 Sandal,Sandal
 Pullover,Pullover
-Bag,Bag
+Bag,Shirt
 Pullover,Pullover
 Ankle boot,Ankle boot
 T-shirt/top,Dress
@@ -4273,7 +4273,7 @@ Ankle boot,Ankle boot
 Shirt,Shirt
 Coat,Shirt
 Ankle boot,Ankle boot
-Bag,T-shirt/top
+Bag,Ankle boot
 T-shirt/top,T-shirt/top
 Sandal,Sandal
 Bag,Bag
@@ -4285,7 +4285,7 @@ Sneaker,Sneaker
 T-shirt/top,T-shirt/top
 Sneaker,Sneaker
 Sneaker,Sneaker
-Pullover,Pullover
+Pullover,Shirt
 Ankle boot,Ankle boot
 Sneaker,Sneaker
 Coat,Coat
@@ -4299,7 +4299,7 @@ Ankle boot,Ankle boot
 Bag,Bag
 T-shirt/top,T-shirt/top
 Shirt,Shirt
-Pullover,Pullover
+Pullover,Coat
 Bag,Bag
 Dress,Dress
 Bag,Bag
@@ -4325,8 +4325,8 @@ Dress,Dress
 Pullover,Pullover
 Trouser,Trouser
 Coat,Coat
-Bag,Bag
-T-shirt/top,Dress
+Bag,Ankle boot
+T-shirt/top,Shirt
 Coat,Coat
 Shirt,Pullover
 Sneaker,Sneaker
@@ -4335,7 +4335,7 @@ Ankle boot,Ankle boot
 Coat,Coat
 Ankle boot,Ankle boot
 T-shirt/top,T-shirt/top
-Coat,Shirt
+Coat,Pullover
 Shirt,Shirt
 Sandal,Sandal
 Sneaker,Sneaker
@@ -4347,21 +4347,21 @@ Sandal,Sandal
 Coat,Coat
 Ankle boot,Ankle boot
 Sandal,Sandal
-Sneaker,Sneaker
+Sneaker,Sandal
 Dress,Dress
 Pullover,Pullover
 T-shirt/top,T-shirt/top
 Ankle boot,Ankle boot
 Bag,Bag
 Sneaker,Sneaker
-Dress,Dress
+Dress,Pullover
 Sneaker,Sneaker
 Sneaker,Sneaker
 Coat,Coat
 Sneaker,Sneaker
 Sandal,Sandal
-Bag,Bag
-Sandal,Bag
+Bag,Sandal
+Sandal,Sandal
 Pullover,Coat
 Coat,Coat
 Shirt,Shirt
@@ -4390,8 +4390,8 @@ Bag,Bag
 Ankle boot,Ankle boot
 Coat,Coat
 Ankle boot,Ankle boot
-Ankle boot,Ankle boot
-Trouser,Pullover
+Ankle boot,Sandal
+Trouser,Coat
 Coat,Coat
 Dress,Bag
 Trouser,Trouser
@@ -4419,7 +4419,7 @@ Shirt,T-shirt/top
 Coat,Shirt
 Coat,Coat
 Bag,Bag
-Shirt,Pullover
+Shirt,Sandal
 Sandal,Sandal
 Coat,Coat
 Ankle boot,Ankle boot
@@ -4428,11 +4428,11 @@ Pullover,Pullover
 Bag,Bag
 Coat,Coat
 Bag,Bag
-Shirt,Shirt
+Shirt,Coat
 Dress,Dress
 Shirt,Shirt
 Trouser,Trouser
-Coat,Shirt
+Coat,Coat
 Dress,Dress
 Dress,Shirt
 Bag,Bag
@@ -4446,7 +4446,7 @@ Sandal,Sandal
 Dress,Dress
 Trouser,Trouser
 Sneaker,Sneaker
-Pullover,Coat
+Pullover,Pullover
 Bag,Bag
 Coat,Coat
 Ankle boot,Ankle boot
@@ -4455,11 +4455,11 @@ Trouser,Trouser
 Shirt,Shirt
 T-shirt/top,T-shirt/top
 Sandal,Sandal
-Bag,Coat
+Bag,Bag
 Trouser,Trouser
 Ankle boot,Ankle boot
 Dress,Dress
-T-shirt/top,Shirt
+T-shirt/top,T-shirt/top
 Bag,Bag
 Dress,Dress
 Bag,Bag
@@ -4467,12 +4467,12 @@ Coat,Coat
 Pullover,Pullover
 Sandal,Sandal
 Shirt,Shirt
-Ankle boot,Ankle boot
+Ankle boot,Sandal
 T-shirt/top,Shirt
 Trouser,Trouser
-Coat,Pullover
+Coat,Coat
 T-shirt/top,T-shirt/top
-Sneaker,Sneaker
+Sneaker,Sandal
 Ankle boot,Ankle boot
 T-shirt/top,T-shirt/top
 Trouser,Trouser
@@ -4494,9 +4494,9 @@ Dress,Dress
 Sneaker,Sneaker
 Sneaker,Sneaker
 Sneaker,Sneaker
-Pullover,Bag
+Pullover,Ankle boot
 Dress,Dress
-Ankle boot,Bag
+Ankle boot,Sandal
 Trouser,Trouser
 Ankle boot,Ankle boot
 Coat,Coat
@@ -4505,10 +4505,10 @@ T-shirt/top,T-shirt/top
 Sneaker,Sneaker
 Shirt,Shirt
 Shirt,Shirt
-Sneaker,Ankle boot
+Sneaker,Sneaker
 Ankle boot,Sandal
-T-shirt/top,Shirt
-Shirt,Pullover
+T-shirt/top,T-shirt/top
+Shirt,Dress
 Coat,Coat
 Ankle boot,Ankle boot
 T-shirt/top,T-shirt/top
@@ -4548,7 +4548,7 @@ T-shirt/top,T-shirt/top
 Shirt,Shirt
 Coat,Coat
 Trouser,Trouser
-Ankle boot,Sneaker
+Ankle boot,Ankle boot
 Sneaker,Sneaker
 Trouser,Trouser
 Pullover,Pullover
@@ -4583,7 +4583,7 @@ Sneaker,Sneaker
 Trouser,Trouser
 Coat,Coat
 Trouser,Trouser
-Ankle boot,Ankle boot
+Ankle boot,Bag
 Shirt,Shirt
 Bag,Bag
 Dress,Dress
@@ -4604,11 +4604,11 @@ Ankle boot,Ankle boot
 Sandal,Sandal
 Dress,Dress
 Sandal,Sandal
-T-shirt/top,T-shirt/top
+T-shirt/top,Shirt
 Shirt,Coat
 Sandal,Sandal
 Coat,Shirt
-Bag,Bag
+Bag,Sandal
 Dress,Dress
 Bag,Bag
 T-shirt/top,T-shirt/top
@@ -4641,7 +4641,7 @@ Ankle boot,Ankle boot
 Coat,Dress
 Bag,Bag
 Coat,Pullover
-Shirt,T-shirt/top
+Shirt,Sandal
 Shirt,Shirt
 Coat,Coat
 Shirt,Coat
@@ -4652,13 +4652,13 @@ Pullover,Coat
 Pullover,Pullover
 Bag,Bag
 Coat,Pullover
-Ankle boot,Bag
+Ankle boot,Ankle boot
 T-shirt/top,T-shirt/top
 Sandal,Sandal
 Bag,Bag
 Trouser,Trouser
 T-shirt/top,Dress
-Bag,Shirt
+Bag,T-shirt/top
 Dress,Dress
 Pullover,Pullover
 Coat,Coat
@@ -4667,7 +4667,7 @@ Dress,Dress
 T-shirt/top,Pullover
 Ankle boot,Sandal
 Dress,Dress
-Coat,Pullover
+Coat,T-shirt/top
 Ankle boot,Ankle boot
 Sneaker,Sneaker
 Pullover,Pullover
@@ -4704,7 +4704,7 @@ Pullover,Pullover
 Dress,Dress
 Sandal,Sandal
 T-shirt/top,T-shirt/top
-T-shirt/top,Dress
+T-shirt/top,Bag
 Coat,Coat
 Sandal,Sandal
 Bag,Shirt
@@ -4730,7 +4730,7 @@ Shirt,T-shirt/top
 Sandal,Sandal
 Coat,Coat
 Bag,Bag
-Sandal,Ankle boot
+Sandal,Sneaker
 Sneaker,Sneaker
 Dress,T-shirt/top
 T-shirt/top,T-shirt/top
@@ -4741,11 +4741,11 @@ Pullover,Coat
 Coat,Coat
 Ankle boot,Ankle boot
 Bag,Bag
-Sandal,Ankle boot
+Sandal,Bag
 Ankle boot,Sandal
 Bag,Bag
 Trouser,Trouser
-Ankle boot,Sandal
+Ankle boot,Sneaker
 Sandal,Sandal
 T-shirt/top,T-shirt/top
 Trouser,Trouser
@@ -4754,7 +4754,7 @@ Dress,Dress
 Dress,Dress
 Dress,Dress
 Dress,Dress
-Coat,Coat
+Coat,Pullover
 Coat,Shirt
 Dress,Dress
 Shirt,Shirt
@@ -4776,19 +4776,19 @@ Sneaker,Sneaker
 Bag,Bag
 Coat,Coat
 Shirt,Shirt
-Pullover,Pullover
+Pullover,Coat
 Pullover,Pullover
 Dress,Dress
 Trouser,Trouser
 T-shirt/top,T-shirt/top
 Sneaker,Sandal
 Sandal,Sandal
-Shirt,Shirt
+Shirt,T-shirt/top
 Shirt,Shirt
 Coat,Coat
 Trouser,Trouser
 Trouser,Trouser
-Coat,Pullover
+Coat,Coat
 Sneaker,Sneaker
 Pullover,Pullover
 Dress,Dress
@@ -4797,14 +4797,14 @@ Sandal,Sandal
 T-shirt/top,T-shirt/top
 Coat,Pullover
 Coat,Coat
-Coat,Shirt
+Coat,Dress
 Bag,Sneaker
 Ankle boot,Ankle boot
 Ankle boot,Ankle boot
 Pullover,Pullover
 Shirt,T-shirt/top
 Ankle boot,Ankle boot
-Bag,Bag
+Bag,Sandal
 Dress,Dress
 Sandal,Sneaker
 Dress,Dress
@@ -4834,8 +4834,8 @@ Trouser,Trouser
 Ankle boot,Ankle boot
 Sneaker,Sneaker
 Coat,Coat
-Sandal,Sandal
-Shirt,Dress
+Sandal,Ankle boot
+Shirt,Shirt
 Dress,Dress
 Pullover,Pullover
 Coat,Pullover
@@ -4850,13 +4850,13 @@ Pullover,Pullover
 Ankle boot,Ankle boot
 Coat,Coat
 Ankle boot,Sneaker
-Bag,Bag
-Dress,Shirt
+Bag,Sneaker
+Dress,Coat
 T-shirt/top,T-shirt/top
 Pullover,Pullover
 Sneaker,Sneaker
 Sneaker,Sneaker
-Sandal,Sandal
+Sandal,Ankle boot
 Ankle boot,Ankle boot
 Sneaker,Sandal
 Sneaker,Sneaker
@@ -4865,7 +4865,7 @@ Bag,Bag
 Sneaker,Sneaker
 Sandal,Sandal
 Ankle boot,Ankle boot
-Ankle boot,Ankle boot
+Ankle boot,Sneaker
 Bag,Bag
 Pullover,Pullover
 Trouser,Trouser
@@ -4873,13 +4873,13 @@ T-shirt/top,T-shirt/top
 Bag,Bag
 T-shirt/top,T-shirt/top
 Pullover,Pullover
-Shirt,Pullover
+Shirt,T-shirt/top
 Sneaker,Sneaker
 Ankle boot,Ankle boot
 Pullover,Pullover
-Pullover,Pullover
+Pullover,Shirt
 Sandal,Sandal
-Coat,Coat
+Coat,Pullover
 Dress,Dress
 Pullover,Pullover
 Trouser,Trouser
@@ -4893,7 +4893,7 @@ Ankle boot,Ankle boot
 Bag,Bag
 Ankle boot,Ankle boot
 Shirt,Dress
-Sandal,Ankle boot
+Sandal,Sandal
 Coat,Pullover
 Shirt,T-shirt/top
 T-shirt/top,Shirt
@@ -4916,12 +4916,12 @@ Ankle boot,Ankle boot
 Ankle boot,Ankle boot
 Dress,Dress
 Shirt,Dress
-T-shirt/top,Shirt
+T-shirt/top,T-shirt/top
 Pullover,Pullover
-Bag,Coat
+Bag,Bag
 Sneaker,Sneaker
 Ankle boot,Ankle boot
-Coat,Shirt
+Coat,Dress
 T-shirt/top,T-shirt/top
 T-shirt/top,Shirt
 Coat,Coat
@@ -4935,18 +4935,18 @@ Coat,Coat
 Coat,Coat
 Dress,Pullover
 Dress,Dress
-Sandal,Ankle boot
+Sandal,Sandal
 Sneaker,Sneaker
 Sneaker,Sneaker
 Bag,Bag
 Sandal,Sandal
-Shirt,Shirt
+Shirt,Pullover
 Dress,Dress
-Pullover,Coat
+Pullover,Shirt
 Trouser,Trouser
 Bag,Bag
 Dress,Dress
-Bag,T-shirt/top
+Bag,Ankle boot
 Sandal,Sneaker
 Coat,Coat
 Pullover,Pullover
@@ -4985,16 +4985,16 @@ Trouser,Trouser
 Sandal,Sandal
 Dress,Dress
 Pullover,Shirt
-Bag,Coat
+Bag,Bag
 Sandal,Sandal
 Sneaker,Sneaker
 Bag,Bag
 T-shirt/top,T-shirt/top
 Trouser,Trouser
-Trouser,Trouser
+Trouser,Dress
 T-shirt/top,Pullover
 Shirt,Shirt
-Coat,Coat
+Coat,Pullover
 Sandal,Sandal
 Ankle boot,Ankle boot
 T-shirt/top,T-shirt/top
@@ -5011,10 +5011,10 @@ Coat,Coat
 Ankle boot,Sneaker
 T-shirt/top,T-shirt/top
 Bag,Bag
-Dress,Pullover
-Sandal,Bag
+Dress,Coat
+Sandal,Ankle boot
 Shirt,T-shirt/top
-Pullover,Coat
+Pullover,Trouser
 T-shirt/top,T-shirt/top
 Trouser,Trouser
 Dress,Dress
@@ -5038,7 +5038,7 @@ Dress,Dress
 Coat,Dress
 Dress,Dress
 Sandal,Sandal
-Sandal,Sneaker
+Sandal,Ankle boot
 Shirt,Pullover
 Shirt,Shirt
 Trouser,Trouser
@@ -5052,7 +5052,7 @@ Sandal,Sandal
 Sneaker,Sneaker
 Trouser,Trouser
 Shirt,Coat
-Bag,Bag
+Bag,Ankle boot
 Sneaker,Sneaker
 Ankle boot,Ankle boot
 Sandal,Sneaker
@@ -5068,18 +5068,18 @@ Shirt,Bag
 Coat,Pullover
 Sandal,Sandal
 Pullover,Shirt
-Ankle boot,Sandal
+Ankle boot,Sneaker
 Coat,Dress
 Dress,Dress
 Pullover,Pullover
-Sandal,Sandal
+Sandal,Ankle boot
 Ankle boot,Ankle boot
-Pullover,Coat
+Pullover,Pullover
 Sandal,Sandal
 Ankle boot,Sneaker
 Sneaker,Sneaker
 Dress,Dress
-Bag,Bag
+Bag,Ankle boot
 Dress,Shirt
 Sandal,Ankle boot
 Shirt,Shirt
@@ -5093,8 +5093,8 @@ Sandal,Sandal
 Trouser,Trouser
 Dress,Dress
 Shirt,Pullover
-Ankle boot,Ankle boot
-Dress,Trouser
+Ankle boot,Sandal
+Dress,Dress
 Shirt,Coat
 Pullover,Pullover
 Sandal,Sandal
@@ -5107,40 +5107,40 @@ Pullover,Pullover
 Pullover,Pullover
 Pullover,Pullover
 Coat,Coat
-Shirt,Dress
+Shirt,Shirt
 Bag,Bag
 Sneaker,Sneaker
 Ankle boot,Ankle boot
 Ankle boot,Ankle boot
 Coat,Dress
-Bag,Bag
+Bag,Sandal
 Bag,Bag
 Ankle boot,Ankle boot
 T-shirt/top,T-shirt/top
 Sneaker,Sneaker
 T-shirt/top,Shirt
-Coat,Dress
+Coat,Coat
 Dress,Shirt
 Bag,Bag
-Shirt,Coat
+Shirt,Bag
 Coat,Coat
+Pullover,Coat
+T-shirt/top,T-shirt/top
+Trouser,Trouser
+Coat,Coat
+T-shirt/top,T-shirt/top
 Pullover,Pullover
-T-shirt/top,T-shirt/top
-Trouser,Trouser
-Coat,Coat
-T-shirt/top,T-shirt/top
-Pullover,Shirt
 Trouser,Trouser
 Sandal,Sandal
-Coat,Shirt
+Coat,Coat
 Shirt,Shirt
 Shirt,Shirt
 T-shirt/top,T-shirt/top
-Dress,Dress
+Dress,T-shirt/top
 Coat,Coat
 Sandal,Sandal
-Shirt,Shirt
-Bag,Dress
+Shirt,Pullover
+Bag,Sneaker
 Sneaker,Sneaker
 Shirt,Shirt
 T-shirt/top,Shirt
@@ -5150,18 +5150,18 @@ Bag,Bag
 Bag,Shirt
 Bag,Bag
 Ankle boot,Ankle boot
-Ankle boot,Ankle boot
+Ankle boot,Sneaker
 Sandal,Sandal
 Sandal,Sandal
 Bag,Bag
 Shirt,Pullover
-Sandal,Sandal
+Sandal,Ankle boot
 Coat,Coat
 Coat,Coat
 Pullover,Pullover
 Sandal,Sandal
 Shirt,Coat
-Ankle boot,Ankle boot
+Ankle boot,Bag
 Pullover,Pullover
 Ankle boot,Sneaker
 Trouser,Trouser
@@ -5171,13 +5171,13 @@ Shirt,Coat
 Shirt,Shirt
 Ankle boot,Ankle boot
 Bag,Bag
-T-shirt/top,Dress
+T-shirt/top,T-shirt/top
 Coat,Pullover
 Ankle boot,Ankle boot
 Trouser,Trouser
 Ankle boot,Ankle boot
 Coat,Coat
-Sneaker,Sneaker
+Sneaker,Sandal
 Dress,Dress
 Sandal,Sandal
 Coat,Coat
@@ -5185,18 +5185,18 @@ Dress,Dress
 Coat,Coat
 Shirt,Pullover
 Trouser,Trouser
-Shirt,Shirt
+Shirt,T-shirt/top
 Pullover,Pullover
 Coat,Pullover
 Dress,Dress
 Sneaker,Sneaker
 Bag,Bag
-Coat,Coat
+Coat,Dress
 Sandal,Sandal
-Sandal,Sandal
+Sandal,Bag
 Ankle boot,Ankle boot
 T-shirt/top,T-shirt/top
-Shirt,Bag
+Shirt,Coat
 Dress,Dress
 Coat,Coat
 Sandal,Sandal
@@ -5221,20 +5221,20 @@ Trouser,Trouser
 Ankle boot,Ankle boot
 Coat,Coat
 T-shirt/top,T-shirt/top
-Coat,Pullover
+Coat,Coat
 Pullover,Pullover
 Trouser,Trouser
 Shirt,Shirt
 T-shirt/top,T-shirt/top
 Trouser,Trouser
-Shirt,Pullover
-Sandal,Ankle boot
+Shirt,Shirt
+Sandal,Bag
 T-shirt/top,T-shirt/top
 Bag,Bag
 Trouser,Trouser
 Trouser,Trouser
 Sneaker,Sneaker
-Sandal,Bag
+Sandal,Sandal
 Pullover,Pullover
 Sandal,Sandal
 Ankle boot,Ankle boot
@@ -5253,7 +5253,7 @@ Pullover,Pullover
 Dress,Trouser
 Sneaker,Sneaker
 Trouser,Trouser
-Shirt,Coat
+Shirt,Pullover
 Coat,Pullover
 Dress,Dress
 Dress,Shirt
@@ -5281,10 +5281,10 @@ Trouser,Trouser
 Ankle boot,Ankle boot
 Trouser,Trouser
 Pullover,Pullover
-Shirt,Pullover
+Shirt,Shirt
 Coat,Coat
 Pullover,Pullover
-Sandal,Sneaker
+Sandal,Sandal
 Dress,Dress
 Dress,Dress
 Sandal,Sandal
@@ -5293,14 +5293,14 @@ Sandal,Sandal
 Bag,Bag
 Dress,Dress
 Ankle boot,Ankle boot
-Sneaker,Sneaker
+Sneaker,Sandal
 Dress,Dress
 T-shirt/top,T-shirt/top
 T-shirt/top,Shirt
 Trouser,Trouser
 T-shirt/top,T-shirt/top
 Trouser,Trouser
-T-shirt/top,Shirt
+T-shirt/top,Pullover
 Sneaker,Sneaker
 Sneaker,Sneaker
 Coat,Coat
@@ -5331,13 +5331,13 @@ Sandal,Sandal
 Shirt,Shirt
 Bag,Bag
 Trouser,Trouser
-Sneaker,Sandal
+Sneaker,Sneaker
 Dress,Dress
 T-shirt/top,Dress
 Bag,Bag
 Coat,Pullover
 Sneaker,Sneaker
-T-shirt/top,T-shirt/top
+T-shirt/top,Sandal
 Bag,Bag
 Ankle boot,Ankle boot
 Bag,Bag
@@ -5347,7 +5347,7 @@ Sandal,Sandal
 Shirt,Shirt
 Coat,Coat
 Sandal,Sandal
-Ankle boot,Ankle boot
+Ankle boot,Bag
 T-shirt/top,Shirt
 T-shirt/top,T-shirt/top
 Sandal,Sandal
@@ -5372,7 +5372,7 @@ Sneaker,Sneaker
 Bag,Bag
 Shirt,Shirt
 T-shirt/top,T-shirt/top
-Sandal,Sandal
+Sandal,Ankle boot
 Sneaker,Sneaker
 Ankle boot,Ankle boot
 Bag,Bag
@@ -5382,7 +5382,7 @@ T-shirt/top,T-shirt/top
 Shirt,Shirt
 Coat,Pullover
 Coat,Shirt
-Pullover,Pullover
+Pullover,Shirt
 Bag,Bag
 Ankle boot,Ankle boot
 Ankle boot,Ankle boot
@@ -5409,7 +5409,7 @@ Ankle boot,Ankle boot
 Sandal,Sandal
 Ankle boot,Ankle boot
 Pullover,Pullover
-Shirt,Coat
+Shirt,Shirt
 Ankle boot,Ankle boot
 Sneaker,Sneaker
 Sandal,Sandal
@@ -5420,7 +5420,7 @@ Ankle boot,Ankle boot
 Pullover,Pullover
 Dress,Dress
 Ankle boot,Ankle boot
-Sandal,Sandal
+Sandal,Bag
 Dress,Dress
 Sandal,Sandal
 Shirt,Dress
@@ -5428,7 +5428,7 @@ Trouser,Trouser
 Pullover,Pullover
 Ankle boot,Ankle boot
 Trouser,Trouser
-Coat,Pullover
+Coat,Shirt
 Bag,Bag
 Sandal,Sandal
 Trouser,Trouser
@@ -5440,7 +5440,7 @@ Dress,Dress
 Shirt,T-shirt/top
 Ankle boot,Ankle boot
 T-shirt/top,Dress
-Coat,Coat
+Coat,Pullover
 Shirt,T-shirt/top
 T-shirt/top,T-shirt/top
 T-shirt/top,T-shirt/top
@@ -5449,12 +5449,12 @@ Ankle boot,Ankle boot
 Sneaker,Sneaker
 Trouser,Trouser
 Ankle boot,Ankle boot
-Bag,Shirt
-Sandal,Sandal
+Bag,Bag
+Sandal,Ankle boot
 Shirt,Coat
 Bag,Bag
 Sandal,Sandal
-Ankle boot,Ankle boot
+Ankle boot,Bag
 Sandal,Sandal
 Pullover,Pullover
 Coat,Coat
@@ -5470,12 +5470,12 @@ Trouser,Trouser
 Pullover,Shirt
 Shirt,Shirt
 Bag,Pullover
-Pullover,Shirt
+Pullover,Ankle boot
 Sandal,Sandal
 Shirt,Shirt
 Pullover,Coat
 Shirt,Shirt
-Ankle boot,Sneaker
+Ankle boot,Sandal
 Sandal,Sandal
 Sandal,Sandal
 Trouser,Trouser
@@ -5483,11 +5483,11 @@ Sandal,Sandal
 Pullover,Pullover
 Coat,Coat
 Coat,Coat
-Pullover,Coat
+Pullover,Pullover
 Coat,Coat
 Trouser,Trouser
 Ankle boot,Ankle boot
-Dress,T-shirt/top
+Dress,Bag
 Sneaker,Sneaker
 Pullover,Pullover
 Sneaker,Sneaker
@@ -5497,7 +5497,7 @@ Ankle boot,Ankle boot
 Sneaker,Sneaker
 Coat,Coat
 Shirt,Coat
-Shirt,Shirt
+Shirt,T-shirt/top
 Trouser,Trouser
 Sneaker,Sneaker
 Trouser,Trouser
@@ -5509,9 +5509,9 @@ Sneaker,Sneaker
 Dress,Dress
 T-shirt/top,T-shirt/top
 Dress,Dress
-Shirt,Bag
-Coat,Pullover
-Ankle boot,Pullover
+Shirt,Shirt
+Coat,Sandal
+Ankle boot,Sandal
 T-shirt/top,T-shirt/top
 Coat,Coat
 Trouser,Trouser
@@ -5560,7 +5560,7 @@ Pullover,Pullover
 Sandal,Sandal
 Bag,Bag
 Ankle boot,Ankle boot
-Sandal,Dress
+Sandal,Trouser
 Dress,Dress
 Sandal,Sandal
 Coat,Coat
@@ -5574,7 +5574,7 @@ Shirt,Shirt
 Trouser,Trouser
 Bag,Bag
 Trouser,Trouser
-Dress,Coat
+Dress,Dress
 Dress,Coat
 T-shirt/top,T-shirt/top
 Pullover,Pullover
@@ -5591,7 +5591,7 @@ Trouser,Trouser
 Shirt,Pullover
 T-shirt/top,T-shirt/top
 Sneaker,Sneaker
-Dress,Coat
+Dress,Shirt
 Shirt,Shirt
 Shirt,Pullover
 Dress,Dress
@@ -5609,11 +5609,11 @@ T-shirt/top,T-shirt/top
 Trouser,Trouser
 Sneaker,Sneaker
 Sandal,Sandal
-Dress,Pullover
+Dress,Dress
 Dress,Dress
 Dress,Dress
 Pullover,Pullover
-T-shirt/top,Shirt
+T-shirt/top,Sandal
 Dress,Dress
 Sandal,Sandal
 Pullover,Pullover
@@ -5636,7 +5636,7 @@ T-shirt/top,T-shirt/top
 Shirt,T-shirt/top
 Dress,Dress
 Shirt,Shirt
-T-shirt/top,T-shirt/top
+T-shirt/top,Shirt
 Bag,Bag
 Trouser,Trouser
 Pullover,Pullover
@@ -5651,7 +5651,7 @@ Shirt,Pullover
 Sneaker,Sneaker
 Trouser,Trouser
 Dress,Dress
-Pullover,Coat
+Pullover,Pullover
 Dress,Dress
 Shirt,Shirt
 Trouser,Trouser
@@ -5660,7 +5660,7 @@ Pullover,Pullover
 Bag,Bag
 T-shirt/top,Shirt
 Bag,Bag
-Coat,Bag
+Coat,Ankle boot
 Sneaker,Sneaker
 T-shirt/top,T-shirt/top
 Dress,Dress
@@ -5684,13 +5684,13 @@ Sandal,Sandal
 Shirt,Coat
 Shirt,Shirt
 Ankle boot,Ankle boot
-Sandal,Sandal
+Sandal,Ankle boot
 Coat,Coat
-Dress,Dress
+Dress,Shirt
 Bag,Bag
 Sandal,Sneaker
 Dress,Trouser
-Bag,Bag
+Bag,Shirt
 Dress,Dress
 Sneaker,Sneaker
 Ankle boot,Ankle boot
@@ -5700,10 +5700,10 @@ Sandal,Sandal
 Trouser,Trouser
 T-shirt/top,T-shirt/top
 Sandal,Sandal
-Pullover,Shirt
+Pullover,Pullover
 Dress,Dress
 Sandal,Ankle boot
-Sneaker,Sneaker
+Sneaker,Sandal
 Ankle boot,Ankle boot
 Shirt,Shirt
 T-shirt/top,Shirt
@@ -5725,7 +5725,7 @@ Ankle boot,Ankle boot
 Sneaker,Sneaker
 Dress,Dress
 Pullover,Pullover
-Sandal,Sandal
+Sandal,Ankle boot
 Coat,Coat
 Sandal,Sandal
 Trouser,Trouser
@@ -5757,10 +5757,10 @@ Coat,Coat
 T-shirt/top,T-shirt/top
 Shirt,Shirt
 Sneaker,Sneaker
-Ankle boot,Ankle boot
+Ankle boot,Bag
 T-shirt/top,T-shirt/top
+Trouser,Ankle boot
 Trouser,Dress
-Trouser,Trouser
 Coat,Pullover
 Dress,Trouser
 Shirt,Shirt
@@ -5782,7 +5782,7 @@ Bag,Bag
 Sandal,Sandal
 Sandal,Sandal
 Trouser,Trouser
-Bag,Bag
+Bag,T-shirt/top
 Bag,Bag
 Sandal,Sandal
 Sneaker,Sneaker
@@ -5795,7 +5795,7 @@ Pullover,Pullover
 Sneaker,Sneaker
 Ankle boot,Ankle boot
 Shirt,Coat
-Shirt,Bag
+Shirt,Shirt
 Sneaker,Sneaker
 Sandal,Sandal
 Coat,Coat
@@ -5807,8 +5807,8 @@ Pullover,Coat
 Pullover,Pullover
 Shirt,T-shirt/top
 Ankle boot,Ankle boot
-T-shirt/top,Shirt
-T-shirt/top,Dress
+T-shirt/top,Coat
+T-shirt/top,T-shirt/top
 Sandal,Sandal
 Trouser,Trouser
 Trouser,Trouser
@@ -5839,7 +5839,7 @@ Sneaker,Sneaker
 T-shirt/top,T-shirt/top
 Bag,Bag
 Coat,Coat
-Dress,Dress
+Dress,T-shirt/top
 Shirt,Shirt
 Ankle boot,Ankle boot
 Trouser,Trouser
@@ -5872,7 +5872,7 @@ Sneaker,Sneaker
 Sandal,Sandal
 Bag,Bag
 Sneaker,Sneaker
-Shirt,Coat
+Shirt,Shirt
 Shirt,Shirt
 Ankle boot,Ankle boot
 T-shirt/top,T-shirt/top
@@ -5880,7 +5880,7 @@ Trouser,Trouser
 Bag,Bag
 Sneaker,Sneaker
 Sandal,Sandal
-Coat,Pullover
+Coat,Shirt
 Sandal,Sandal
 Dress,Dress
 Sneaker,Sneaker
@@ -5895,7 +5895,7 @@ Trouser,Trouser
 Ankle boot,Ankle boot
 Sandal,Sandal
 Ankle boot,Ankle boot
-Coat,Shirt
+Coat,Coat
 Coat,Coat
 Trouser,Trouser
 Sandal,Ankle boot
@@ -5906,7 +5906,7 @@ Trouser,Trouser
 Bag,Bag
 Shirt,Shirt
 Sandal,Sandal
-T-shirt/top,Pullover
+T-shirt/top,Sandal
 Pullover,Pullover
 Dress,Dress
 Sneaker,Sneaker
@@ -5916,7 +5916,7 @@ Trouser,Trouser
 Bag,T-shirt/top
 Sneaker,Sneaker
 Sandal,Sandal
-Shirt,Shirt
+Shirt,Coat
 Dress,Dress
 Coat,Pullover
 Sneaker,Sneaker
@@ -5933,19 +5933,19 @@ Sneaker,Sneaker
 Dress,Dress
 Pullover,Pullover
 Dress,Dress
-Pullover,Coat
+Pullover,Pullover
 Sneaker,Sneaker
 Bag,Bag
 T-shirt/top,T-shirt/top
 Ankle boot,Sneaker
-T-shirt/top,T-shirt/top
+T-shirt/top,Shirt
 Ankle boot,Ankle boot
 Sandal,Sandal
 Bag,Bag
 T-shirt/top,Shirt
 Sneaker,Sneaker
 Dress,Dress
-Ankle boot,Sandal
+Ankle boot,Ankle boot
 T-shirt/top,T-shirt/top
 Ankle boot,Ankle boot
 Sneaker,Sneaker
@@ -5955,7 +5955,7 @@ Shirt,Shirt
 Sandal,Sandal
 Sneaker,Sneaker
 Bag,Bag
-Pullover,Coat
+Pullover,Pullover
 Dress,Dress
 Trouser,Trouser
 Ankle boot,Ankle boot
@@ -5966,8 +5966,8 @@ Trouser,Trouser
 Dress,Dress
 Coat,Coat
 T-shirt/top,Shirt
-Dress,Dress
-T-shirt/top,Dress
+Dress,Coat
+T-shirt/top,Bag
 Shirt,Shirt
 Pullover,Pullover
 Dress,Dress
@@ -5979,7 +5979,7 @@ Sandal,Sandal
 Shirt,T-shirt/top
 Trouser,Trouser
 Bag,Bag
-Pullover,Shirt
+Pullover,Coat
 Coat,Coat
 Trouser,Trouser
 Shirt,Coat
@@ -5989,13 +5989,13 @@ Coat,Coat
 Shirt,Dress
 Sneaker,Sneaker
 Ankle boot,Ankle boot
-Shirt,Shirt
+Shirt,Bag
 Dress,Dress
 Sandal,Sandal
 Coat,Coat
-Sandal,Sandal
+Sandal,Sneaker
 Ankle boot,Ankle boot
-Bag,Bag
+Bag,T-shirt/top
 Sandal,Sneaker
 Dress,Dress
 T-shirt/top,T-shirt/top
@@ -6008,10 +6008,10 @@ Ankle boot,Ankle boot
 Coat,Coat
 Coat,Coat
 Shirt,Shirt
-Sandal,Sandal
+Sandal,Bag
 Sandal,Sandal
 Coat,Coat
-Dress,T-shirt/top
+Dress,Shirt
 Pullover,Pullover
 T-shirt/top,T-shirt/top
 Trouser,Trouser
@@ -6049,7 +6049,7 @@ Trouser,Trouser
 Ankle boot,Ankle boot
 Trouser,Trouser
 Dress,Dress
-Bag,Bag
+Bag,Ankle boot
 Ankle boot,Ankle boot
 Ankle boot,Ankle boot
 Trouser,Trouser
@@ -6064,9 +6064,9 @@ Sandal,Ankle boot
 Dress,Dress
 Bag,Bag
 Ankle boot,Ankle boot
-T-shirt/top,Pullover
+T-shirt/top,Coat
 Sneaker,Sneaker
-Bag,Bag
+Bag,Ankle boot
 Pullover,Pullover
 Ankle boot,Ankle boot
 Pullover,Pullover
@@ -6094,11 +6094,11 @@ T-shirt/top,T-shirt/top
 Sandal,Sandal
 Trouser,Trouser
 T-shirt/top,T-shirt/top
-Bag,Bag
+Bag,Pullover
 Shirt,Pullover
 Dress,Dress
 Sneaker,Sneaker
-Pullover,Sandal
+Pullover,Pullover
 Trouser,Trouser
 Ankle boot,Ankle boot
 Sneaker,Sneaker
@@ -6120,7 +6120,7 @@ Trouser,Dress
 Sandal,Sandal
 Coat,Coat
 Shirt,Shirt
-Shirt,Pullover
+Shirt,Shirt
 Trouser,Trouser
 Sandal,Sandal
 Pullover,Pullover
@@ -6158,7 +6158,7 @@ Pullover,Pullover
 Shirt,Coat
 Trouser,Trouser
 Trouser,Trouser
-Shirt,Shirt
+Shirt,T-shirt/top
 Shirt,Coat
 Trouser,Trouser
 Coat,Coat
@@ -6167,8 +6167,8 @@ Bag,Shirt
 Sandal,Sandal
 Ankle boot,Ankle boot
 Trouser,Trouser
-Sandal,Ankle boot
-Shirt,Shirt
+Sandal,Sandal
+Shirt,T-shirt/top
 Ankle boot,Ankle boot
 Dress,Coat
 Pullover,Pullover
@@ -6179,7 +6179,7 @@ Ankle boot,Ankle boot
 Bag,Bag
 Bag,Bag
 Ankle boot,Ankle boot
-Sandal,Sandal
+Sandal,Ankle boot
 Sandal,Sandal
 Dress,Dress
 Bag,Bag
@@ -6190,7 +6190,7 @@ Shirt,Shirt
 Trouser,Trouser
 Trouser,Trouser
 Ankle boot,Ankle boot
-T-shirt/top,Ankle boot
+T-shirt/top,Shirt
 Ankle boot,Ankle boot
 Sneaker,Sneaker
 Sandal,Sandal
@@ -6212,7 +6212,7 @@ Sneaker,Sneaker
 Coat,Coat
 Ankle boot,Ankle boot
 Pullover,Pullover
-Bag,Bag
+Bag,Pullover
 Sandal,Sandal
 Bag,Bag
 Shirt,Shirt
@@ -6229,22 +6229,22 @@ Pullover,Pullover
 Bag,Bag
 Dress,Dress
 Pullover,Pullover
-Bag,Coat
+Bag,Bag
 Shirt,Shirt
 Trouser,Trouser
 Bag,Bag
 Coat,Shirt
 Sandal,Sandal
-Coat,Coat
+Coat,Shirt
 Pullover,Pullover
 Dress,Dress
 Ankle boot,Ankle boot
 T-shirt/top,T-shirt/top
-Coat,Pullover
-Coat,Dress
+Coat,Coat
+Coat,Shirt
 Pullover,Pullover
 Sandal,Sandal
-Coat,Pullover
+Coat,Coat
 Pullover,Pullover
 Sneaker,Sneaker
 Shirt,Dress
@@ -6262,7 +6262,7 @@ Dress,Dress
 Shirt,Shirt
 Sneaker,Sneaker
 Pullover,Pullover
-Sandal,Sandal
+Sandal,Bag
 Dress,Dress
 Trouser,Trouser
 Trouser,Trouser
@@ -6285,8 +6285,8 @@ T-shirt/top,T-shirt/top
 Ankle boot,Ankle boot
 Pullover,Pullover
 Pullover,Coat
-Pullover,Pullover
-Dress,T-shirt/top
+Pullover,Shirt
+Dress,Dress
 Pullover,Pullover
 Coat,Coat
 Ankle boot,Ankle boot
@@ -6295,13 +6295,13 @@ Dress,Dress
 T-shirt/top,Dress
 Coat,Coat
 Pullover,Pullover
-T-shirt/top,Pullover
+T-shirt/top,T-shirt/top
 Coat,Pullover
 Trouser,Trouser
 Dress,Dress
-Sneaker,Sneaker
+Sneaker,Ankle boot
 Pullover,Pullover
-Coat,Shirt
+Coat,Coat
 Pullover,Pullover
 Pullover,Pullover
 Dress,Dress
@@ -6322,15 +6322,15 @@ Trouser,Trouser
 Trouser,Trouser
 Ankle boot,Ankle boot
 Shirt,Shirt
-Sandal,Sneaker
+Sandal,Sandal
 Ankle boot,Ankle boot
-Shirt,T-shirt/top
+Shirt,Shirt
 Bag,Bag
 T-shirt/top,T-shirt/top
 Dress,Dress
 Shirt,Pullover
 Dress,Dress
-Trouser,Bag
+Trouser,Sandal
 Dress,Dress
 Sneaker,Sneaker
 Sandal,Sandal
@@ -6359,7 +6359,7 @@ Shirt,Shirt
 Sneaker,Sneaker
 Sandal,Ankle boot
 Ankle boot,Ankle boot
-Coat,Shirt
+Coat,Coat
 Ankle boot,Ankle boot
 Dress,Dress
 Shirt,Pullover
@@ -6367,7 +6367,7 @@ Shirt,Shirt
 T-shirt/top,Pullover
 Bag,Bag
 Sandal,Sneaker
-Shirt,Pullover
+Shirt,Coat
 Sandal,Sandal
 Ankle boot,Ankle boot
 Bag,Bag
@@ -6380,7 +6380,7 @@ Dress,Coat
 Sandal,Sandal
 Shirt,Shirt
 Sandal,Sandal
-Coat,Shirt
+Coat,Coat
 Coat,Coat
 Ankle boot,Ankle boot
 Shirt,T-shirt/top
@@ -6409,9 +6409,9 @@ Sneaker,Sneaker
 Shirt,Shirt
 Sneaker,Sneaker
 Trouser,Trouser
-Bag,Bag
+Bag,Sandal
 Sneaker,Sneaker
-Sandal,Sandal
+Sandal,Bag
 Trouser,Trouser
 Dress,Dress
 Trouser,Trouser
@@ -6425,7 +6425,7 @@ Shirt,Shirt
 Dress,Dress
 Coat,Coat
 Ankle boot,Ankle boot
-Dress,Coat
+Dress,Shirt
 Trouser,Trouser
 Sandal,Sandal
 Dress,Dress
@@ -6440,10 +6440,10 @@ Shirt,Pullover
 Shirt,Shirt
 Pullover,Shirt
 Bag,Bag
-Bag,Dress
-Ankle boot,Ankle boot
+Bag,Sandal
+Ankle boot,Bag
 Bag,Bag
-Shirt,Dress
+Shirt,Sandal
 Sneaker,Sneaker
 Pullover,Pullover
 Coat,Coat
@@ -6451,7 +6451,7 @@ Pullover,Pullover
 Sandal,Sandal
 Trouser,Trouser
 Ankle boot,Ankle boot
-Shirt,Ankle boot
+Shirt,Coat
 Dress,Dress
 Bag,Bag
 Sneaker,Sneaker
@@ -6465,7 +6465,7 @@ Pullover,Pullover
 Coat,Coat
 Coat,Dress
 Coat,Coat
-Shirt,T-shirt/top
+Shirt,Pullover
 Trouser,Trouser
 Dress,Dress
 Sandal,Sandal
@@ -6487,7 +6487,7 @@ Bag,Bag
 T-shirt/top,Shirt
 Pullover,Pullover
 Trouser,Trouser
-Ankle boot,Ankle boot
+Ankle boot,Sneaker
 Sneaker,Sneaker
 Sneaker,Sandal
 Dress,Shirt
@@ -6497,14 +6497,14 @@ Dress,Dress
 T-shirt/top,T-shirt/top
 Ankle boot,Ankle boot
 Bag,Bag
-Sandal,Ankle boot
+Sandal,Bag
 Shirt,Shirt
-Coat,Pullover
+Coat,Dress
 Bag,Bag
 Trouser,Trouser
 Sandal,Sneaker
 Sandal,Sneaker
-Sneaker,Sandal
+Sneaker,Sneaker
 T-shirt/top,T-shirt/top
 Trouser,Trouser
 Shirt,Shirt
@@ -6539,7 +6539,7 @@ Bag,Bag
 Ankle boot,Ankle boot
 Trouser,Trouser
 Shirt,Coat
-Shirt,Coat
+Shirt,Shirt
 Sneaker,Sneaker
 T-shirt/top,Shirt
 Bag,Bag
@@ -6549,24 +6549,24 @@ Pullover,Pullover
 Coat,Shirt
 Shirt,Coat
 Sneaker,Sneaker
-Sandal,Sandal
+Sandal,Bag
 Sneaker,Sneaker
 Ankle boot,Ankle boot
-Ankle boot,Ankle boot
+Ankle boot,Sandal
 Dress,Dress
 Ankle boot,Ankle boot
 Coat,Coat
 Coat,Coat
 Shirt,T-shirt/top
-Coat,Coat
+Coat,Pullover
 Trouser,Trouser
-Coat,Shirt
+Coat,Coat
 Bag,Bag
 Coat,Coat
 Pullover,Pullover
 Bag,Sneaker
-Shirt,Shirt
-Pullover,Pullover
+Shirt,Sandal
+Pullover,Coat
 Pullover,Pullover
 Ankle boot,Ankle boot
 Trouser,Trouser
@@ -6603,7 +6603,7 @@ Bag,Bag
 Coat,Coat
 Sandal,Sandal
 Ankle boot,Ankle boot
-Sandal,Sandal
+Sandal,Sneaker
 Sandal,Sandal
 Trouser,Trouser
 Pullover,Pullover
@@ -6612,14 +6612,14 @@ Sneaker,Sneaker
 Pullover,Pullover
 Ankle boot,Ankle boot
 Sneaker,Sneaker
-Bag,Bag
+Bag,Shirt
 Dress,Shirt
 Sneaker,Sneaker
 Coat,Coat
 Shirt,Shirt
 Dress,Coat
 Bag,Bag
-Bag,Bag
+Bag,Coat
 Coat,Coat
 Sandal,Sandal
 Trouser,Trouser
@@ -6628,25 +6628,25 @@ Pullover,Pullover
 Shirt,Coat
 Pullover,Pullover
 Pullover,Pullover
-Ankle boot,Ankle boot
+Ankle boot,Shirt
 Bag,Bag
 Ankle boot,Ankle boot
 T-shirt/top,T-shirt/top
 Pullover,Pullover
-Sandal,Sneaker
+Sandal,Sandal
 Ankle boot,Ankle boot
 Dress,Coat
 Sandal,Sandal
 Ankle boot,Ankle boot
 Bag,Bag
-Shirt,Coat
+Shirt,Shirt
 Dress,Dress
 Ankle boot,Ankle boot
 Sandal,Sandal
 Ankle boot,Ankle boot
 Dress,Dress
 T-shirt/top,T-shirt/top
-Bag,Pullover
+Bag,Bag
 Shirt,Shirt
 T-shirt/top,Dress
 Shirt,Shirt
@@ -6657,40 +6657,40 @@ T-shirt/top,T-shirt/top
 Shirt,T-shirt/top
 Trouser,Dress
 Bag,Bag
-Shirt,Shirt
+Shirt,Pullover
 Ankle boot,Ankle boot
 T-shirt/top,T-shirt/top
 T-shirt/top,T-shirt/top
-Sneaker,Sneaker
+Sneaker,Sandal
 Shirt,Shirt
 Shirt,Shirt
 Bag,Shirt
 Sneaker,Sneaker
 Shirt,Shirt
-Bag,Bag
-Bag,Bag
+Bag,Sneaker
+Bag,Sneaker
 Pullover,Pullover
 T-shirt/top,T-shirt/top
 Dress,Dress
-Shirt,Shirt
+Shirt,T-shirt/top
 Sneaker,Sneaker
 Trouser,Trouser
 Dress,Coat
 Sneaker,Sneaker
 Coat,Coat
 T-shirt/top,Shirt
-Sneaker,Sneaker
+Sneaker,Ankle boot
 Trouser,Trouser
 Shirt,Shirt
 Sandal,Sandal
 Pullover,Pullover
-T-shirt/top,T-shirt/top
+T-shirt/top,Shirt
 Sneaker,Ankle boot
 Ankle boot,Ankle boot
 T-shirt/top,Bag
 Dress,Coat
 Bag,Bag
-Pullover,Bag
+Pullover,Sandal
 Trouser,Trouser
 Trouser,Trouser
 Bag,Bag
@@ -6703,13 +6703,13 @@ Shirt,Shirt
 Sneaker,Ankle boot
 Coat,Coat
 Dress,Dress
-Ankle boot,Ankle boot
+Ankle boot,Sandal
 Dress,Dress
 Bag,Bag
 Ankle boot,Ankle boot
 T-shirt/top,T-shirt/top
 Coat,Pullover
-T-shirt/top,Shirt
+T-shirt/top,T-shirt/top
 Coat,Coat
 Sandal,Sandal
 Sneaker,Sneaker
@@ -6727,7 +6727,7 @@ Dress,Dress
 Trouser,Trouser
 Dress,Dress
 Sandal,Sandal
-Coat,Coat
+Coat,Pullover
 Ankle boot,Ankle boot
 Coat,Coat
 Dress,Dress
@@ -6736,7 +6736,7 @@ Ankle boot,Sneaker
 Pullover,Pullover
 T-shirt/top,T-shirt/top
 Bag,Bag
-T-shirt/top,T-shirt/top
+T-shirt/top,Dress
 Ankle boot,Ankle boot
 Trouser,Trouser
 Ankle boot,Ankle boot
@@ -6765,9 +6765,9 @@ T-shirt/top,T-shirt/top
 Trouser,Trouser
 Dress,Dress
 Sneaker,Sneaker
-Ankle boot,Ankle boot
+Ankle boot,Sandal
 Trouser,Trouser
-Sandal,Sandal
+Sandal,Bag
 Ankle boot,Ankle boot
 Shirt,Dress
 T-shirt/top,T-shirt/top
@@ -6818,7 +6818,7 @@ Dress,Dress
 Pullover,Pullover
 T-shirt/top,T-shirt/top
 Coat,Coat
-Bag,Bag
+Bag,Sandal
 Pullover,Coat
 T-shirt/top,T-shirt/top
 Shirt,Coat
@@ -6843,7 +6843,7 @@ Trouser,Trouser
 Pullover,Pullover
 Bag,Bag
 Sandal,Sandal
-Shirt,Coat
+Shirt,Pullover
 Dress,Dress
 T-shirt/top,Shirt
 T-shirt/top,T-shirt/top
@@ -6865,10 +6865,10 @@ Sandal,Sandal
 Sneaker,Sneaker
 Sneaker,Sneaker
 Dress,Dress
-Pullover,Shirt
+Pullover,Coat
 Sandal,Sandal
 Sneaker,Ankle boot
-Dress,Shirt
+Dress,Pullover
 Shirt,Shirt
 Sneaker,Sneaker
 Dress,Dress
@@ -6893,10 +6893,10 @@ Bag,Bag
 Dress,Dress
 Sandal,Ankle boot
 T-shirt/top,T-shirt/top
-Sandal,Sandal
+Sandal,Ankle boot
 Dress,Dress
 Bag,Bag
-Sandal,Ankle boot
+Sandal,Pullover
 Sneaker,Sneaker
 Coat,Shirt
 Ankle boot,Ankle boot
@@ -6914,7 +6914,7 @@ Bag,Bag
 Sneaker,Sneaker
 Trouser,Trouser
 Dress,Dress
-Sneaker,Sneaker
+Sneaker,Ankle boot
 Bag,Shirt
 Ankle boot,Ankle boot
 Sandal,Sandal
@@ -6926,12 +6926,12 @@ Sandal,Sandal
 T-shirt/top,T-shirt/top
 Bag,Bag
 T-shirt/top,Shirt
-Dress,Pullover
+Dress,Dress
 Shirt,Shirt
 T-shirt/top,Pullover
 Bag,Bag
 Bag,Bag
-Ankle boot,Ankle boot
+Ankle boot,Sneaker
 Shirt,Shirt
 Ankle boot,Ankle boot
 Trouser,Trouser
@@ -6939,9 +6939,9 @@ Sandal,Sandal
 Trouser,Trouser
 Pullover,Pullover
 Trouser,Trouser
-Dress,Coat
-Pullover,Pullover
+Dress,Dress
 Pullover,Shirt
+Pullover,Dress
 Pullover,Pullover
 Coat,Coat
 Sandal,Sandal
@@ -6958,8 +6958,8 @@ Shirt,Shirt
 Sandal,Sandal
 Shirt,Shirt
 Shirt,T-shirt/top
-Coat,Coat
-T-shirt/top,Shirt
+Coat,Pullover
+T-shirt/top,T-shirt/top
 Sneaker,Sandal
 Trouser,Trouser
 Sandal,Sandal
@@ -6974,11 +6974,11 @@ Coat,Coat
 T-shirt/top,T-shirt/top
 Sneaker,Sneaker
 Trouser,Trouser
+Bag,Ankle boot
+Sandal,Sandal
+Sneaker,Sandal
 Bag,Bag
 Sandal,Sandal
-Sneaker,Sneaker
-Bag,Bag
-Sandal,Sneaker
 Sandal,Sandal
 Trouser,Trouser
 Bag,Bag
@@ -6989,10 +6989,10 @@ Sneaker,Sneaker
 Shirt,Shirt
 Sandal,Sandal
 Pullover,Shirt
-Pullover,Coat
+Pullover,Pullover
 Trouser,Trouser
 Pullover,Pullover
-Coat,Coat
+Coat,Pullover
 Coat,Coat
 Trouser,Trouser
 Shirt,T-shirt/top
@@ -7001,7 +7001,7 @@ Ankle boot,Ankle boot
 Trouser,Trouser
 Bag,Bag
 Pullover,Pullover
-Dress,Shirt
+Dress,Coat
 Sneaker,Sneaker
 Shirt,Coat
 Ankle boot,Ankle boot
@@ -7011,8 +7011,8 @@ Coat,Coat
 Dress,Dress
 Ankle boot,Ankle boot
 Sandal,Sandal
-Shirt,T-shirt/top
-Pullover,Shirt
+Shirt,Shirt
+Pullover,Dress
 Pullover,Pullover
 Sneaker,Sneaker
 Dress,Dress
@@ -7025,9 +7025,9 @@ T-shirt/top,T-shirt/top
 Ankle boot,Ankle boot
 Shirt,Shirt
 Shirt,T-shirt/top
-Shirt,Sandal
+Shirt,Pullover
 Sandal,Sandal
-Ankle boot,Ankle boot
+Ankle boot,Sneaker
 Trouser,Trouser
 Shirt,Coat
 Sandal,Sandal
@@ -7035,7 +7035,7 @@ Pullover,Coat
 T-shirt/top,T-shirt/top
 Pullover,Pullover
 Dress,Dress
-Trouser,Dress
+Trouser,Trouser
 Trouser,Trouser
 Trouser,Trouser
 Sneaker,Sneaker
@@ -7061,7 +7061,7 @@ Bag,Bag
 T-shirt/top,T-shirt/top
 Bag,Bag
 T-shirt/top,T-shirt/top
-Ankle boot,Sandal
+Ankle boot,Ankle boot
 Sandal,Sandal
 Shirt,Shirt
 Sneaker,Sneaker
@@ -7108,7 +7108,7 @@ Dress,Dress
 T-shirt/top,T-shirt/top
 Coat,Coat
 Pullover,Pullover
-Dress,Dress
+Dress,Pullover
 Coat,Coat
 Shirt,Shirt
 Shirt,T-shirt/top
@@ -7140,7 +7140,7 @@ T-shirt/top,T-shirt/top
 Coat,Coat
 T-shirt/top,T-shirt/top
 Dress,Dress
-T-shirt/top,T-shirt/top
+T-shirt/top,Shirt
 Pullover,Pullover
 Dress,Dress
 Sandal,Sandal
@@ -7156,18 +7156,18 @@ Ankle boot,Ankle boot
 Coat,Coat
 Trouser,Trouser
 Trouser,Trouser
-Ankle boot,Ankle boot
+Ankle boot,Bag
 T-shirt/top,T-shirt/top
 Sneaker,Sneaker
 T-shirt/top,T-shirt/top
 T-shirt/top,T-shirt/top
 Ankle boot,Ankle boot
-Shirt,Shirt
+Shirt,Trouser
 T-shirt/top,T-shirt/top
 Pullover,Coat
 Ankle boot,Ankle boot
 Shirt,Pullover
-Bag,Bag
+Bag,Ankle boot
 Sandal,Sandal
 Sandal,Sandal
 Ankle boot,Ankle boot
@@ -7203,8 +7203,8 @@ T-shirt/top,T-shirt/top
 Sandal,Sandal
 Trouser,Trouser
 Trouser,Trouser
-Bag,Bag
-Pullover,Coat
+Bag,T-shirt/top
+Pullover,Pullover
 Sandal,Sandal
 Dress,Dress
 Sandal,Sandal
@@ -7214,7 +7214,7 @@ Coat,Pullover
 Dress,Dress
 Trouser,Trouser
 Pullover,Pullover
-Sneaker,Ankle boot
+Sneaker,Sneaker
 Ankle boot,Ankle boot
 Shirt,Shirt
 Dress,Dress
@@ -7222,12 +7222,12 @@ Bag,Bag
 Sandal,Sandal
 Shirt,Pullover
 Shirt,Shirt
-Ankle boot,Sandal
+Ankle boot,Ankle boot
 Trouser,Trouser
 Sandal,Sandal
 Sneaker,Sneaker
 Sneaker,Sneaker
-Coat,Coat
+Coat,Dress
 Pullover,Pullover
 Pullover,Pullover
 Sneaker,Sneaker
@@ -7246,7 +7246,7 @@ Coat,Coat
 Shirt,T-shirt/top
 Pullover,Pullover
 Ankle boot,Ankle boot
-Ankle boot,Ankle boot
+Ankle boot,Bag
 T-shirt/top,T-shirt/top
 T-shirt/top,Pullover
 Sneaker,Sneaker
@@ -7261,11 +7261,11 @@ Shirt,Coat
 Sneaker,Sneaker
 Trouser,Trouser
 Bag,Bag
-Shirt,Pullover
+Shirt,Coat
 T-shirt/top,T-shirt/top
 Dress,Dress
 Coat,Coat
-T-shirt/top,T-shirt/top
+T-shirt/top,Trouser
 Dress,Pullover
 Ankle boot,Ankle boot
 Bag,Bag
@@ -7277,7 +7277,7 @@ Ankle boot,Ankle boot
 Pullover,Pullover
 Trouser,Trouser
 Sandal,Sandal
-Coat,Pullover
+Coat,Coat
 Sandal,Sandal
 T-shirt/top,T-shirt/top
 Bag,Bag
@@ -7302,7 +7302,7 @@ Pullover,Pullover
 Ankle boot,Ankle boot
 Pullover,Pullover
 Pullover,Pullover
-Shirt,Shirt
+Shirt,Coat
 Coat,Coat
 T-shirt/top,Shirt
 Trouser,Trouser
@@ -7353,8 +7353,8 @@ Pullover,Pullover
 Bag,Bag
 Bag,Bag
 Sandal,Sandal
-Ankle boot,Ankle boot
-Pullover,Pullover
+Ankle boot,Bag
+Pullover,Shirt
 Sneaker,Sneaker
 Trouser,Trouser
 Ankle boot,Ankle boot
@@ -7381,7 +7381,7 @@ Ankle boot,Ankle boot
 Bag,Bag
 Sandal,Sandal
 Bag,Bag
-Dress,Dress
+Dress,Trouser
 Coat,Coat
 Trouser,Trouser
 Coat,Coat
@@ -7423,18 +7423,18 @@ Trouser,Trouser
 T-shirt/top,T-shirt/top
 Sandal,Sandal
 Trouser,Trouser
-Coat,Pullover
+Coat,Coat
 T-shirt/top,Dress
 Ankle boot,Ankle boot
 Pullover,Pullover
-Shirt,Coat
+Shirt,Shirt
 Dress,Dress
 Shirt,Shirt
 Sneaker,Sneaker
-Coat,Coat
+Coat,Shirt
 Shirt,Shirt
 Coat,Coat
-Dress,Shirt
+Dress,Pullover
 Bag,Bag
 Sandal,Sandal
 Trouser,Trouser
@@ -7445,7 +7445,7 @@ Pullover,Coat
 Sandal,Sandal
 Shirt,Shirt
 T-shirt/top,Shirt
-Sneaker,Sneaker
+Sneaker,Sandal
 Bag,Bag
 Sneaker,Sneaker
 Coat,Coat
@@ -7463,7 +7463,7 @@ Trouser,Trouser
 Dress,Dress
 Sneaker,Sneaker
 Trouser,Trouser
-Ankle boot,Sneaker
+Ankle boot,Ankle boot
 Shirt,Shirt
 Sandal,Sandal
 Pullover,Shirt
@@ -7480,10 +7480,10 @@ Trouser,Trouser
 Sneaker,Sneaker
 Bag,Bag
 Bag,Bag
-Shirt,Pullover
+Shirt,Shirt
 Bag,Bag
 T-shirt/top,T-shirt/top
-Sandal,Sandal
+Sandal,Ankle boot
 Sandal,Sandal
 Sneaker,Sneaker
 Trouser,Trouser
@@ -7496,13 +7496,13 @@ Trouser,Trouser
 Ankle boot,Ankle boot
 Shirt,T-shirt/top
 Trouser,Trouser
-Shirt,Shirt
+Shirt,Bag
 Dress,Dress
 Pullover,Pullover
 Sandal,Sneaker
 Dress,Dress
 Ankle boot,Ankle boot
-Dress,T-shirt/top
+Dress,Dress
 Sandal,Sandal
 Coat,Coat
 T-shirt/top,T-shirt/top
@@ -7519,14 +7519,14 @@ Dress,Dress
 Shirt,Shirt
 Coat,Coat
 Trouser,Trouser
-Coat,Coat
+Coat,Pullover
 Ankle boot,Ankle boot
 Sandal,Sandal
 Bag,Bag
 Ankle boot,Ankle boot
-Sneaker,Ankle boot
+Sneaker,Bag
 Dress,Dress
-Shirt,Shirt
+Shirt,Pullover
 Ankle boot,Ankle boot
 Sandal,Sandal
 Ankle boot,Ankle boot
@@ -7544,7 +7544,7 @@ Bag,Bag
 Ankle boot,Ankle boot
 Sneaker,Sneaker
 Coat,Coat
-Coat,Shirt
+Coat,Coat
 Trouser,Trouser
 Ankle boot,Ankle boot
 Ankle boot,Ankle boot
@@ -7574,7 +7574,7 @@ Coat,Coat
 Sneaker,Sneaker
 Ankle boot,Ankle boot
 Bag,Bag
-T-shirt/top,T-shirt/top
+T-shirt/top,Shirt
 Dress,Dress
 T-shirt/top,T-shirt/top
 Coat,Coat
@@ -7582,7 +7582,7 @@ Sandal,Sandal
 Sneaker,Sneaker
 Shirt,Shirt
 Sneaker,Sneaker
-Dress,Dress
+Dress,Bag
 Sandal,Sandal
 T-shirt/top,T-shirt/top
 Pullover,Shirt
@@ -7590,8 +7590,8 @@ Dress,Shirt
 Dress,Dress
 Dress,Shirt
 T-shirt/top,T-shirt/top
-Shirt,Shirt
-Coat,Shirt
+Shirt,T-shirt/top
+Coat,Coat
 Coat,Coat
 Coat,Coat
 Coat,Shirt
@@ -7603,7 +7603,7 @@ Sneaker,Sneaker
 Coat,Coat
 T-shirt/top,T-shirt/top
 Pullover,Pullover
-Pullover,Coat
+Pullover,Shirt
 Trouser,Trouser
 Ankle boot,Ankle boot
 Sandal,Sandal
@@ -7612,7 +7612,7 @@ Ankle boot,Ankle boot
 T-shirt/top,T-shirt/top
 Sandal,Sandal
 Bag,Bag
-Shirt,Shirt
+Shirt,Ankle boot
 Sneaker,Sneaker
 Dress,Dress
 Ankle boot,Ankle boot
@@ -7624,7 +7624,7 @@ Sandal,Sandal
 Bag,Bag
 T-shirt/top,T-shirt/top
 T-shirt/top,T-shirt/top
-Dress,Coat
+Dress,Dress
 T-shirt/top,T-shirt/top
 Shirt,Shirt
 Dress,Dress
@@ -7639,11 +7639,11 @@ Trouser,Trouser
 Trouser,Trouser
 Dress,Pullover
 Pullover,Pullover
-Pullover,Dress
+Pullover,Shirt
 Sandal,Sandal
 Coat,Coat
-Dress,Shirt
-Ankle boot,Ankle boot
+Dress,Dress
+Ankle boot,Shirt
 Dress,Dress
 Dress,Coat
 Pullover,Shirt
@@ -7657,7 +7657,7 @@ Shirt,Coat
 Sneaker,Sneaker
 Sandal,Sandal
 Sandal,Sandal
-Ankle boot,Ankle boot
+Ankle boot,Bag
 Pullover,Pullover
 Shirt,T-shirt/top
 Ankle boot,Ankle boot
@@ -7679,7 +7679,7 @@ Sneaker,Sneaker
 Ankle boot,Ankle boot
 Shirt,Shirt
 Dress,Coat
-T-shirt/top,Trouser
+T-shirt/top,Pullover
 Dress,Dress
 Sneaker,Sandal
 Coat,Pullover
@@ -7706,7 +7706,7 @@ Ankle boot,Sneaker
 Ankle boot,Ankle boot
 Sneaker,Sneaker
 Dress,Dress
-Pullover,Pullover
+Pullover,Shirt
 Pullover,Pullover
 Coat,Pullover
 Sneaker,Sneaker
@@ -7728,7 +7728,7 @@ Sandal,Sandal
 Sneaker,Sneaker
 Pullover,Pullover
 Sneaker,Sneaker
-Pullover,Coat
+Pullover,Pullover
 Bag,Bag
 Sneaker,Sneaker
 Sandal,Sandal
@@ -7753,7 +7753,7 @@ Dress,Dress
 Coat,Coat
 Coat,Coat
 Pullover,Pullover
-Sandal,Sandal
+Sandal,Bag
 Sneaker,Sneaker
 Pullover,Pullover
 Trouser,Trouser
@@ -7763,12 +7763,12 @@ Sneaker,Sneaker
 Sneaker,Sneaker
 T-shirt/top,T-shirt/top
 Trouser,Trouser
-Shirt,Shirt
+Shirt,Coat
 Bag,Bag
 Sandal,Sandal
 Pullover,Pullover
-Sandal,Sandal
-Dress,Dress
+Sandal,Bag
+Dress,Sneaker
 Sneaker,Sneaker
 Bag,Bag
 Sneaker,Sneaker
@@ -7802,8 +7802,8 @@ Dress,Dress
 Shirt,Shirt
 Coat,Coat
 Sandal,Sandal
-T-shirt/top,Shirt
-Sneaker,Sneaker
+T-shirt/top,T-shirt/top
+Sneaker,Ankle boot
 Trouser,Trouser
 Bag,Bag
 Sneaker,Sneaker
@@ -7816,7 +7816,7 @@ Sneaker,Sandal
 Dress,Dress
 Sneaker,Sandal
 Coat,Coat
-Bag,Bag
+Bag,Ankle boot
 T-shirt/top,Pullover
 Dress,Dress
 Ankle boot,Ankle boot
@@ -7828,9 +7828,9 @@ Bag,Bag
 Sneaker,Sneaker
 Dress,Dress
 Dress,Dress
-Shirt,T-shirt/top
+Shirt,Shirt
 Sandal,Sandal
-T-shirt/top,Shirt
+T-shirt/top,T-shirt/top
 Trouser,Trouser
 Sandal,Sandal
 T-shirt/top,T-shirt/top
@@ -7842,21 +7842,21 @@ T-shirt/top,T-shirt/top
 Shirt,Shirt
 Trouser,Trouser
 Shirt,Pullover
-Shirt,Bag
+Shirt,Sandal
 Sandal,Sandal
-Sneaker,Sneaker
+Sneaker,Sandal
 Pullover,Pullover
 Coat,Coat
 T-shirt/top,T-shirt/top
 Ankle boot,Ankle boot
 Pullover,Pullover
-Shirt,Coat
+Shirt,T-shirt/top
 Bag,Bag
 Pullover,Pullover
 Bag,Bag
 Dress,Dress
 Sneaker,Sneaker
-Sneaker,Sandal
+Sneaker,Sneaker
 Dress,Dress
 Dress,Dress
 Ankle boot,Ankle boot
@@ -7877,7 +7877,7 @@ Bag,Bag
 Sneaker,Sneaker
 Trouser,Coat
 Ankle boot,Ankle boot
-Sandal,Sandal
+Sandal,Ankle boot
 Shirt,Shirt
 Dress,Dress
 Shirt,T-shirt/top
@@ -7894,16 +7894,16 @@ Trouser,Trouser
 Sandal,Sandal
 Sneaker,Sneaker
 Ankle boot,Ankle boot
-Sneaker,Ankle boot
+Sneaker,Sandal
 Dress,Dress
-Ankle boot,Ankle boot
+Ankle boot,Sandal
 Bag,Bag
 T-shirt/top,Bag
 Sandal,Sandal
 Trouser,Trouser
 Ankle boot,Ankle boot
 Shirt,Shirt
-Trouser,Trouser
+Trouser,Dress
 T-shirt/top,T-shirt/top
 Shirt,Shirt
 Bag,Bag
@@ -7911,7 +7911,7 @@ T-shirt/top,T-shirt/top
 Sneaker,Sneaker
 Shirt,Shirt
 Ankle boot,Ankle boot
-Bag,Bag
+Bag,Sneaker
 Bag,Bag
 Coat,Dress
 Coat,Dress
@@ -7930,14 +7930,14 @@ Bag,Bag
 Sneaker,Sneaker
 Bag,Bag
 Sneaker,Sneaker
-Ankle boot,Ankle boot
+Ankle boot,Sneaker
 Trouser,Trouser
 Trouser,Trouser
 Dress,Dress
 Bag,Bag
 Ankle boot,Sneaker
-Sandal,Ankle boot
-Ankle boot,Ankle boot
+Sandal,Pullover
+Ankle boot,Bag
 Trouser,Trouser
 T-shirt/top,T-shirt/top
 Shirt,Bag
@@ -7951,7 +7951,7 @@ Dress,Coat
 T-shirt/top,T-shirt/top
 Trouser,Trouser
 Sandal,Sandal
-Coat,Bag
+Coat,Pullover
 Coat,Coat
 Ankle boot,Ankle boot
 Pullover,Pullover
@@ -7979,13 +7979,13 @@ Pullover,Pullover
 T-shirt/top,T-shirt/top
 Trouser,Trouser
 Bag,Bag
-Coat,Pullover
+Coat,Coat
 T-shirt/top,Dress
 Pullover,Pullover
 Ankle boot,Ankle boot
 Sandal,Sandal
 Coat,Coat
-Coat,Pullover
+Coat,Dress
 Sandal,Sandal
 Pullover,Pullover
 Trouser,Trouser
@@ -8006,14 +8006,14 @@ Dress,Dress
 Shirt,Shirt
 Shirt,Coat
 Pullover,Coat
-T-shirt/top,Shirt
+T-shirt/top,T-shirt/top
 Dress,Dress
 Pullover,Coat
 Sandal,Sandal
 Trouser,Trouser
 Sneaker,Sneaker
 Sandal,Sandal
-Pullover,Pullover
+Pullover,Coat
 Sandal,Sandal
 Sneaker,Sneaker
 Sneaker,Ankle boot
@@ -8023,22 +8023,22 @@ Ankle boot,Ankle boot
 Pullover,Pullover
 T-shirt/top,T-shirt/top
 Ankle boot,Ankle boot
-Pullover,Coat
+Pullover,Pullover
 T-shirt/top,T-shirt/top
 Sandal,Sandal
 Sandal,Sandal
-Sandal,Sandal
-T-shirt/top,T-shirt/top
 Sandal,Sandal
 T-shirt/top,Shirt
-Shirt,Pullover
+Sandal,Sandal
+T-shirt/top,Shirt
+Shirt,T-shirt/top
 Shirt,Pullover
 T-shirt/top,T-shirt/top
 Shirt,Shirt
 Ankle boot,Ankle boot
 Ankle boot,Ankle boot
 Pullover,T-shirt/top
-Coat,Coat
+Coat,Dress
 Sandal,Sandal
 Coat,Coat
 T-shirt/top,T-shirt/top
@@ -8050,7 +8050,7 @@ Sandal,Sandal
 Sneaker,Sneaker
 Dress,Dress
 T-shirt/top,T-shirt/top
-Pullover,Pullover
+Pullover,Coat
 Coat,Coat
 Trouser,Trouser
 Dress,Shirt
@@ -8058,7 +8058,7 @@ Bag,Bag
 Trouser,Trouser
 Bag,Bag
 Pullover,Coat
-T-shirt/top,Bag
+T-shirt/top,Sandal
 Shirt,Shirt
 Ankle boot,Ankle boot
 Bag,Bag
@@ -8069,11 +8069,11 @@ Coat,Shirt
 T-shirt/top,T-shirt/top
 Ankle boot,Ankle boot
 Shirt,Shirt
-Bag,Bag
+Bag,Sneaker
 Bag,Bag
 T-shirt/top,T-shirt/top
 Sneaker,Sneaker
-Trouser,Dress
+Trouser,Trouser
 Shirt,Shirt
 Ankle boot,Ankle boot
 Bag,Bag
@@ -8084,15 +8084,15 @@ Ankle boot,Ankle boot
 Shirt,Coat
 Dress,Dress
 Dress,Dress
-Coat,Coat
-Sandal,Ankle boot
+Coat,Pullover
+Sandal,Shirt
 T-shirt/top,T-shirt/top
 Bag,Bag
 T-shirt/top,T-shirt/top
 Coat,Pullover
 T-shirt/top,Shirt
 Dress,Dress
-T-shirt/top,T-shirt/top
+T-shirt/top,Shirt
 T-shirt/top,T-shirt/top
 T-shirt/top,T-shirt/top
 Dress,Dress
@@ -8115,15 +8115,15 @@ Coat,Coat
 Sandal,Sandal
 Pullover,Pullover
 Ankle boot,Ankle boot
-Coat,Coat
+Coat,Shirt
 Ankle boot,Ankle boot
-Bag,Pullover
+Bag,Bag
 Bag,Bag
 Sneaker,Sneaker
-Coat,Coat
-Pullover,Shirt
+Coat,Shirt
+Pullover,Pullover
 Dress,Dress
-Ankle boot,Ankle boot
+Ankle boot,Sandal
 Dress,Dress
 Shirt,Shirt
 Sneaker,Sneaker
@@ -8146,10 +8146,10 @@ Bag,Bag
 Sandal,Sandal
 Bag,Bag
 Trouser,Trouser
-Ankle boot,Sneaker
+Ankle boot,Ankle boot
 Shirt,Pullover
 Sneaker,Sneaker
-Shirt,T-shirt/top
+Shirt,Bag
 Sneaker,Sneaker
 Dress,Dress
 Shirt,Shirt
@@ -8159,8 +8159,8 @@ Trouser,Bag
 Bag,Bag
 Bag,Bag
 Bag,Bag
-Sneaker,Sandal
-Coat,Pullover
+Sneaker,Ankle boot
+Coat,Coat
 Shirt,T-shirt/top
 Sandal,Sandal
 Trouser,Trouser
@@ -8173,12 +8173,12 @@ Sandal,Sandal
 Bag,Bag
 Sandal,Sandal
 Sneaker,Sneaker
-Dress,Coat
+Dress,Dress
 Ankle boot,Ankle boot
 Bag,Bag
 Dress,Dress
 Coat,Coat
-Shirt,T-shirt/top
+Shirt,Bag
 Sandal,Sandal
 Sneaker,Sneaker
 Sandal,Sandal
@@ -8187,10 +8187,10 @@ Trouser,Trouser
 Sandal,Sandal
 Coat,Coat
 Trouser,Trouser
+Bag,Shirt
+Sandal,Ankle boot
 Bag,Bag
-Sandal,Sandal
-Bag,Bag
-Pullover,Coat
+Pullover,Dress
 Ankle boot,Ankle boot
 Shirt,Shirt
 Dress,Dress
@@ -8210,7 +8210,7 @@ Pullover,Pullover
 Bag,Bag
 Bag,Bag
 Bag,Bag
-Shirt,Shirt
+Shirt,Ankle boot
 Sneaker,Sneaker
 Sneaker,Sneaker
 Trouser,Trouser
@@ -8228,7 +8228,7 @@ Coat,Coat
 Pullover,Pullover
 Dress,Dress
 Trouser,Trouser
-Sandal,Sandal
+Sandal,Sneaker
 Sandal,Sandal
 Coat,Coat
 Coat,Coat
@@ -8253,7 +8253,7 @@ Sandal,Sandal
 T-shirt/top,Shirt
 Trouser,Trouser
 Ankle boot,Ankle boot
-Shirt,Shirt
+Shirt,Coat
 Dress,Dress
 Shirt,Shirt
 Sandal,Sandal
@@ -8265,7 +8265,7 @@ Sneaker,Sneaker
 Pullover,Pullover
 Pullover,Pullover
 Pullover,Pullover
-T-shirt/top,Pullover
+T-shirt/top,Trouser
 Sandal,Sandal
 Shirt,Shirt
 Shirt,Pullover
@@ -8296,7 +8296,7 @@ Shirt,Shirt
 Ankle boot,Ankle boot
 T-shirt/top,T-shirt/top
 Coat,Coat
-Sandal,Sandal
+Sandal,Sneaker
 Pullover,Pullover
 Dress,Dress
 Coat,Shirt
@@ -8346,7 +8346,7 @@ T-shirt/top,T-shirt/top
 Trouser,Trouser
 Bag,Bag
 Ankle boot,Ankle boot
-T-shirt/top,T-shirt/top
+T-shirt/top,Pullover
 T-shirt/top,Shirt
 Shirt,Shirt
 T-shirt/top,T-shirt/top
@@ -8364,7 +8364,7 @@ Bag,Bag
 Pullover,Pullover
 Sandal,Ankle boot
 Sandal,Sandal
-Trouser,Dress
+Trouser,Trouser
 Sandal,Sandal
 Ankle boot,Ankle boot
 Trouser,Trouser
@@ -8373,8 +8373,8 @@ Sandal,Sandal
 Dress,Dress
 Trouser,Trouser
 Shirt,Pullover
-Shirt,Pullover
-T-shirt/top,Dress
+Shirt,Coat
+T-shirt/top,T-shirt/top
 Sneaker,Sneaker
 Dress,Dress
 Sandal,Sandal
@@ -8383,7 +8383,7 @@ Bag,Bag
 T-shirt/top,T-shirt/top
 Sneaker,Sneaker
 Trouser,Trouser
-Pullover,Shirt
+Pullover,Coat
 Dress,Dress
 Ankle boot,Ankle boot
 Bag,Bag
@@ -8396,7 +8396,7 @@ Sneaker,Sneaker
 T-shirt/top,T-shirt/top
 Ankle boot,Ankle boot
 Coat,Coat
-T-shirt/top,T-shirt/top
+T-shirt/top,Sandal
 Ankle boot,Ankle boot
 Shirt,Shirt
 Trouser,Trouser
@@ -8404,7 +8404,7 @@ Ankle boot,Ankle boot
 Bag,Bag
 Shirt,Shirt
 Dress,Dress
-Sneaker,Sneaker
+Sneaker,Ankle boot
 Coat,Shirt
 Ankle boot,Ankle boot
 Sandal,Sandal
@@ -8419,7 +8419,7 @@ Ankle boot,Ankle boot
 Pullover,Coat
 T-shirt/top,T-shirt/top
 Sandal,Sneaker
-T-shirt/top,T-shirt/top
+T-shirt/top,Pullover
 T-shirt/top,T-shirt/top
 Sandal,Sandal
 Sandal,Sandal
@@ -8428,7 +8428,7 @@ T-shirt/top,T-shirt/top
 Ankle boot,Ankle boot
 Ankle boot,Ankle boot
 Trouser,Trouser
-Shirt,T-shirt/top
+Shirt,Shirt
 Sneaker,Sneaker
 Sneaker,Sneaker
 Sneaker,Sneaker
@@ -8468,7 +8468,7 @@ Pullover,Shirt
 Pullover,Pullover
 Trouser,Trouser
 Sandal,Sandal
-Dress,Dress
+Dress,Coat
 Coat,Coat
 T-shirt/top,Dress
 Sandal,Sandal
@@ -8476,7 +8476,7 @@ Sandal,Sandal
 T-shirt/top,T-shirt/top
 Bag,Bag
 Coat,Pullover
-Sneaker,Sneaker
+Sneaker,Ankle boot
 Bag,Bag
 Ankle boot,Ankle boot
 Coat,Coat
@@ -8518,14 +8518,14 @@ Coat,Coat
 Trouser,Trouser
 Coat,Coat
 Shirt,Coat
-Shirt,Pullover
+Shirt,Sandal
 Sneaker,Sneaker
 Sandal,Sandal
 Coat,Coat
 Shirt,Shirt
 Sneaker,Sneaker
 Ankle boot,Sneaker
-Bag,Bag
+Bag,Ankle boot
 Trouser,Trouser
 Bag,Bag
 Trouser,Trouser
@@ -8539,7 +8539,7 @@ Coat,Pullover
 Shirt,Shirt
 Shirt,T-shirt/top
 Trouser,Trouser
-Pullover,Pullover
+Pullover,Coat
 T-shirt/top,T-shirt/top
 Sneaker,Sneaker
 Shirt,Shirt
@@ -8554,11 +8554,11 @@ T-shirt/top,T-shirt/top
 Trouser,Trouser
 Sneaker,Sneaker
 Ankle boot,Ankle boot
-Sneaker,Sandal
+Sneaker,Sneaker
 Coat,Dress
 Ankle boot,Sandal
-Coat,Pullover
-T-shirt/top,Shirt
+Coat,Coat
+T-shirt/top,T-shirt/top
 Pullover,Pullover
 Bag,Bag
 Sneaker,Sneaker
@@ -8617,16 +8617,16 @@ Sneaker,Sneaker
 Dress,Dress
 Sneaker,Sneaker
 Shirt,T-shirt/top
-Pullover,Pullover
+Pullover,Sandal
 Sandal,Sandal
 Sandal,Sandal
 Coat,Coat
-Shirt,Shirt
-Sneaker,Sneaker
+Shirt,Pullover
+Sneaker,Sandal
 Pullover,Pullover
 Shirt,Shirt
-Dress,Dress
-Pullover,Pullover
+Dress,T-shirt/top
+Pullover,Coat
 T-shirt/top,T-shirt/top
 Coat,Coat
 Sneaker,Sneaker
@@ -8644,11 +8644,11 @@ Sneaker,Sneaker
 Trouser,Trouser
 Sneaker,Sneaker
 Trouser,Trouser
-T-shirt/top,T-shirt/top
+T-shirt/top,Coat
 Dress,Dress
 Bag,Bag
 Sandal,Sandal
-T-shirt/top,T-shirt/top
+T-shirt/top,Shirt
 T-shirt/top,T-shirt/top
 Shirt,Shirt
 Coat,Coat
@@ -8663,7 +8663,7 @@ Trouser,Trouser
 Dress,Dress
 Pullover,Pullover
 Sneaker,Sneaker
-Shirt,Dress
+Shirt,T-shirt/top
 Trouser,Trouser
 Bag,Bag
 Sandal,Sandal
@@ -8677,7 +8677,7 @@ Shirt,Shirt
 Pullover,Pullover
 Pullover,Pullover
 Sandal,Sandal
-Coat,Pullover
+Coat,Shirt
 Trouser,Trouser
 Bag,Bag
 Pullover,Pullover
@@ -8687,12 +8687,12 @@ Dress,Dress
 Bag,Bag
 Bag,Bag
 Ankle boot,Ankle boot
-Ankle boot,Sandal
+Ankle boot,Ankle boot
 T-shirt/top,T-shirt/top
 Trouser,Trouser
 Bag,Bag
 Trouser,Trouser
-Coat,Pullover
+Coat,Coat
 Ankle boot,Ankle boot
 T-shirt/top,Shirt
 Dress,Dress
@@ -8707,16 +8707,16 @@ Ankle boot,Ankle boot
 Shirt,Shirt
 Shirt,Shirt
 Bag,Bag
-Dress,Coat
+Dress,Pullover
 Bag,Sneaker
-Pullover,Shirt
+Pullover,Pullover
 Ankle boot,Ankle boot
-Coat,Coat
+Coat,Pullover
 Sneaker,Sneaker
 Sneaker,Sandal
 T-shirt/top,Dress
 Dress,Dress
-T-shirt/top,T-shirt/top
+T-shirt/top,Shirt
 Pullover,Coat
 Sandal,Sandal
 Sneaker,Sneaker
@@ -8727,7 +8727,7 @@ Shirt,Shirt
 T-shirt/top,Shirt
 Ankle boot,Ankle boot
 Dress,Dress
-Shirt,Shirt
+Shirt,T-shirt/top
 Sandal,Sandal
 Coat,Coat
 Trouser,Trouser
@@ -8740,57 +8740,57 @@ Coat,Coat
 Bag,Bag
 Ankle boot,Ankle boot
 Ankle boot,Ankle boot
-Dress,Pullover
+Dress,Bag
 Dress,Dress
 Sneaker,Sneaker
 T-shirt/top,T-shirt/top
 Shirt,T-shirt/top
-Shirt,Pullover
-Trouser,Trouser
 Shirt,T-shirt/top
-Shirt,Dress
-Shirt,Pullover
+Trouser,Trouser
+Shirt,Shirt
+Shirt,Coat
+Shirt,Shirt
 Coat,Coat
 Pullover,Pullover
 Pullover,Pullover
-Sneaker,Ankle boot
+Sneaker,Sneaker
 T-shirt/top,Dress
 Shirt,Shirt
-Trouser,Dress
+Trouser,Coat
 Pullover,Coat
 T-shirt/top,T-shirt/top
 T-shirt/top,T-shirt/top
 Trouser,Trouser
-Shirt,Dress
+Shirt,Pullover
 T-shirt/top,Bag
-Dress,Coat
-Sandal,Sandal
+Dress,Shirt
+Sandal,T-shirt/top
 Sneaker,Sneaker
 Ankle boot,Ankle boot
-Trouser,Shirt
+Trouser,Coat
 Shirt,Shirt
 Dress,Dress
 Sneaker,Sneaker
-Sandal,Ankle boot
-Trouser,Trouser
-Pullover,Shirt
-Sneaker,Sneaker
-Sneaker,Sneaker
 Sandal,Sandal
+Trouser,Trouser
+Pullover,Coat
+Sneaker,Sneaker
+Sneaker,Sneaker
+Sandal,Sneaker
 Bag,Bag
 T-shirt/top,T-shirt/top
 Ankle boot,Ankle boot
 Trouser,Trouser
-T-shirt/top,T-shirt/top
+T-shirt/top,Shirt
 Trouser,Trouser
 Shirt,Coat
-Ankle boot,Ankle boot
+Ankle boot,Sandal
 Trouser,Trouser
 Shirt,Pullover
 Sandal,Sandal
 Dress,Dress
 Dress,Dress
-T-shirt/top,T-shirt/top
+T-shirt/top,Shirt
 Sneaker,Sneaker
 Trouser,Trouser
 Pullover,Pullover
@@ -8800,14 +8800,14 @@ Dress,Dress
 Sneaker,Sneaker
 Coat,Coat
 Coat,Coat
-Coat,Coat
+Coat,Shirt
 Shirt,Shirt
 Sneaker,Sneaker
 Coat,Coat
 Sneaker,Sneaker
 Dress,Dress
 Trouser,Trouser
-Sneaker,Ankle boot
+Sneaker,Sneaker
 Bag,Bag
 Bag,Bag
 Sneaker,Sneaker
@@ -8831,7 +8831,7 @@ Trouser,Trouser
 Sneaker,Sneaker
 Sandal,Sandal
 Sneaker,Sneaker
-T-shirt/top,Bag
+T-shirt/top,Sandal
 Ankle boot,Ankle boot
 T-shirt/top,Pullover
 T-shirt/top,T-shirt/top
@@ -8858,12 +8858,12 @@ Shirt,Pullover
 Ankle boot,Ankle boot
 Trouser,Trouser
 Coat,Shirt
-Shirt,Pullover
+Shirt,Shirt
 Sneaker,Sneaker
 Trouser,Trouser
 T-shirt/top,T-shirt/top
 Shirt,Shirt
-Dress,T-shirt/top
+Dress,Dress
 Sneaker,Ankle boot
 Dress,Pullover
 Trouser,Trouser
@@ -8878,7 +8878,7 @@ T-shirt/top,T-shirt/top
 Ankle boot,Ankle boot
 Pullover,T-shirt/top
 Shirt,Trouser
-Pullover,Shirt
+Pullover,Pullover
 Trouser,Trouser
 Trouser,Trouser
 Coat,Coat
@@ -8894,12 +8894,12 @@ Coat,Coat
 T-shirt/top,T-shirt/top
 Coat,Coat
 Sneaker,Sneaker
-Pullover,Pullover
+Pullover,Coat
 Dress,Dress
 Bag,Bag
 Dress,Dress
 Bag,Bag
-Trouser,Dress
+Trouser,Trouser
 Trouser,Trouser
 Pullover,Pullover
 Coat,Coat
@@ -8912,7 +8912,7 @@ Bag,Bag
 Sandal,Sandal
 Dress,Dress
 Pullover,Pullover
-Sneaker,Sneaker
+Sneaker,Ankle boot
 Pullover,T-shirt/top
 Pullover,Shirt
 Coat,Coat
@@ -8939,16 +8939,16 @@ Bag,Bag
 Trouser,Trouser
 Trouser,Trouser
 Shirt,T-shirt/top
-Shirt,Coat
+Shirt,Shirt
 Sandal,Sandal
 Sneaker,Sneaker
-Ankle boot,Ankle boot
+Ankle boot,Bag
 Coat,Coat
 Sneaker,Sneaker
-Shirt,Shirt
+Shirt,Pullover
 Sneaker,Sneaker
 T-shirt/top,T-shirt/top
-T-shirt/top,Trouser
+T-shirt/top,Pullover
 Pullover,Shirt
 Ankle boot,Ankle boot
 Ankle boot,Ankle boot
@@ -8959,9 +8959,9 @@ T-shirt/top,T-shirt/top
 Trouser,Trouser
 Coat,Pullover
 Dress,Dress
-Coat,Shirt
-Shirt,Coat
 Coat,Coat
+Shirt,Shirt
+Coat,Pullover
 T-shirt/top,T-shirt/top
 Ankle boot,Ankle boot
 Bag,Bag
@@ -8973,13 +8973,13 @@ Bag,Bag
 Ankle boot,Ankle boot
 Sneaker,Ankle boot
 Trouser,Trouser
-Shirt,Coat
+Shirt,Shirt
 Sneaker,Sneaker
 Ankle boot,Ankle boot
 Ankle boot,Ankle boot
 T-shirt/top,T-shirt/top
 Trouser,Trouser
-Sandal,Sandal
+Sandal,Bag
 Trouser,Trouser
 Trouser,Trouser
 Dress,Dress
@@ -8998,12 +8998,12 @@ Shirt,Shirt
 Bag,Bag
 Shirt,T-shirt/top
 Ankle boot,Ankle boot
-T-shirt/top,Shirt
+T-shirt/top,T-shirt/top
 Shirt,Shirt
 Ankle boot,Ankle boot
 T-shirt/top,T-shirt/top
 Trouser,Trouser
-Shirt,Shirt
+Shirt,Pullover
 Bag,Bag
 Trouser,Trouser
 Bag,Bag
@@ -9021,14 +9021,14 @@ Ankle boot,Ankle boot
 Coat,Coat
 Trouser,Trouser
 T-shirt/top,T-shirt/top
-Bag,Pullover
+Bag,Shirt
 Coat,Coat
-Coat,Shirt
-Shirt,Coat
+Coat,Coat
+Shirt,Pullover
 Bag,Bag
 Pullover,Coat
 Pullover,Shirt
-Sandal,Bag
+Sandal,Sandal
 Sandal,Sandal
 T-shirt/top,T-shirt/top
 Shirt,Pullover
@@ -9047,14 +9047,14 @@ Sneaker,Sneaker
 Sneaker,Sneaker
 Sandal,Sandal
 Ankle boot,Ankle boot
-Pullover,Coat
+Pullover,Pullover
 Sandal,Sandal
 Coat,Coat
-Coat,Shirt
-Ankle boot,Ankle boot
-Ankle boot,Ankle boot
 Coat,Coat
-Bag,Bag
+Ankle boot,Ankle boot
+Ankle boot,Ankle boot
+Coat,Bag
+Bag,Shirt
 Sneaker,Sneaker
 Shirt,Shirt
 Ankle boot,Ankle boot
@@ -9068,12 +9068,12 @@ Trouser,Trouser
 Ankle boot,Ankle boot
 Pullover,Shirt
 Trouser,Trouser
-Shirt,Dress
-Sneaker,Sneaker
+Shirt,Sandal
+Sneaker,Sandal
 Trouser,Coat
 Bag,Bag
-Sandal,Sandal
-T-shirt/top,T-shirt/top
+Sandal,Sneaker
+T-shirt/top,Shirt
 Coat,Pullover
 Shirt,Shirt
 Coat,Coat
@@ -9083,20 +9083,20 @@ Ankle boot,Ankle boot
 Bag,Bag
 Bag,Bag
 Ankle boot,Ankle boot
-Trouser,Trouser
+Trouser,Pullover
 Pullover,Pullover
 Shirt,Shirt
 T-shirt/top,T-shirt/top
 Sandal,Sandal
 Pullover,Pullover
 Sandal,Sandal
-Shirt,T-shirt/top
+Shirt,Dress
 Bag,Bag
 Dress,Dress
-Shirt,Shirt
+Shirt,Pullover
 Trouser,Dress
 Bag,Pullover
-Shirt,Shirt
+Shirt,T-shirt/top
 Trouser,Trouser
 Sandal,Sandal
 T-shirt/top,T-shirt/top
@@ -9111,7 +9111,7 @@ Bag,Bag
 Pullover,Pullover
 Dress,Dress
 Shirt,Shirt
-Pullover,Pullover
+Pullover,Coat
 Sandal,Sandal
 T-shirt/top,Shirt
 Ankle boot,Ankle boot
@@ -9123,14 +9123,14 @@ Sneaker,Sneaker
 Ankle boot,Ankle boot
 Shirt,T-shirt/top
 Trouser,Trouser
-Shirt,Shirt
+Shirt,Coat
 Sneaker,Sandal
-Sandal,Sneaker
+Sandal,Sandal
 Coat,Coat
+Shirt,Coat
+Dress,Dress
+Dress,Dress
 Shirt,Shirt
-Dress,Dress
-Dress,Dress
-Shirt,Pullover
 Trouser,Trouser
 Shirt,T-shirt/top
 T-shirt/top,T-shirt/top
@@ -9164,7 +9164,7 @@ Shirt,Bag
 Ankle boot,Ankle boot
 Bag,Bag
 Bag,Bag
-Dress,Shirt
+Dress,T-shirt/top
 Pullover,Pullover
 T-shirt/top,T-shirt/top
 T-shirt/top,T-shirt/top
@@ -9187,7 +9187,7 @@ Sneaker,Sneaker
 T-shirt/top,T-shirt/top
 Sandal,Sandal
 T-shirt/top,T-shirt/top
-Shirt,Shirt
+Shirt,Sandal
 Dress,Dress
 Trouser,Trouser
 Dress,Dress
@@ -9209,7 +9209,7 @@ Shirt,Shirt
 Bag,Bag
 Pullover,Pullover
 Trouser,Trouser
-T-shirt/top,T-shirt/top
+T-shirt/top,Dress
 Shirt,Dress
 Shirt,Shirt
 Sandal,Sandal
@@ -9222,9 +9222,9 @@ T-shirt/top,T-shirt/top
 Sneaker,Sneaker
 Coat,Coat
 Shirt,T-shirt/top
-Bag,Bag
+Bag,Ankle boot
 Dress,Dress
-Dress,Trouser
+Dress,T-shirt/top
 Bag,Bag
 Shirt,Bag
 Dress,Dress
@@ -9237,7 +9237,7 @@ Bag,Bag
 Dress,Coat
 Bag,Bag
 T-shirt/top,Pullover
-Sneaker,Sneaker
+Sneaker,Sandal
 Sneaker,Sneaker
 T-shirt/top,T-shirt/top
 Dress,Dress
@@ -9247,7 +9247,7 @@ Trouser,Dress
 Sandal,Sandal
 Ankle boot,Ankle boot
 Shirt,Coat
-Pullover,Shirt
+Pullover,Pullover
 Bag,Bag
 Ankle boot,Ankle boot
 T-shirt/top,Shirt
@@ -9255,7 +9255,7 @@ Trouser,Trouser
 T-shirt/top,T-shirt/top
 Sandal,Sandal
 Sandal,Sandal
-Pullover,Coat
+Pullover,Shirt
 Pullover,Pullover
 Bag,Bag
 Pullover,Pullover
@@ -9272,7 +9272,7 @@ Bag,Bag
 Bag,Bag
 Dress,Dress
 Ankle boot,Sandal
-Sandal,Sandal
+Sandal,Bag
 T-shirt/top,T-shirt/top
 Shirt,Shirt
 Pullover,Bag
@@ -9291,11 +9291,11 @@ Trouser,Trouser
 Sneaker,Sneaker
 Bag,Bag
 T-shirt/top,T-shirt/top
-Coat,Pullover
+Coat,Coat
 Sneaker,Sneaker
 Dress,Dress
 Dress,Dress
-Bag,Bag
+Bag,Ankle boot
 Shirt,T-shirt/top
 T-shirt/top,Trouser
 Ankle boot,Ankle boot
@@ -9303,11 +9303,11 @@ Pullover,Pullover
 Bag,Bag
 Sandal,Sandal
 Coat,Coat
-Ankle boot,Ankle boot
+Ankle boot,Sneaker
 Shirt,Shirt
-Shirt,Dress
-Coat,Coat
-Pullover,T-shirt/top
+Shirt,Coat
+Coat,Pullover
+Pullover,Shirt
 T-shirt/top,T-shirt/top
 Trouser,Trouser
 Trouser,Trouser
@@ -9323,7 +9323,7 @@ Coat,Coat
 Bag,Bag
 Pullover,Coat
 Dress,Dress
-Sandal,Sandal
+Sandal,Ankle boot
 Dress,T-shirt/top
 Shirt,Shirt
 Coat,Coat
@@ -9342,13 +9342,13 @@ Sandal,Sandal
 Pullover,Coat
 Trouser,Trouser
 T-shirt/top,T-shirt/top
-Sneaker,Sneaker
+Sneaker,Sandal
 Coat,Pullover
 Coat,Pullover
 Pullover,Pullover
 Sneaker,Sandal
 Coat,Coat
-T-shirt/top,Pullover
+T-shirt/top,Shirt
 Shirt,T-shirt/top
 Shirt,Shirt
 Trouser,Trouser
@@ -9358,7 +9358,7 @@ T-shirt/top,T-shirt/top
 Trouser,Trouser
 Ankle boot,Ankle boot
 Ankle boot,Ankle boot
-Sandal,Sandal
+Sandal,Bag
 Shirt,Shirt
 Sandal,Sandal
 Pullover,Shirt
@@ -9374,7 +9374,7 @@ T-shirt/top,T-shirt/top
 Ankle boot,Ankle boot
 Sandal,Sneaker
 Sandal,Sandal
-Sandal,Sandal
+Sandal,Sneaker
 Sneaker,Sneaker
 Ankle boot,Ankle boot
 Dress,Dress
@@ -9386,9 +9386,9 @@ Ankle boot,Ankle boot
 Dress,Dress
 Trouser,Trouser
 T-shirt/top,T-shirt/top
-Pullover,Coat
+Pullover,Pullover
 Sandal,Sandal
-Pullover,Shirt
+Pullover,Pullover
 Bag,Bag
 Sneaker,Sneaker
 Ankle boot,Ankle boot
@@ -9454,12 +9454,12 @@ Trouser,Trouser
 Sneaker,Sneaker
 Bag,Bag
 Trouser,Trouser
-Shirt,Dress
+Shirt,Shirt
 Sandal,Sandal
 Ankle boot,Ankle boot
 T-shirt/top,T-shirt/top
-T-shirt/top,Shirt
-Ankle boot,Ankle boot
+T-shirt/top,T-shirt/top
+Ankle boot,Sandal
 Sandal,Sandal
 Dress,Dress
 Bag,Bag
@@ -9467,7 +9467,7 @@ Bag,Bag
 Pullover,Pullover
 Bag,Bag
 Sandal,Sandal
-Sneaker,Sneaker
+Sneaker,Sandal
 T-shirt/top,T-shirt/top
 Sneaker,Sneaker
 T-shirt/top,T-shirt/top
@@ -9480,9 +9480,9 @@ Coat,Coat
 Bag,Bag
 Sandal,Sandal
 Pullover,Pullover
-T-shirt/top,T-shirt/top
+T-shirt/top,Shirt
 Trouser,Trouser
-Shirt,Coat
+Shirt,Shirt
 Shirt,Pullover
 Trouser,Coat
 Sneaker,Sneaker
@@ -9516,21 +9516,21 @@ Shirt,Shirt
 Dress,Dress
 Trouser,Trouser
 Bag,Bag
-Coat,Coat
+Coat,Pullover
 Sneaker,Sneaker
 Pullover,Pullover
 Sandal,Sandal
-Ankle boot,Ankle boot
+Ankle boot,Sandal
 Dress,Dress
 Trouser,Trouser
-Bag,Sandal
+Bag,Sneaker
 Trouser,Trouser
 Ankle boot,Ankle boot
 Pullover,Pullover
 Ankle boot,Ankle boot
 Shirt,Shirt
 Pullover,Pullover
-Pullover,Shirt
+Pullover,Coat
 Trouser,Trouser
 Bag,Bag
 Dress,Dress
@@ -9551,14 +9551,14 @@ Trouser,Shirt
 Bag,Bag
 Sandal,Sandal
 Sneaker,Ankle boot
-Sneaker,Sandal
+Sneaker,Bag
 Sneaker,Sneaker
 Dress,Dress
-Sandal,Sandal
+Sandal,Bag
 Sandal,Sandal
 Sneaker,Sneaker
 Ankle boot,Ankle boot
-Ankle boot,Ankle boot
+Ankle boot,Sneaker
 Bag,Bag
 Pullover,Pullover
 Bag,Bag
@@ -9579,7 +9579,7 @@ Trouser,Trouser
 T-shirt/top,Shirt
 Shirt,Shirt
 Trouser,Trouser
-Shirt,Shirt
+Shirt,Pullover
 Sandal,Sandal
 Pullover,Coat
 Ankle boot,Ankle boot
@@ -9596,7 +9596,7 @@ Trouser,Trouser
 Sneaker,Sneaker
 Coat,Coat
 Bag,Ankle boot
-Bag,Bag
+Bag,Sneaker
 Sandal,Sandal
 T-shirt/top,Shirt
 Pullover,Pullover
@@ -9631,7 +9631,7 @@ Shirt,Shirt
 Sandal,Sandal
 Ankle boot,Ankle boot
 Ankle boot,Ankle boot
-Coat,Pullover
+Coat,Shirt
 Pullover,Pullover
 Sneaker,Sneaker
 Trouser,Trouser
@@ -9651,7 +9651,7 @@ Pullover,Pullover
 Ankle boot,Ankle boot
 Dress,Dress
 Sandal,Sandal
-Bag,Shirt
+Bag,T-shirt/top
 T-shirt/top,T-shirt/top
 Trouser,Trouser
 Ankle boot,Ankle boot
@@ -9672,13 +9672,13 @@ Sneaker,Sneaker
 T-shirt/top,T-shirt/top
 Sandal,Sandal
 Ankle boot,Ankle boot
-Bag,Bag
-Ankle boot,Shirt
+Bag,Pullover
+Ankle boot,Ankle boot
 Dress,Dress
 Sneaker,Sneaker
 Ankle boot,Ankle boot
 Ankle boot,Ankle boot
-Coat,Coat
+Coat,Pullover
 Bag,Bag
 Bag,Bag
 T-shirt/top,T-shirt/top
@@ -9686,7 +9686,7 @@ Trouser,Trouser
 Shirt,Coat
 Coat,Coat
 T-shirt/top,T-shirt/top
-Shirt,Pullover
+Shirt,Coat
 Bag,Bag
 Trouser,Trouser
 Shirt,Pullover
@@ -9713,12 +9713,12 @@ Sandal,Sandal
 T-shirt/top,T-shirt/top
 Trouser,Trouser
 Sneaker,Sneaker
-Shirt,T-shirt/top
+Shirt,Shirt
 Sneaker,Sneaker
 Shirt,Shirt
 T-shirt/top,Shirt
 T-shirt/top,T-shirt/top
-T-shirt/top,Pullover
+T-shirt/top,Dress
 Sandal,Sandal
 Trouser,Trouser
 Trouser,Trouser
@@ -9731,7 +9731,7 @@ Trouser,Trouser
 Shirt,Shirt
 Trouser,Trouser
 Shirt,Shirt
-Bag,Bag
+Bag,Ankle boot
 Sandal,Sandal
 Coat,Coat
 T-shirt/top,T-shirt/top
@@ -9747,7 +9747,7 @@ Bag,Bag
 Shirt,Shirt
 Pullover,Pullover
 Bag,Bag
-T-shirt/top,Coat
+T-shirt/top,Trouser
 Coat,Coat
 Coat,Coat
 T-shirt/top,T-shirt/top
@@ -9763,7 +9763,7 @@ Sandal,Sandal
 Ankle boot,Ankle boot
 Pullover,Pullover
 Trouser,Trouser
-T-shirt/top,Pullover
+T-shirt/top,T-shirt/top
 Coat,Coat
 Trouser,Trouser
 Sneaker,Sneaker
@@ -9775,30 +9775,30 @@ Sandal,Sandal
 Bag,Bag
 Sneaker,Sneaker
 Pullover,Pullover
-Sandal,Ankle boot
+Sandal,Sandal
 Trouser,Trouser
 Sandal,Sandal
-Pullover,Pullover
+Pullover,Sandal
 T-shirt/top,T-shirt/top
 Shirt,T-shirt/top
 T-shirt/top,T-shirt/top
 Trouser,Trouser
-Pullover,Pullover
+Pullover,Coat
 Coat,Coat
 Coat,Coat
-Bag,Shirt
+Bag,Bag
 T-shirt/top,T-shirt/top
 Dress,Dress
 Pullover,Pullover
-T-shirt/top,Coat
+T-shirt/top,Bag
 Dress,Dress
 Sandal,Sandal
 Trouser,Pullover
-Dress,Dress
+Dress,T-shirt/top
 Dress,Dress
 T-shirt/top,Pullover
-Sandal,Sandal
-Trouser,Trouser
+Sandal,Ankle boot
+Trouser,Dress
 Bag,Bag
 Dress,Dress
 Trouser,Trouser
@@ -9806,7 +9806,7 @@ Bag,Bag
 Sneaker,Sandal
 Bag,Bag
 Coat,Coat
-Pullover,Pullover
+Pullover,Coat
 T-shirt/top,T-shirt/top
 T-shirt/top,T-shirt/top
 Sneaker,Sneaker
@@ -9824,9 +9824,9 @@ Bag,Bag
 Dress,Dress
 T-shirt/top,Pullover
 Bag,Bag
-Sandal,Sandal
+Sandal,Sneaker
 Sneaker,Sneaker
-Sandal,Sandal
+Sandal,Bag
 Coat,Coat
 Sneaker,Sneaker
 Sneaker,Sneaker
@@ -9855,42 +9855,42 @@ Pullover,Pullover
 Trouser,Trouser
 Sandal,Sandal
 Pullover,Pullover
-Bag,Shirt
+Bag,T-shirt/top
 Dress,Dress
 Dress,Dress
+Shirt,Bag
+Sneaker,Sneaker
+Trouser,Trouser
+Dress,Dress
+Coat,Coat
+Coat,Coat
+Sandal,Sneaker
+Sneaker,Sneaker
+T-shirt/top,Dress
+Shirt,Shirt
+Sneaker,Sneaker
+Dress,Dress
+Dress,Dress
+Sneaker,Sneaker
+Bag,Ankle boot
+Bag,Ankle boot
+Pullover,Pullover
+Sandal,Ankle boot
+Shirt,Shirt
+Ankle boot,Ankle boot
+Sneaker,Sneaker
+T-shirt/top,Dress
+Pullover,Pullover
+Ankle boot,Ankle boot
+Dress,Dress
+T-shirt/top,Shirt
+Sandal,Sandal
+Sandal,Sandal
 Shirt,T-shirt/top
-Sneaker,Sneaker
-Trouser,Trouser
-Dress,Dress
-Coat,Coat
-Coat,Coat
-Sandal,Sandal
-Sneaker,Sandal
-T-shirt/top,Dress
-Shirt,Shirt
-Sneaker,Sneaker
-Dress,Dress
-Dress,Dress
-Sneaker,Sneaker
-Bag,Bag
-Bag,Bag
-Pullover,Pullover
-Sandal,Sandal
-Shirt,Shirt
-Ankle boot,Ankle boot
-Sneaker,Sneaker
-T-shirt/top,Dress
-Pullover,Pullover
-Ankle boot,Ankle boot
-Dress,Dress
-T-shirt/top,T-shirt/top
-Sandal,Sandal
-Sandal,Sandal
-Shirt,Shirt
 Ankle boot,Ankle boot
 Trouser,Trouser
 Coat,Coat
-Trouser,Pullover
+Trouser,Ankle boot
 Sandal,Sandal
 Shirt,Pullover
 Coat,Coat
@@ -9916,7 +9916,7 @@ Coat,Coat
 Pullover,Pullover
 Ankle boot,Ankle boot
 Trouser,Shirt
-Sneaker,Sneaker
+Sneaker,Ankle boot
 Trouser,Trouser
 Bag,Bag
 Bag,Bag
@@ -9926,7 +9926,7 @@ Bag,Bag
 Dress,Dress
 Bag,Bag
 Ankle boot,Ankle boot
-Dress,Dress
+Dress,T-shirt/top
 T-shirt/top,Bag
 T-shirt/top,T-shirt/top
 Pullover,Pullover
@@ -9944,7 +9944,7 @@ Sandal,Sandal
 Trouser,Trouser
 Dress,Dress
 Sandal,Sandal
-T-shirt/top,Pullover
+T-shirt/top,Shirt
 Pullover,Bag
 Shirt,Pullover
 Trouser,Trouser
@@ -9956,14 +9956,14 @@ Shirt,Pullover
 Ankle boot,Ankle boot
 Shirt,T-shirt/top
 Ankle boot,Ankle boot
-Shirt,Pullover
+Shirt,T-shirt/top
 T-shirt/top,T-shirt/top
 Coat,Coat
 Trouser,Trouser
 Shirt,Shirt
 Shirt,Shirt
 Coat,Shirt
-Ankle boot,Ankle boot
+Ankle boot,Shirt
 Trouser,Trouser
 Coat,Coat
 Ankle boot,Ankle boot
@@ -9990,7 +9990,7 @@ Sandal,Sandal
 Bag,Bag
 Coat,Pullover
 Sandal,Sandal
-Shirt,Shirt
+Shirt,Pullover
 Bag,Bag
 Ankle boot,Ankle boot
 Trouser,Trouser
