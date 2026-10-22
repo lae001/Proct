@@ -45,7 +45,7 @@ stages:
     params:
       params.yaml:
         augment:
-          copies: 1
+          copies: 3
           rotation: 12
           shift: 2
           zoom: 0.1
@@ -55,8 +55,8 @@ stages:
     outs:
     - path: data/augmented
       hash: md5
-      md5: 076021566f6c999485d59ae66a4458fd.dir
-      size: 29555711
+      md5: 65e33483e50146afaf75f54543a7fd61.dir
+      size: 75709919
       nfiles: 2
     - path: plots/augment_examples.png
       hash: md5
@@ -67,8 +67,8 @@ stages:
     deps:
     - path: data/augmented/train.npz
       hash: md5
-      md5: 8f80b63f18d2f44f3f1dcda81e327fda
-      size: 29555648
+      md5: cfb43111610c807430b52278d1173968
+      size: 75709856
     - path: data/prepared/train.npz
       hash: md5
       md5: cf8993996b720bb7ee1cbe266f339b19
@@ -84,8 +84,8 @@ stages:
     params:
       params.yaml:
         train:
-          dataset: original
-          model: logreg
+          dataset: augmented
+          model: random_forest
           seed: 42
           logreg:
             C: 0.1
@@ -105,12 +105,12 @@ stages:
     outs:
     - path: metrics/train.json
       hash: md5
-      md5: b835324af4a538daec748eadd009ac8f
-      size: 91
+      md5: 0ba656991827aea87eb03e49467dbca7
+      size: 101
     - path: models/model.pkl
       hash: md5
-      md5: 0a619359793c8eac906f6a039f8729aa
-      size: 51351
+      md5: b9662f1b9f473b72ea2a7de5bbbf0801
+      size: 283597097
   evaluate:
     cmd: python src/evaluate.py
     deps:
@@ -120,8 +120,8 @@ stages:
       size: 6509632
     - path: models/model.pkl
       hash: md5
-      md5: 0a619359793c8eac906f6a039f8729aa
-      size: 51351
+      md5: b9662f1b9f473b72ea2a7de5bbbf0801
+      size: 283597097
     - path: src/common.py
       hash: md5
       md5: b7dd431516303088ced50d41bfea1dfd
@@ -133,17 +133,17 @@ stages:
     outs:
     - path: metrics/eval.json
       hash: md5
-      md5: 312b142a0381a396435632a5ec67e569
-      size: 46
+      md5: 239379e2cc8fe6e06e409472167278b5
+      size: 45
     - path: plots/confusion.csv
       hash: md5
-      md5: 1522b7ef86c20456e0be397c137a6640
-      size: 152177
+      md5: f108210ed6a6fc5e281ac90e83dd6480
+      size: 152507
     - path: plots/confusion.png
       hash: md5
-      md5: c627ff26433a2e6c29bf9967b9feeea6
-      size: 77795
+      md5: 7b03b2f6953518b2716db746d08b03dc
+      size: 77399
     - path: plots/per_class.csv
       hash: md5
-      md5: 0e6015bc9a002489aa389b451df2825e
+      md5: 33ad6882ef87c52d3be83962b8b9d63a
       size: 312
