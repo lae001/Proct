@@ -1,0 +1,63 @@
+stages:
+  prepare:
+    cmd: python src/prepare.py
+    deps:
+      - src/prepare.py
+      - src/common.py
+      - data/raw
+    params:
+      - prepare
+    outs:
+      - data/prepared
+
+  augment:
+    cmd: python src/augment.py
+    deps:
+      - src/augment.py
+      - src/common.py
+      - data/prepared/train.npz
+    params:
+      - augment
+    outs:
+      - data/augmented
+      - plots/augment_examples.png:
+          cache: false
+
+  train:
+    cmd: python src/train.py
+    deps:
+      - src/train.py
+      - src/common.py
+      - data/prepared/train.npz
+      - data/augmented/train.npz
+    params:
+      - train
+    outs:
+      - models/model.pkl
+    metrics:
+      - metrics/train.json:
+          cache: false
+
+  evaluate:
+    cmd: python src/evaluate.py
+    deps:
+      - src/evaluate.py
+      - src/common.py
+      - models/model.pkl
+      - data/prepared/test.npz
+    metrics:
+      - metrics/eval.json:
+          cache: false
+    plots:
+      - plots/confusion.csv:
+          cache: false
+          template: confusion
+          x: predicted
+          y: actual
+      - plots/per_class.csv:
+          cache: false
+          x: class
+          y: f1
+          template: bar_horizontal
+      - plots/confusion.png:
+          cache: false
