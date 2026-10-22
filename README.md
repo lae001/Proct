@@ -51,11 +51,18 @@ git checkout best-original && dvc checkout   # код, параметры, да�
 git checkout main && dvc checkout
 ```
 ## Переключение по коммитам(ЭТАПОМ)
+```bash
 git log --oneline --decorate
 git checkout baseline && dvc checkout && dvc metrics show
 git checkout best-original && dvc checkout && dvc metrics show
 git checkout best-augmented && dvc checkout && dvc metrics show
 git checkout main && dvc checkout
+```
+## Просмотр без результата
+```bash
+git clone https://github.com/lae001/Proct.git
+cd Proct && dvc metrics show && dvc exp show
+```
 ## Публикация на GitLab
 
 1. Создать пустой проект на gitlab.com (без README).
