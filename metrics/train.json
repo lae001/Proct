@@ -1,6 +1,6 @@
 {
-  "model": "logreg",
-  "dataset": "original",
-  "n_train": 10000,
-  "train_time_s": 3.8
+  "model": "mlp",
+  "dataset": "augmented",
+  "n_train": 20000,
+  "train_time_s": 9.56
 }

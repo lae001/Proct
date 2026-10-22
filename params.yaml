@@ -15,8 +15,8 @@ augment:
   seed: 42
 
 train:
-  dataset: original   # original | augmented
-  model: logreg       # logreg | random_forest | mlp | svm
+  dataset: augmented  # original | augmented
+  model: mlp           # logreg | random_forest | mlp | svm
   seed: 42
   logreg:
     C: 0.1
