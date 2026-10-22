@@ -51,19 +51,19 @@ git checkout best-original && dvc checkout   # код, параметры, да�
 git checkout main && dvc checkout
 ```
 
-## Публикация на GitLab
+## Репозиторий
 
-1. Создать пустой проект на gitlab.com (без README).
-2. Подключить и отправить код и эксперименты:
+Репозиторий: https://github.com/lae001/Proct
+Отправка кода и экспериментов:
 
 ```bash
-git remote add origin https://gitlab.com/<логин>/fashion-mlops.git
+git remote add origin https://github.com/lae001/Proct.git
 git push -u origin main --tags
 git push origin exp-aug1-svm             # ветка, созданная из эксперимента
-dvc exp push origin --all-commits        # эксперименты DVC (refs/exps) на GitLab
+dvc exp push origin --all-commits        # эксперименты DVC (refs/exps)
 ```
 
-3. Данные и модели хранятся в DVC-хранилище (по умолчанию локальная папка
+Данные и модели хранятся в DVC-хранилище (по умолчанию локальная папка
    `../dvc-storage`). Для совместной работы его можно перенести в облако,
    например S3/Google Drive/SSH: `dvc remote add -d -f storage <url>` и `dvc push`.
 
