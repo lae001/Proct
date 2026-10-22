@@ -24,6 +24,8 @@ pip install -r requirements.txt
 dvc pull            # скачать данные и модели из DVC-хранилища
 dvc repro           # пересчитать пайплайн (выполнит только изменившиеся стадии)
 dvc metrics show
+dvc metrics show metrics/parallel.json
+dvc metrics show metrics/eval.json
 ```
 
 ## Эксперименты
