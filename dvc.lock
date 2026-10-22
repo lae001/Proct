@@ -147,3 +147,64 @@ stages:
       hash: md5
       md5: fd296d89225a309790ba8d760498239a
       size: 312
+  train_all:
+    cmd: python src/train_parallel.py
+    deps:
+    - path: data/augmented/train.npz
+      hash: md5
+      md5: cfb43111610c807430b52278d1173968
+      size: 75709856
+    - path: data/prepared
+      hash: md5
+      md5: 54db6264effb09a74e6f524a97d9eb46.dir
+      size: 12988551
+      nfiles: 3
+    - path: src/common.py
+      hash: md5
+      md5: b7dd431516303088ced50d41bfea1dfd
+      size: 2450
+    - path: src/train.py
+      hash: md5
+      md5: 5c13808d0e98b58bcc0c6e5dc0522d71
+      size: 3377
+    - path: src/train_parallel.py
+      hash: md5
+      md5: e8d0319084b89f4f3a555676b852714d
+      size: 5745
+    params:
+      params.yaml:
+        train:
+          dataset: augmented
+          model: mlp
+          seed: 42
+          logreg:
+            C: 0.1
+            max_iter: 1000
+          random_forest:
+            n_estimators: 200
+            max_depth: 0
+          mlp:
+            hidden:
+            - 256
+            - 128
+            alpha: 0.0001
+            max_iter: 40
+          svm:
+            C: 10.0
+            pca: 60
+        train_all:
+          workers: 4
+    outs:
+    - path: metrics/parallel.json
+      hash: md5
+      md5: 6f032a5731d7f53e304488bf2790706d
+      size: 548
+    - path: models/parallel
+      hash: md5
+      md5: 87639e1b16bacb6e10f098babd413280.dir
+      size: 296948745
+      nfiles: 4
+    - path: plots/parallel_timeline.png
+      hash: md5
+      md5: fc4c2616c3f109163d7344dd35524f6c
+      size: 23777

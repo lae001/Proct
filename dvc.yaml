@@ -61,3 +61,23 @@ stages:
           template: bar_horizontal
       - plots/confusion.png:
           cache: false
+
+  train_all:
+    cmd: python src/train_parallel.py
+    deps:
+      - src/train_parallel.py
+      - src/train.py
+      - src/common.py
+      - data/prepared
+      - data/augmented/train.npz
+    params:
+      - train
+      - train_all
+    outs:
+      - models/parallel
+    metrics:
+      - metrics/parallel.json:
+          cache: false
+    plots:
+      - plots/parallel_timeline.png:
+          cache: false

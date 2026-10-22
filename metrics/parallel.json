@@ -1,0 +1,29 @@
+{
+  "workers": 4,
+  "dataset": "augmented",
+  "wall_time_s": 45.08,
+  "sum_model_time_s": 131.2,
+  "concurrency": 2.91,
+  "models": {
+    "logreg": {
+      "accuracy": 0.7903,
+      "f1_macro": 0.7883,
+      "train_time_s": 20.4
+    },
+    "random_forest": {
+      "accuracy": 0.8396,
+      "f1_macro": 0.837,
+      "train_time_s": 36.06
+    },
+    "mlp": {
+      "accuracy": 0.8556,
+      "f1_macro": 0.8558,
+      "train_time_s": 28.91
+    },
+    "svm": {
+      "accuracy": 0.8646,
+      "f1_macro": 0.8644,
+      "train_time_s": 28.0
+    }
+  }
+}
