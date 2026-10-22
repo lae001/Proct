@@ -50,7 +50,12 @@ dvc exp run -n my-exp -S train.model=mlp -S train.dataset=augmented -S augment.c
 git checkout best-original && dvc checkout   # код, параметры, данные и модель той версии
 git checkout main && dvc checkout
 ```
-
+## Переключение по коммитам(ЭТАПОМ)
+git log --oneline --decorate
+git checkout baseline && dvc checkout && dvc metrics show
+git checkout best-original && dvc checkout && dvc metrics show
+git checkout best-augmented && dvc checkout && dvc metrics show
+git checkout main && dvc checkout
 ## Публикация на GitLab
 
 1. Создать пустой проект на gitlab.com (без README).
