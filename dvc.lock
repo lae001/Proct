@@ -85,7 +85,7 @@ stages:
       params.yaml:
         train:
           dataset: original
-          model: logreg
+          model: svm
           seed: 42
           logreg:
             C: 0.1
@@ -105,12 +105,12 @@ stages:
     outs:
     - path: metrics/train.json
       hash: md5
-      md5: b835324af4a538daec748eadd009ac8f
-      size: 91
+      md5: eee2b4de2387585b34014a2b20b4c23b
+      size: 89
     - path: models/model.pkl
       hash: md5
-      md5: 0a619359793c8eac906f6a039f8729aa
-      size: 51351
+      md5: 6b834b489ddb9b43ad499f289229479b
+      size: 2445289
   evaluate:
     cmd: python src/evaluate.py
     deps:
@@ -120,8 +120,8 @@ stages:
       size: 6509632
     - path: models/model.pkl
       hash: md5
-      md5: 0a619359793c8eac906f6a039f8729aa
-      size: 51351
+      md5: 6b834b489ddb9b43ad499f289229479b
+      size: 2445289
     - path: src/common.py
       hash: md5
       md5: b7dd431516303088ced50d41bfea1dfd
@@ -133,17 +133,17 @@ stages:
     outs:
     - path: metrics/eval.json
       hash: md5
-      md5: 312b142a0381a396435632a5ec67e569
+      md5: c749d3f015c445d07cdb5c2fc52c6afe
       size: 46
     - path: plots/confusion.csv
       hash: md5
-      md5: 1522b7ef86c20456e0be397c137a6640
-      size: 152177
+      md5: 22a54d67317971dd3caa4eb21228e3a2
+      size: 151888
     - path: plots/confusion.png
       hash: md5
-      md5: c627ff26433a2e6c29bf9967b9feeea6
-      size: 77795
+      md5: d4638c999de1bf1bd71554bb3c658750
+      size: 77607
     - path: plots/per_class.csv
       hash: md5
-      md5: 0e6015bc9a002489aa389b451df2825e
+      md5: 7104edc58eb6e6b873b1a9d05ea083d4
       size: 312
